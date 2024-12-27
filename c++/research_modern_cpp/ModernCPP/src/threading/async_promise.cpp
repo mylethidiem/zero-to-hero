@@ -2,6 +2,7 @@
 #include <future>
 #include <thread>
 #include <chrono>
+#include <numeric>
 
 // 7. Async/Future Example
 int calculateSum(const std::vector<int> &vec)

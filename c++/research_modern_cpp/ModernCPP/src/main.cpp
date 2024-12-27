@@ -55,46 +55,46 @@ int main()
 		// Call Pointer examples
 		break;
 	case 31:
-		basicThreadDemo();
+		//basicThreadDemo();
 		break;
 	case 32:
-		threadWithParams();
+		//threadWithParams();
 		break;
 	case 33:
-		mutexDemo();
+		//mutexDemo();
 		break;
 	case 34:
-		conditionVariableDemo();
+		//conditionVariableDemo();
 		break;
 	case 35:
-		threadPoolDemo();
+		//threadPoolDemo();
 		break;
 	case 36:
-		asyncDemo();
+		//asyncDemo();
 		break;
 	case 37:
-		promiseDemo();
+		//promiseDemo();
 		break;
 	case 4:
 		// Call Template examples
 		break;
 	case 5:
-		lambdaDemo();
+		//lambdaDemo();
 		break;
 	case 6:
-		constexprEnumDemo();
+		//constexprEnumDemo();
 		break;
 	case 7:
-		moveDemo();
+		//moveDemo();
 		break;
 	case 8:
-		containersAlgorithmsDemo();
+		//containersAlgorithmsDemo();
 		break;
 	case 9:
-		cpp17FeaturesDemo();
+		//cpp17FeaturesDemo();
 		break;
 	case 10:
-		conceptsDemo();
+		//conceptsDemo();
 		break;
 	default:
 		std::cout << "Invalid choice\n";
