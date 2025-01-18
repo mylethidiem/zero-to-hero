@@ -1,11 +1,6 @@
 **ProgramingTech_OOP**
 ======================================================================
 
-| **Branch**  | **Pipeline status**                                                                                                                  |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| master      | [![Build Status](https://travis-ci.com/banhmuy/ProgramingTech.svg?branch=master)](https://travis-ci.com/banhmuy/ProgramingTech)      |
-| development | [![Build Status](https://travis-ci.com/banhmuy/ProgramingTech.svg?branch=development)](https://travis-ci.com/banhmuy/ProgramingTech) |
-
 ## Table of content
   - [Introduction](#introduction)
   - [Usage](#usage)
@@ -24,16 +19,6 @@
 ## Introduction
 
 ## Usage
-### Prerequisites
-- Set up and tools required: Recommend install all tools in one path
-    * Oracle's JDK/OpenJDK
-	    * https://jdk.java.net/archive/
-    * Python 3:
-		* https://www.python.org/downloads/
-    * Android SDK:
-		* http://developer.android.com/sdk/index.html#Other
-    * Android NDK:
-		* https://developer.android.com/ndk/downloads
 
 ### Commit message convention
 
@@ -58,12 +43,11 @@ For this repository we suggest you to follow this convention:
 ### Power Shell
 1. https://docs.microsoft.com/en-us/powershell/
 ### Python
-1. https://www.learnpython.org/
+
 ## Contribution
 
 ## Others Learning Resources
-1. https://www.w3schools.com/
-2. https://codelearn.io
+
 
 
 ------------------------------------------------------------------
