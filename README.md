@@ -9,9 +9,8 @@
   - [Overview](#overview)
     - [C++](#c)
     - [Git](#git)
-    - [Machine Learning](#machine-learning)
-    - [Power Shell](#power-shell)
     - [Python](#python)
+    - [AI](#ai)
   - [Contribution](#contribution)
   - [Others Learning Resources](#others-learning-resources)
   - [Certificates](#certificates)
@@ -35,19 +34,23 @@ For this repository we suggest you to follow this convention:
 
 ## Overview
 ### C++
-1. https://cpp.daynhauhoc.com/
+- https://cpp.daynhauhoc.com/
 ### Git
-1. https://git-scm.com/book/en/v2
-### Machine Learning
-1. https://www.kaggle.com
-### Power Shell
-1. https://docs.microsoft.com/en-us/powershell/
+- https://git-scm.com/book/en/v2
 ### Python
+- Udemy: Python 3: Deep Dive from [Part 1](https://www.udemy.com/course/python-3-deep-dive-part-1) - [Part 4](https://www.udemy.com/course/python-3-deep-dive-part-4)
+### AI
+- AI VIET NAM: https://aivietnam.edu.vn/
+- Udemy: 
+
+### Practice: 
+- https://www.kaggle.com
+- https://www.deep-ml.com/
+- https://leetcode.com/
 
 ## Contribution
 
 ## Others Learning Resources
-
 
 
 ------------------------------------------------------------------
