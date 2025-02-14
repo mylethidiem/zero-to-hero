@@ -35,13 +35,18 @@ For this repository we suggest you to follow this convention:
 ## Overview
 ### C++
 - https://cpp.daynhauhoc.com/
+- Udemy
 ### Git
 - https://git-scm.com/book/en/v2
 ### Python
 - Udemy: Python 3: Deep Dive from [Part 1](https://www.udemy.com/course/python-3-deep-dive-part-1) - [Part 4](https://www.udemy.com/course/python-3-deep-dive-part-4)
 ### AI
 - AI VIET NAM: https://aivietnam.edu.vn/
-- Udemy: 
+- Udemy:
+- Coursera:
+- Aws
+- NVDIA
+- Kaggle
 
 ### Practice: 
 - https://www.kaggle.com
