@@ -1,0 +1,67 @@
+[safe]
+	directory = /mnt/c/Users/lethi/Documents/GitHub/zero-to-hero
+[my]
+	lethi = My Le
+[http]
+	postBuffer = 524288000
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+[core]
+#	editor = \"C:\\Users\\lethi\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin\\code-insiders\" --wait
+	longpaths = true
+	autocrlf = false
+#	excludesfile = C:\\Users\\lethi\\Documents\\gitignore_global.txt
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = false
+[alias]
+	graph = log --decorate --oneline --graph --abbrev-commit --format=format:'%C(bold yellow)%h%C(reset) %C(bold white)%<|(105,trunc)%s%C(reset) %C(bold dim green)%cL%C(reset) %C(bold magenta)(%ar %C(white)- %C(bold cyan)%cD)%C(reset) %C(auto)%d%C(reset) '
+	graphstat = log --decorate --oneline --graph --stat --abbrev-commit --format=format:'%C(bold yellow)%h%C(reset) %C(bold white)%s%C(reset) %C(bold dim green)%ce%C(reset) %C(bold magenta)(%ar %C(white)- %C(bold cyan)%cD)%C(reset)%C(auto)%d%C(reset) '
+	graph10= log -10 HEAD --decorate --oneline --graph --abbrev-commit --format=format:'%C(bold yellow)%h%C(reset) %C(bold white)%<|(105,trunc)%s%C(reset) %C(bold dim green)%cL%C(reset) %C(bold magenta)(%ar %C(white)- %C(bold cyan)%cD)%C(reset) %C(auto)%d%C(reset)'
+	graphstat10= log -5 HEAD --decorate --oneline --graph --stat --abbrev-commit --format=format:'%C(bold yellow)%h%C(reset) %C(bold white)%s%C(reset) %C(bold dim green)%ce%C(reset) %C(bold magenta)(%ar %C(white)- %C(bold cyan)%cD)%C(reset)%C(auto)%d%C(reset)'
+	branchref = for-each-ref --format='%(color:bold red)%03 %04 %05 %06 %10 %(color:bold green)%(authordate:format:%D %I:%M %p)    %(align:30,left)%(color:bold magenta)%(creatordate:relative)%(end) %(align:30,left)%(color:bold yellow)%(authorname)%(end) %09 %(color:bold cyan)%(refname:strip=3)' --sort=authordate refs/remotes
+	tagref = for-each-ref --format='%(color:bold red)%03 %04 %05 %06 %10 %(color:bold green)%(creatordate:format:%D %I:%M %p)    %(align:30,left)%(color:bold magenta)%(creatordate:relative)%(end) %(align:30,left)%(color:bold yellow)%(creator)%(end) %(align:30,left)%(color:bold cyan)%(refname)%(end)' --sort=creatordate refs/tags
+
+	graphshort = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) %C(bold green)%ai%C(reset)%C(bold yellow)%d%C(reset) %C(white)%s%C(reset) %C(magenta)%an%C(reset)'
+	log10 = log -10 HEAD --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) %C(bold green)%ai%C(reset)%C(bold yellow)%d%C(reset) %C(white)%s%C(reset) %C(magenta)%an%C(reset)'
+	log10first = log -10 HEAD --first-parent --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) %C(bold green)%ai%C(reset)%C(bold yellow)%d%C(reset) %C(white)%s%C(reset) %C(magenta)%an%C(reset)'
+
+	remoteupdate = !git remote update origin --prune && git branch -a
+	branchadetail = "! for branch in `git branch -r | grep -v HEAD`;do echo $branch __________ `git show --format=\" [%ar] __________ by %an <%ae>\" $branch | head -n 1` ; done | sort -r"
+
+	unstage = reset HEAD --
+	external = config --file .gitmodules --get-regexp path
+	cleanup = !git clean -ffd &&  git rm --cached -r . && git reset --hard HEAD && git rm .gitattributes && git reset . && git checkout .  && git submodule deinit -f --all && git submodule update --init --recursive
+#	git clean -xfd
+#	git clean -ffdx
+#	git submodule foreach --recursive git clean -xfd
+#	git submodule foreach --recursive git clean -ffdx
+#	git clean -xfdf | sed 's/Removing /\.git\/modules\//' |xargs rm -rf
+#	git submodule foreach --recursive git reset --hard
+
+#	git reset --hard
+#	git restore . --recurse-submodules
+#	git submodule  foreach --recursive git update --init --recursive
+
+	pullfull = !git pull && git submodule update --init --recursive
+	pullsubmodule = submodule update --init --recursive
+	clonefull = clone --recursive
+
+	patch = diff --no-prefix --ignore-space-at-eol --ignore-cr-at-eol
+	patch1 = diff --no-prefix --ignore-space-at-eol --ignore-cr-at-eol HEAD~1 HEAD~0
+	patch2 = diff --no-prefix --ignore-space-at-eol --ignore-cr-at-eol --ignore-submodules=all HEAD~1 HEAD~0 ":!.git*" ":!*/CI_*" ":!*.aar" ":!*.jar" ":!*.so" ":!*.png"
+	patch3 = !git diff -b --no-prefix --ignore-space-at-eol --ignore-cr-at-eol --ignore-submodules=all HEAD~1 HEAD~0 ":!.git*" ":!*/CI_*" ":!*.aar" ":!*.jar" ":!*.so" ":!*.png"
+
+	showalias = config --show-origin --get-regexp alias
+[user]
+	email = lethidiemmy961996@gmail.com
+	name = mylethidiem
+[credential]
+	helper = store
