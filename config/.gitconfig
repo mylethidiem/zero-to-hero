@@ -10,17 +10,15 @@
 	required = true
 	clean = git-lfs clean -- %f
 [core]
-	editor = \"C:\\Users\\lethi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+	editor = \"C:\\Users\\lethi\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin\\code-insiders\" --wait
 	longpaths = true
 	autocrlf = false
-[user]
-	name = L M
-	email = m@mai.com
+	excludesfile = C:\\Users\\lethi\\Documents\\gitignore_global.txt
 [difftool "sourcetree"]
-	cmd = '' \"$LOCAL\" \"$REMOTE\"
+	cmd = "'' "
 [mergetool "sourcetree"]
 	cmd = "'' "
-	trustExitCode = true
+	trustExitCode = false
 [alias]
 	graph = log --decorate --oneline --graph --abbrev-commit --format=format:'%C(bold yellow)%h%C(reset) %C(bold white)%<|(105,trunc)%s%C(reset) %C(bold dim green)%cL%C(reset) %C(bold magenta)(%ar %C(white)- %C(bold cyan)%cD)%C(reset) %C(auto)%d%C(reset) '
 	graphstat = log --decorate --oneline --graph --stat --abbrev-commit --format=format:'%C(bold yellow)%h%C(reset) %C(bold white)%s%C(reset) %C(bold dim green)%ce%C(reset) %C(bold magenta)(%ar %C(white)- %C(bold cyan)%cD)%C(reset)%C(auto)%d%C(reset) '
@@ -60,3 +58,6 @@
 	patch3 = !git diff -b --no-prefix --ignore-space-at-eol --ignore-cr-at-eol --ignore-submodules=all HEAD~1 HEAD~0 ":!.git*" ":!*/CI_*" ":!*.aar" ":!*.jar" ":!*.so" ":!*.png"
 
 	showalias = config --show-origin --get-regexp alias
+[user]
+	email = lethidiemmy961996@gmail.com
+	name = My Le Thi Diem
