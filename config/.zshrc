@@ -1,18 +1,12 @@
-# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
-# Initialization code that may require console input (password prompts, [y/n]
-# confirmations, etc.) must go above this block; everything else may go below.
-if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
-  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
-fi
 
 # If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
+# export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 
-# Path to your oh-my-zsh installation.
+# Path to your Oh My Zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
-# load a random theme each time oh-my-zsh is loaded, in which case,
+# load a random theme each time Oh My Zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="powerlevel10k/powerlevel10k"
@@ -78,7 +72,16 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(
+	git
+	docker
+	docker-compose
+	history
+	rsync
+	safe-paste
+)
+
+plugins=(git zsh-autosuggestions)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -93,22 +96,102 @@ source $ZSH/oh-my-zsh.sh
 # if [[ -n $SSH_CONNECTION ]]; then
 #   export EDITOR='vim'
 # else
-#   export EDITOR='mvim'
+#   export EDITOR='nvim'
 # fi
 
 # Compilation flags
-# export ARCHFLAGS="-arch x86_64"
+# export ARCHFLAGS="-arch $(uname -m)"
 
-# Set personal aliases, overriding those provided by oh-my-zsh libs,
-# plugins, and themes. Aliases can be placed here, though oh-my-zsh
-# users are encouraged to define aliases within the ZSH_CUSTOM folder.
+# Set personal aliases, overriding those provided by Oh My Zsh libs,
+# plugins, and themes. Aliases can be placed here, though Oh My Zsh
+# users are encouraged to define aliases within a top-level file in
+# the $ZSH_CUSTOM folder, with .zsh extension. Examples:
+# - $ZSH_CUSTOM/aliases.zsh
+# - $ZSH_CUSTOM/macos.zsh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+# --- Navigation ---
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+alias ~="cd ~" # Go back to home directory
+
+# --- File Listing (uses lsd or exa if installed, otherwise ls) ---
+# Option 1: Using default 'ls'
+alias l='ls -lFh'     # Detailed, human-readable, classified file list
+alias la='ls -AlFh'    # List all files (including hidden files)
+alias ll='ls -l'
+alias lt='ls -ltFh'    # Sort by last modification time
+
+# Option 2: If you have 'exa' installed (a modern replacement for ls)
+# alias ls='exa'
+# alias l='exa -lFh --git'
+# alias la='exa -AlFh --git'
+# alias ll='exa -l'
+# alias lt='exa -ltFh --git'
+
+# --- File/Directory Operations ---
+alias md='mkdir -p' # Create parent directories if they don't exist
+alias rd=rmdir
+
+# --- Searching ---
+alias f='find . -name' # Example: f "package.json"
+alias grep='grep --color=auto' # Always colorize grep results
+
+# --- Git ---
+alias g='git'
+alias ga='git add'
+alias gaa='git add -A' # Add all changes
+alias gap='git add -p' # Add changes interactively
+alias gb='git branch'
+alias gc='git commit -v'
+alias gcm='git commit -m'
+alias gco='git checkout'
+alias gcb='git checkout -b' # Create and switch to a new branch
+alias gd='git diff'
+alias gds='git diff --staged' # View staged changes
+alias gf='git fetch'
+alias gl='git pull'
+alias gp='git push'
+alias gpf='git push --force-with-lease' # A safer force push than 'git push --force'
+alias glog="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit" # A prettier and clearer log
+alias gs='git status -sb' # Short status (s = short, b = branch)
+alias gst='git stash'
+alias gstp='git stash pop'
+
+# --- System Management ---
+alias update='sudo apt update && sudo apt upgrade -y' # Update system (example for Ubuntu/Debian)
+
+# --- Process Management ---
+alias top='htop' # Use htop if installed, it's much better than top
+alias psg="ps aux | grep -v grep | grep -i -e VSZ -e" # Search for a process
+
+# --- Networking ---
+alias ipa='ip -c a' # Display colored IP addresses
+alias myip='curl ifconfig.me' # Get public IP address
+
+# --- Cleanup ---
+alias cls='clear' # Like the 'cls' command on Windows
+
+# --- Quick Open ---
+alias edit='code' # Replace 'code' with your editor of choice, e.g., 'nvim', 'subl'
+alias zshconfig='code ~/.zshrc' # Open Zsh config file with VS Code
+alias reload='source ~/.zshrc' # Reload zsh config
+
+# --- Current Path ---
+alias p='pwd | tr -d "\n" | pbcopy' # Copy current path to clipboard (requires pbcopy on macOS, or xclip on Linux)
+
+# --- Protection from silly mistakes ---
+alias rm='rm -i'       # Ask before deleting
+alias cp='cp -i'       # Ask before overwriting
+alias mv='mv -i'       # Ask before overwriting
+
+# --- History ---
+alias h='history'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
