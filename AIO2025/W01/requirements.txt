@@ -105,7 +105,7 @@ sympy @ file:///croot/sympy_1738108488918/work
 terminado @ file:///work/ci_py311/terminado_1677696151350/work
 threadpoolctl @ file:///croot/threadpoolctl_1719407800858/work
 tinycss2 @ file:///croot/tinycss2_1738337643607/work
-torch==2.5.1
+torch==2.7.1
 torchaudio==2.5.1
 torchvision==0.20.1
 tornado @ file:///croot/tornado_1748956929273/work
