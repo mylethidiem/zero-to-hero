@@ -1,0 +1,918 @@
+Doc No,Tran Type,Customer ID,Class,OrderDate,ShipDate,Terms,Ship Method,Line No,Item,Ordered,Shipped,BackOrder,BackOrder2,PricePer,Status,SalesRepID,CustomerType,DiscountAmount,SOAmount,SOPaymentAmount,Available,InvoiceNo
+33101,Sales Order,6196,Retail:Online,5/8/2028,5/12/2028,Paypal,Free Shipping,1,RCJ0102-34WILD,1,1,0,0,40,Closed,45,Retail,9.8,88.2,88.2,0,45808
+33101,Sales Order,6196,Retail:Online,5/8/2028,5/12/2028,Paypal,Free Shipping,2,RVRS-1701,1,1,0,0,58,Closed,45,Retail,9.8,88.2,88.2,2,45808
+33101,Sales Order,6196,Retail:Online,5/8/2028,5/12/2028,Paypal,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,9.8,88.2,88.2,0,45808
+33102,Sales Order,6197,Retail:Online,5/8/2028,5/12/2028,Paypal,USPS Priority,1,DAC0120-0015,1,1,0,0,6.75,Closed,45,Retail,0,13.8,13.8,0,45790
+33102,Sales Order,6197,Retail:Online,5/8/2028,5/12/2028,Paypal,USPS Priority,2,Shipping & Handling,1,1,0,0,7.05,Closed,45,Retail,0,13.8,13.8,0,45790
+33103,Sales Order,6198,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,1,ROD0001-0002,1,1,0,0,31.5,Closed,45,Retail,0,38.55,38.55,-3,45894
+33103,Sales Order,6198,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.05,Closed,45,Retail,0,38.55,38.55,0,45894
+33104,Sales Order,6199,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,3,BAA0001,1,0,0,0,10,Closed,45,Retail,0,43.05,38.05,0,45805
+33104,Sales Order,6199,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,1,DAC0160-0002,1,1,0,0,26,Closed,45,Retail,0,43.05,38.05,7,45805
+33104,Sales Order,6199,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.05,Closed,45,Retail,0,43.05,38.05,0,45805
+33105,Sales Order,6200,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,4,BAA0001,1,1,0,0,10,Closed,45,Retail,0,75.25,75.25,0,45877
+33105,Sales Order,6200,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,2,DAC0101-0002,1,1,0,0,33.75,Closed,45,Retail,0,75.25,75.25,28,45877
+33105,Sales Order,6200,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,1,ROD0001-0002,1,1,0,0,31.5,Closed,45,Retail,0,75.25,75.25,-3,45877
+33105,Sales Order,6200,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,75.25,75.25,0,45877
+33106,Sales Order,6201,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,57.45,57.45,0,45841
+33106,Sales Order,6201,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,1,TBK0030-0005-WP,1,1,0,0,40.5,Closed,45,Retail,0,57.45,57.45,2,45841
+33106,Sales Order,6201,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,6.95,Closed,45,Retail,0,57.45,57.45,0,45841
+33107,Sales Order,6202,Retail:Online,5/8/2028,5/12/2028,Paypal,Free Shipping,4,BAA0001,1,1,0,0,10,Closed,45,Retail,0,80,80,0,45831
+33107,Sales Order,6202,Retail:Online,5/8/2028,5/12/2028,Paypal,Free Shipping,1,TBK0172-0015,1,1,0,0,45,Closed,45,Retail,0,80,80,0,45831
+33107,Sales Order,6202,Retail:Online,5/8/2028,5/12/2028,Paypal,Free Shipping,2,BRS-0005,2,2,0,0,12.5,Closed,45,Retail,0,80,80,5552.69,45831
+33107,Sales Order,6202,Retail:Online,5/8/2028,5/12/2028,Paypal,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,80,80,0,45831
+33108,Sales Order,6203,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,1,TBK0061-0156,1,1,0,0,71,Closed,45,Retail,0,78.75,78.75,0,45840
+33108,Sales Order,6203,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.75,Closed,45,Retail,0,78.75,78.75,0,45840
+33109,Sales Order,6204,Retail:Online,5/8/2028,5/12/2028,Paypal,USPS Priority,1,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,16,7.3,7.3,47,45788
+33109,Sales Order,6204,Retail:Online,5/8/2028,5/12/2028,Paypal,USPS Priority,2,DAC0741-0004,1,1,0,0,8,Closed,45,Retail,16,7.3,7.3,78,45788
+33109,Sales Order,6204,Retail:Online,5/8/2028,5/12/2028,Paypal,USPS Priority,3,Shipping & Handling,1,1,0,0,7.3,Closed,45,Retail,16,7.3,7.3,0,45788
+33110,Sales Order,6205,Retail:Online,5/8/2028,5/12/2028,Paypal,USPS Priority,1,ROD0001-0014,1,1,0,0,31.5,Closed,45,Retail,0,38.45,38.45,0,45833
+33110,Sales Order,6205,Retail:Online,5/8/2028,5/12/2028,Paypal,USPS Priority,2,Shipping & Handling,1,1,0,0,6.95,Closed,45,Retail,0,38.45,38.45,0,45833
+33111,Sales Order,6206,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,1,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,82.15,82.15,47,45919
+33111,Sales Order,6206,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,2,ROD0100-0202,1,1,0,0,69.75,Closed,45,Retail,8,82.15,82.15,1,45919
+33111,Sales Order,6206,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,3,Shipping & Handling,1,1,0,0,12.4,Closed,45,Retail,8,82.15,82.15,0,45919
+33112,Sales Order,6207,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,1,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,61.1,61.1,47,45839
+33112,Sales Order,6207,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,2,TBK0201-0151,1,1,0,0,41.75,Closed,45,Retail,8,61.1,61.1,0,45839
+33112,Sales Order,6207,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,3,BRS-0003,1,1,0,0,8,Closed,45,Retail,8,61.1,61.1,4701,45839
+33112,Sales Order,6207,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,4,Shipping & Handling,1,1,0,0,11.35,Closed,45,Retail,8,61.1,61.1,0,45839
+33113,Sales Order,6208,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,2,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,67.5,67.5,47,45794
+33113,Sales Order,6208,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,1,TBK0050-0001-BK,1,1,0,0,67.5,Closed,45,Retail,8,67.5,67.5,0,45794
+33113,Sales Order,6208,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,8,67.5,67.5,0,45794
+33114,Sales Order,6209,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,49.35,49.35,0,45908
+33114,Sales Order,6209,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,1,ROD0001-0002,1,1,0,0,31.5,Closed,45,Retail,0,49.35,49.35,-3,45908
+33114,Sales Order,6209,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.85,Closed,45,Retail,0,49.35,49.35,0,45908
+33115,Sales Order,6210,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,6,BAA0001,1,1,0,0,10,Closed,45,Retail,18.04,82.34,82.34,0,45853
+33115,Sales Order,6210,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,7,BAA0012,2,2,0,0,5,Closed,45,Retail,18.04,82.34,82.34,0,45853
+33115,Sales Order,6210,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,2,DAC0741-0015,1,1,0,0,8,Closed,45,Retail,18.04,82.34,82.34,75,45853
+33115,Sales Order,6210,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,4,RVRR-1302,1,1,0,0,25,Closed,45,Retail,18.04,82.34,82.34,1,45853
+33115,Sales Order,6210,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,1,TBK0200-0015-DG,1,1,0,0,39.38,Closed,45,Retail,18.04,82.34,82.34,0,45853
+33115,Sales Order,6210,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,3,BRS-0004,1,1,0,0,8,Closed,45,Retail,18.04,82.34,82.34,-47,45853
+33115,Sales Order,6210,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,5,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,18.04,82.34,82.34,0,45853
+33116,Sales Order,6779,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,1,DAC0741-0001,1,1,0,0,8,Closed,45,Retail,8,52.4,52.4,61,45806
+33116,Sales Order,6779,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,2,RCJ0102-34WILD,1,1,0,0,40,Closed,45,Retail,8,52.4,52.4,0,45806
+33116,Sales Order,6779,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,3,Shipping & Handling,1,1,0,0,12.4,Closed,45,Retail,8,52.4,52.4,0,45806
+33117,Sales Order,6211,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,3,RVRF-1331,1,1,0,0,55,Closed,45,Retail,11.25,101.25,101.25,5,45907
+33117,Sales Order,6211,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,1,TBK0172-0002-DG,1,1,0,0,45,Closed,45,Retail,11.25,101.25,101.25,-1,45907
+33117,Sales Order,6211,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,2,BRS-0006,1,1,0,0,12.5,Closed,45,Retail,11.25,101.25,101.25,3745,45907
+33117,Sales Order,6211,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,4,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,11.25,101.25,101.25,0,45907
+33118,Sales Order,6212,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,1,TBK0205-0001-HS,1,1,0,0,55.13,Closed,45,Retail,0,66.48,66.48,0,45813
+33118,Sales Order,6212,Retail:Online,5/8/2028,5/12/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,11.35,Closed,45,Retail,0,66.48,66.48,0,45813
+33119,Sales Order,5830,Retail:Online,5/8/2028,5/12/2028,Paypal,USPS Priority,1,TBK0040-0001-BK,1,1,0,0,54,Closed,45,Retail,0,61.85,61.85,50,45807
+33119,Sales Order,5830,Retail:Online,5/8/2028,5/12/2028,Paypal,USPS Priority,2,Shipping & Handling,1,1,0,0,7.85,Closed,45,Retail,0,61.85,61.85,0,45807
+33120,Sales Order,6213,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,133.75,133.75,0,45901
+33120,Sales Order,6213,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,1,ROF0030-0202,1,1,0,0,123.75,Closed,45,Retail,0,133.75,133.75,-2,45901
+33120,Sales Order,6213,Retail:Online,5/8/2028,5/12/2028,Credit Card,Free Shipping,2,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,133.75,133.75,0,45901
+33121,Sales Order,6214,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,1,TBK0241-0002,1,1,0,0,31.5,Closed,45,Retail,0,39.35,39.35,0,45890
+33121,Sales Order,6214,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.85,Closed,45,Retail,0,39.35,39.35,0,45890
+33122,Sales Order,6215,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,2,DAC0741-0003,1,1,0,0,8,Closed,45,Retail,8,67.5,67.5,80,45844
+33122,Sales Order,6215,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,1,TBK0060-0003,1,1,0,0,67.5,Closed,45,Retail,8,67.5,67.5,10,45844
+33122,Sales Order,6215,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,8,67.5,67.5,0,45844
+33123,Sales Order,6216,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,62.85,62.85,0,45892
+33123,Sales Order,6216,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,1,TBK0172-0002,1,1,0,0,45,Closed,45,Retail,0,62.85,62.85,-1,45892
+33123,Sales Order,6216,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.85,Closed,45,Retail,0,62.85,62.85,0,45892
+33124,Sales Order,6217,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,4,BAA0001,2,2,0,0,10,Closed,45,Retail,0,70.55,70.55,0,45912
+33124,Sales Order,6217,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,1,TBK0216-0002,1,1,0,0,33.75,Closed,45,Retail,0,70.55,70.55,2,45912
+33124,Sales Order,6217,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,2,BRS-0009,1,1,0,0,9.75,Closed,45,Retail,0,70.55,70.55,1096,45912
+33124,Sales Order,6217,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,3,Shipping & Handling,1,1,0,0,7.05,Closed,45,Retail,0,70.55,70.55,0,45912
+33125,Sales Order,6218,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,57.8,57.8,0,45915
+33125,Sales Order,6218,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,1,TBK0030-0002-BK,1,1,0,0,40.5,Closed,45,Retail,0,57.8,57.8,0,45915
+33125,Sales Order,6218,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.3,Closed,45,Retail,0,57.8,57.8,0,45915
+33126,Sales Order,6219,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,3,BAA0001,2,2,0,0,10,Closed,45,Retail,0,85.25,85.25,0,45854
+33126,Sales Order,6219,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,1,ROF0050-0101,1,1,0,0,65.25,Closed,45,Retail,0,85.25,85.25,2,45854
+33126,Sales Order,6219,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,2,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,85.25,85.25,0,45854
+33127,Sales Order,6220,Retail:Online,5/9/2028,5/13/2028,Credit Card,UPS 2nd Day,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,84.99,84.99,0,45828
+33127,Sales Order,6220,Retail:Online,5/9/2028,5/13/2028,Credit Card,UPS 2nd Day,1,TBK0172-0001,1,1,0,0,45,Closed,45,Retail,0,84.99,84.99,7,45828
+33127,Sales Order,6220,Retail:Online,5/9/2028,5/13/2028,Credit Card,UPS 2nd Day,2,Shipping & Handling,1,1,0,0,29.99,Closed,45,Retail,0,84.99,84.99,0,45828
+33128,Sales Order,6221,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,2,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,47.13,47.13,47,45812
+33128,Sales Order,6221,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,3,TBK0210-0002,1,1,0,0,25.88,Closed,45,Retail,8,47.13,47.13,0,45812
+33128,Sales Order,6221,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,1,BRS-0008,2,2,0,0,5.5,Closed,45,Retail,8,47.13,47.13,0,45812
+33128,Sales Order,6221,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,4,Shipping & Handling,1,1,0,0,10.25,Closed,45,Retail,8,47.13,47.13,0,45812
+33129,Sales Order,6222,Retail:Online,5/9/2028,5/13/2028,Paypal,USPS Priority,4,BAA0001,1,1,0,0,10,Closed,45,Retail,8,91.95,91.95,0,45968
+33129,Sales Order,6222,Retail:Online,5/9/2028,5/13/2028,Paypal,USPS Priority,5,BAA0012,1,1,0,0,5,Closed,45,Retail,8,91.95,91.95,0,45968
+33129,Sales Order,6222,Retail:Online,5/9/2028,5/13/2028,Paypal,USPS Priority,1,DAC0741-0004,1,1,0,0,8,Closed,45,Retail,8,91.95,91.95,78,45968
+33129,Sales Order,6222,Retail:Online,5/9/2028,5/13/2028,Paypal,USPS Priority,2,TBK0060-0002,1,1,0,0,67.5,Closed,45,Retail,8,91.95,91.95,-2,45968
+33129,Sales Order,6222,Retail:Online,5/9/2028,5/13/2028,Paypal,USPS Priority,3,Shipping & Handling,1,1,0,0,9.45,Closed,45,Retail,8,91.95,91.95,0,45968
+33130,Sales Order,6223,Retail:Online,5/9/2028,5/13/2028,Paypal,USPS Priority,1,ROD0001-0002,1,1,0,0,31.5,Closed,45,Retail,0,38.35,38.35,-3,45966
+33130,Sales Order,6223,Retail:Online,5/9/2028,5/13/2028,Paypal,USPS Priority,2,Shipping & Handling,1,1,0,0,6.85,Closed,45,Retail,0,38.35,38.35,0,45966
+33131,Sales Order,6224,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,61.85,61.85,0,45868
+33131,Sales Order,6224,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,1,TBK0172-0004,1,1,0,0,45,Closed,45,Retail,0,61.85,61.85,0,45868
+33131,Sales Order,6224,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,6.85,Closed,45,Retail,0,61.85,61.85,0,45868
+33132,Sales Order,6225,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,1,TBK0205-0014-HS-DG,1,1,0,0,55.13,Closed,45,Retail,0,62.88,62.88,0,45843
+33132,Sales Order,6225,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.75,Closed,45,Retail,0,62.88,62.88,0,45843
+33133,Sales Order,6226,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,4,BAA0001,1,1,0,0,10,Closed,45,Retail,8,82.5,82.5,0,45976
+33133,Sales Order,6226,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,5,BAA0012,1,1,0,0,5,Closed,45,Retail,8,82.5,82.5,0,45976
+33133,Sales Order,6226,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,2,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,82.5,82.5,47,45976
+33133,Sales Order,6226,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,1,TBK0050-0001-WP,1,1,0,0,67.5,Closed,45,Retail,8,82.5,82.5,60,45976
+33133,Sales Order,6226,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,8,82.5,82.5,0,45976
+33134,Sales Order,6227,Retail:Online,5/9/2028,5/13/2028,Paypal,Free Shipping,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,77.5,77.5,0,45830
+33134,Sales Order,6227,Retail:Online,5/9/2028,5/13/2028,Paypal,Free Shipping,1,TBK0060-0004,1,1,0,0,67.5,Closed,45,Retail,0,77.5,77.5,0,45830
+33134,Sales Order,6227,Retail:Online,5/9/2028,5/13/2028,Paypal,Free Shipping,2,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,77.5,77.5,0,45830
+33135,Sales Order,4993,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,3,DAC0050-0101,1,1,0,0,22.5,Closed,45,Promotional,0,94,94,1,45866
+33135,Sales Order,4993,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,4,RPF102,1,1,0,0,14,Closed,45,Promotional,0,94,94,13,45866
+33135,Sales Order,4993,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,1,TBK0172-0001,1,1,0,0,45,Closed,45,Promotional,0,94,94,7,45866
+33135,Sales Order,4993,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,2,BRS-0005,1,1,0,0,12.5,Closed,45,Promotional,0,94,94,5552.69,45866
+33135,Sales Order,4993,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,5,Shipping & Handling,1,1,0,0,0,Closed,45,Promotional,0,94,94,0,45866
+33136,Sales Order,6228,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,1,TBK0170-0004,1,1,0,0,35,Closed,45,Retail,0,45.25,45.25,1,45980
+33136,Sales Order,6228,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,10.25,Closed,45,Retail,0,45.25,45.25,0,45980
+33137,Sales Order,6229,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,78,78,0,45916
+33137,Sales Order,6229,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,4,BAA0012,1,1,0,0,5,Closed,45,Retail,0,78,78,0,45916
+33137,Sales Order,6229,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,1,RPH0020-0002-WP,1,1,0,0,63,Closed,45,Retail,0,78,78,0,45916
+33137,Sales Order,6229,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,2,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,78,78,0,45916
+33138,Sales Order,6230,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,5,BAA0001,1,1,0,0,10,Closed,45,Retail,8,67.5,67.5,0,45971
+33138,Sales Order,6230,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,3,DAC0741-0001,1,1,0,0,8,Closed,45,Retail,8,67.5,67.5,61,45971
+33138,Sales Order,6230,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,1,TBK0172-0002,1,1,0,0,45,Closed,45,Retail,8,67.5,67.5,-1,45971
+33138,Sales Order,6230,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,2,BRS-0005,1,1,0,0,12.5,Closed,45,Retail,8,67.5,67.5,5552.69,45971
+33138,Sales Order,6230,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,4,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,8,67.5,67.5,0,45971
+33139,Sales Order,6231,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,3,BAA0001,2,2,0,0,10,Closed,45,Retail,0,93,93,0,45895
+33139,Sales Order,6231,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,1,ROF0050-0202,1,1,0,0,65.25,Closed,45,Retail,0,93,93,0,45895
+33139,Sales Order,6231,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.75,Closed,45,Retail,0,93,93,0,45895
+33140,Sales Order,6232,Retail:Online,5/9/2028,5/13/2028,Paypal,Free Shipping,4,BAA0001,2,2,0,0,10,Closed,45,Retail,0,92,92,0,45965
+33140,Sales Order,6232,Retail:Online,5/9/2028,5/13/2028,Paypal,Free Shipping,2,DAC0108-0001,1,1,0,0,33.75,Closed,45,Retail,0,92,92,1,45965
+33140,Sales Order,6232,Retail:Online,5/9/2028,5/13/2028,Paypal,Free Shipping,1,ROD0010-0001,1,1,0,0,38.25,Closed,45,Retail,0,92,92,91,45965
+33140,Sales Order,6232,Retail:Online,5/9/2028,5/13/2028,Paypal,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,92,92,0,45965
+33141,Sales Order,1979,Employee,5/9/2028,5/9/2028,Credit Card,Pick Up,1,ROF0031-0001,1,1,0,0,10.83,Closed,7,Retail,0,10.83,10.83,9,
+33142,Sales Order,3037,Dropship,5/9/2028,5/16/2028,Net 30,USPS Priority,2,BAA0001,1,1,0,0,8,Closed,7,Dropship,0,58.95,0,0,45969
+33142,Sales Order,3037,Dropship,5/9/2028,5/16/2028,Net 30,USPS Priority,3,BAA0001,1,1,0,0,0,Closed,7,Dropship,0,58.95,0,0,45969
+33142,Sales Order,3037,Dropship,5/9/2028,5/16/2028,Net 30,USPS Priority,1,TBK0080-0002,1,1,0,0,45,Closed,7,Dropship,0,58.95,0,0,45969
+33142,Sales Order,3037,Dropship,5/9/2028,5/16/2028,Net 30,USPS Priority,4,Drop Ship Charge,1,1,0,0,5.95,Closed,7,Dropship,0,58.95,0,0,45969
+33143,Sales Order,3444,Promotional,5/9/2028,5/11/2028,Credit Card,UPS Ground,8,DAC0131-0001,1,1,0,0,4.16,Closed,37,Promotional,0,279.76,0,6,45848
+33143,Sales Order,3444,Promotional,5/9/2028,5/11/2028,Credit Card,UPS Ground,9,DAC0131-0002,1,1,0,0,4.16,Closed,37,Promotional,0,279.76,0,0,45848
+33143,Sales Order,3444,Promotional,5/9/2028,5/11/2028,Credit Card,UPS Ground,7,DAC0131-0003,1,1,0,0,4.16,Closed,37,Promotional,0,279.76,0,8,45848
+33143,Sales Order,3444,Promotional,5/9/2028,5/11/2028,Credit Card,UPS Ground,10,DAC0131-0014,1,1,0,0,4.16,Closed,37,Promotional,0,279.76,0,1,45848
+33143,Sales Order,3444,Promotional,5/9/2028,5/11/2028,Credit Card,UPS Ground,12,DAC0132-0001,1,1,0,0,4.16,Closed,37,Promotional,0,279.76,0,8,45848
+33143,Sales Order,3444,Promotional,5/9/2028,5/11/2028,Credit Card,UPS Ground,13,DAC0132-0002,1,1,0,0,4.16,Closed,37,Promotional,0,279.76,0,0,45848
+33143,Sales Order,3444,Promotional,5/9/2028,5/11/2028,Credit Card,UPS Ground,11,DAC0132-0003,1,1,0,0,4.16,Closed,37,Promotional,0,279.76,0,25,45848
+33143,Sales Order,3444,Promotional,5/9/2028,5/11/2028,Credit Card,UPS Ground,14,DAC0132-0014,1,1,0,0,4.16,Closed,37,Promotional,0,279.76,0,0,45848
+33143,Sales Order,3444,Promotional,5/9/2028,5/11/2028,Credit Card,UPS Ground,4,DAC0133-0001,1,1,0,0,8.32,Closed,37,Promotional,0,279.76,0,2,45848
+33143,Sales Order,3444,Promotional,5/9/2028,5/11/2028,Credit Card,UPS Ground,5,DAC0133-0002,1,1,0,0,8.32,Closed,37,Promotional,0,279.76,0,80,45848
+33143,Sales Order,3444,Promotional,5/9/2028,5/11/2028,Credit Card,UPS Ground,3,DAC0133-0003,1,1,0,0,8.32,Closed,37,Promotional,0,279.76,0,0,45848
+33143,Sales Order,3444,Promotional,5/9/2028,5/11/2028,Credit Card,UPS Ground,6,DAC0133-0014,1,1,0,0,8.32,Closed,37,Promotional,0,279.76,0,1,45848
+33143,Sales Order,3444,Promotional,5/9/2028,5/11/2028,Credit Card,UPS Ground,2,DAC0201-0262,1,1,0,0,93.6,Closed,37,Promotional,0,279.76,0,0,45848
+33143,Sales Order,3444,Promotional,5/9/2028,5/11/2028,Credit Card,UPS Ground,1,DAC0211-0262,1,1,0,0,119.6,Closed,37,Promotional,0,279.76,0,2,45848
+33144,Sales Order,4135,Tradeshow/Promo,5/9/2028,5/10/2028,Samples,Hand Delivered,11,DAC0171-0001,2,0,2,2,6.6,OPEN,45,Tradeshow/Promo,0,1580.1,0,0,
+33144,Sales Order,4135,Tradeshow/Promo,5/9/2028,5/10/2028,Samples,Hand Delivered,10,DAC0171-0004,2,0,2,2,6.6,OPEN,45,Tradeshow/Promo,0,1580.1,0,0,
+33144,Sales Order,4135,Tradeshow/Promo,5/9/2028,5/10/2028,Samples,Hand Delivered,9,DAC0171-0005,1,0,1,1,6.6,OPEN,45,Tradeshow/Promo,0,1580.1,0,0,
+33144,Sales Order,4135,Tradeshow/Promo,5/9/2028,5/10/2028,Samples,Hand Delivered,8,DAC0171-0014,1,0,1,1,6.6,OPEN,45,Tradeshow/Promo,0,1580.1,0,0,
+33144,Sales Order,4135,Tradeshow/Promo,5/9/2028,5/10/2028,Samples,Hand Delivered,12,DAC0175-0016,1,0,1,1,32,OPEN,45,Tradeshow/Promo,0,1580.1,0,0,
+33144,Sales Order,4135,Tradeshow/Promo,5/9/2028,5/10/2028,Samples,Hand Delivered,1,DAC0741-0001,37,0,37,37,6,OPEN,45,Tradeshow/Promo,0,1580.1,0,61,
+33144,Sales Order,4135,Tradeshow/Promo,5/9/2028,5/10/2028,Samples,Hand Delivered,2,DAC0741-0002,36,0,36,36,6,OPEN,45,Tradeshow/Promo,0,1580.1,0,47,
+33144,Sales Order,4135,Tradeshow/Promo,5/9/2028,5/10/2028,Samples,Hand Delivered,3,DAC0741-0003,36,0,36,36,6,OPEN,45,Tradeshow/Promo,0,1580.1,0,80,
+33144,Sales Order,4135,Tradeshow/Promo,5/9/2028,5/10/2028,Samples,Hand Delivered,4,DAC0741-0004,36,0,36,36,6,OPEN,45,Tradeshow/Promo,0,1580.1,0,78,
+33144,Sales Order,4135,Tradeshow/Promo,5/9/2028,5/10/2028,Samples,Hand Delivered,5,DAC0741-0005,36,0,36,36,6,OPEN,45,Tradeshow/Promo,0,1580.1,0,84,
+33144,Sales Order,4135,Tradeshow/Promo,5/9/2028,5/10/2028,Samples,Hand Delivered,6,DAC0741-0014,36,0,36,36,6,OPEN,45,Tradeshow/Promo,0,1580.1,0,81,
+33144,Sales Order,4135,Tradeshow/Promo,5/9/2028,5/10/2028,Samples,Hand Delivered,7,DAC0741-0015,35,0,35,35,3.5,OPEN,45,Tradeshow/Promo,0,1580.1,0,75,
+33144,Sales Order,4135,Tradeshow/Promo,5/9/2028,5/10/2028,Samples,Hand Delivered,15,ROF0014-0016,1,0,1,1,0,OPEN,45,Tradeshow/Promo,0,1580.1,0,0,
+33144,Sales Order,4135,Tradeshow/Promo,5/9/2028,5/10/2028,Samples,Hand Delivered,13,ROF0031-0001,1,0,1,1,42,OPEN,45,Tradeshow/Promo,0,1580.1,0,9,
+33144,Sales Order,4135,Tradeshow/Promo,5/9/2028,5/10/2028,Samples,Hand Delivered,14,ROF0031-0004,1,0,1,1,42,OPEN,45,Tradeshow/Promo,0,1580.1,0,0,
+33145,Sales Order,5705,Wholesale,5/9/2028,5/23/2028,No Charge,UPS Ground,1,ROD0100-0303-Cover Only,5,5,0,0,16,Closed,7,Wholesale,0,450.5,0,0,
+33145,Sales Order,5705,Wholesale,5/9/2028,5/23/2028,No Charge,UPS Ground,3,ROD0120-0202-Cover Only,6,6,0,0,28.5,Closed,7,Wholesale,0,450.5,0,-8,
+33145,Sales Order,5705,Wholesale,5/9/2028,5/23/2028,No Charge,UPS Ground,2,ROD0120-0303-Cover Only,7,7,0,0,28.5,Closed,7,Wholesale,0,450.5,0,-2,
+33146,Sales Order,6088,Promotional,5/9/2028,5/10/2028,Credit Card,UPS 3-Day,1,UHS0040-0005,1,1,0,0,29.12,Closed,37,Promotional,0,29.12,0,0,45785
+33147,Sales Order,2156,Promotional,5/9/2028,5/12/2028,Credit Card,UPS Ground,1,DAC0190-0002,1,1,0,0,20.8,Closed,37,Promotional,0,20.8,20.8,1,45949
+33148,Sales Order,6233,Promotional,5/9/2028,5/11/2028,Credit Card,FedEx Ground,1,DAC0750-0004,1,1,0,0,16.64,Closed,37,Promotional,0,33.28,0,2,45787
+33148,Sales Order,6233,Promotional,5/9/2028,5/11/2028,Credit Card,FedEx Ground,2,DAC0750-0014,1,1,0,0,16.64,Closed,37,Promotional,0,33.28,0,0,45787
+33149,Sales Order,6234,Retail:Online,5/9/2028,5/13/2028,Credit Card,FedEx 2Day,3,BAA0012,1,1,0,0,5,Closed,45,Retail,0,90.42,90.42,0,45885
+33149,Sales Order,6234,Retail:Online,5/9/2028,5/13/2028,Credit Card,FedEx 2Day,1,TBK0040-0001-BK,1,1,0,0,54,Closed,45,Retail,0,90.42,90.42,50,45885
+33149,Sales Order,6234,Retail:Online,5/9/2028,5/13/2028,Credit Card,FedEx 2Day,2,Shipping & Handling,1,1,0,0,31.42,Closed,45,Retail,0,90.42,90.42,0,45885
+33150,Sales Order,6235,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,1,DAC0032-3001,1,1,0,0,18,Closed,45,Retail,0,56.45,56.45,10,45893
+33150,Sales Order,6235,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,3,DAC0032-3101,1,1,0,0,18,Closed,45,Retail,0,56.45,56.45,2,45893
+33150,Sales Order,6235,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,2,DAC0034-0014,1,1,0,0,13.5,Closed,45,Retail,0,56.45,56.45,0,45893
+33150,Sales Order,6235,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,4,Shipping & Handling,1,1,0,0,6.95,Closed,45,Retail,0,56.45,56.45,0,45893
+33151,Sales Order,6236,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,120.7,120.7,0,45978
+33151,Sales Order,6236,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,1,TBK0080-0002,1,1,0,0,101.25,Closed,45,Retail,0,120.7,120.7,0,45978
+33151,Sales Order,6236,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,9.45,Closed,45,Retail,0,120.7,120.7,0,45978
+33152,Sales Order,6237,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,5,BAA0001,1,1,0,0,10,Closed,45,Retail,8,69.75,69.75,0,45979
+33152,Sales Order,6237,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,3,DAC0740-0006,1,1,0,0,5.75,Closed,45,Retail,8,69.75,69.75,0,45979
+33152,Sales Order,6237,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,2,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,69.75,69.75,47,45979
+33152,Sales Order,6237,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,1,TBK0040-0001-BK,1,1,0,0,54,Closed,45,Retail,8,69.75,69.75,50,45979
+33152,Sales Order,6237,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,4,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,8,69.75,69.75,0,45979
+33153,Sales Order,6238,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,1,TBK0245-0002,1,1,0,0,38.25,Closed,45,Retail,0,45.3,45.3,-2,45900
+33153,Sales Order,6238,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.05,Closed,45,Retail,0,45.3,45.3,0,45900
+33154,Sales Order,6239,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,1,DAC0130-0005,1,1,0,0,9,Closed,45,Retail,0,25.05,25.05,18,45864
+33154,Sales Order,6239,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,2,DAC0131-0001,1,1,0,0,9,Closed,45,Retail,0,25.05,25.05,6,45864
+33154,Sales Order,6239,Retail:Online,5/9/2028,5/13/2028,Credit Card,USPS Priority,3,Shipping & Handling,1,1,0,0,7.05,Closed,45,Retail,0,25.05,25.05,0,45864
+33155,Sales Order,6240,Retail:Online,5/9/2028,5/13/2028,Paypal,Free Shipping,5,BAA0001,3,3,0,0,0,Closed,45,Retail,0,135,135,0,45957
+33155,Sales Order,6240,Retail:Online,5/9/2028,5/13/2028,Paypal,Free Shipping,6,BAA0012,3,3,0,0,0,Closed,45,Retail,0,135,135,0,45957
+33155,Sales Order,6240,Retail:Online,5/9/2028,5/13/2028,Paypal,Free Shipping,2,DAC0183-0001,1,1,0,0,28.93,Closed,45,Retail,0,135,135,1,45957
+33155,Sales Order,6240,Retail:Online,5/9/2028,5/13/2028,Paypal,Free Shipping,3,RPF117,1,1,0,0,19.29,Closed,45,Retail,0,135,135,5,45957
+33155,Sales Order,6240,Retail:Online,5/9/2028,5/13/2028,Paypal,Free Shipping,1,TBK0080-0001,1,1,0,0,86.78,Closed,45,Retail,0,135,135,-1,45957
+33155,Sales Order,6240,Retail:Online,5/9/2028,5/13/2028,Paypal,Free Shipping,4,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,135,135,0,45957
+33156,Sales Order,4702,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,5,BAA0001,2,2,0,0,10,Closed,45,Retail,8,83,83,0,45975
+33156,Sales Order,4702,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,3,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,83,83,47,45975
+33156,Sales Order,4702,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,1,ROD0001-0001,1,1,0,0,31.5,Closed,45,Retail,8,83,83,0,45975
+33156,Sales Order,4702,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,2,ROD0001-0002,1,1,0,0,31.5,Closed,45,Retail,8,83,83,-3,45975
+33156,Sales Order,4702,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,4,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,8,83,83,0,45975
+33157,Sales Order,6241,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,3,BAA0001,2,2,0,0,10,Closed,45,Retail,0,85.25,85.25,0,45958
+33157,Sales Order,6241,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,1,ROF0055-0001,1,1,0,0,65.25,Closed,45,Retail,0,85.25,85.25,1,45958
+33157,Sales Order,6241,Retail:Online,5/9/2028,5/13/2028,Credit Card,Free Shipping,2,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,85.25,85.25,0,45958
+33158,Sales Order,6242,Retail:Online,5/10/2028,5/16/2028,Credit Card,FedEx 2Day,4,BAA0012,2,2,0,0,5,Closed,45,Retail,0,195.29,195.29,0,45961
+33158,Sales Order,6242,Retail:Online,5/10/2028,5/16/2028,Credit Card,FedEx 2Day,1,TBK0061-0151,1,1,0,0,71,Closed,45,Retail,0,195.29,195.29,0,45961
+33158,Sales Order,6242,Retail:Online,5/10/2028,5/16/2028,Credit Card,FedEx 2Day,2,TBK0061-0155,1,1,0,0,71,Closed,45,Retail,0,195.29,195.29,0,45961
+33158,Sales Order,6242,Retail:Online,5/10/2028,5/16/2028,Credit Card,FedEx 2Day,3,Shipping & Handling,1,1,0,0,43.29,Closed,45,Retail,0,195.29,195.29,0,45961
+33159,Sales Order,6243,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,1,TBK0080-0001,1,1,0,0,101.25,Closed,45,Retail,0,101.25,101.25,-1,45898
+33159,Sales Order,6243,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,2,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,101.25,101.25,0,45898
+33160,Sales Order,6244,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,2,ROD0020-0002,1,1,0,0,38.25,Closed,45,Retail,0,76.5,76.5,1,46061
+33160,Sales Order,6244,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,1,ROD0020-0004,1,1,0,0,38.25,Closed,45,Retail,0,76.5,76.5,1,46061
+33160,Sales Order,6244,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,76.5,76.5,0,46061
+33161,Sales Order,10394,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,3,DAC0101-0002,2,2,0,0,33.75,Closed,45,Retail,0,283.28,270.5,28,46051
+33161,Sales Order,10394,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,8,DAC0741-0004,1,1,0,0,12.78,Closed,45,Retail,0,283.28,270.5,78,46051
+33161,Sales Order,10394,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,1,ROD0001-0001,2,2,0,0,31.5,Closed,45,Retail,0,283.28,270.5,0,46051
+33161,Sales Order,10394,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,2,ROD0001-0002,2,2,0,0,31.5,Closed,45,Retail,0,283.28,270.5,-3,46051
+33161,Sales Order,10394,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,4,TBK0215-0001,1,1,0,0,47.25,Closed,45,Retail,0,283.28,270.5,-1,46051
+33161,Sales Order,10394,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,5,BRS-0009,1,1,0,0,9.75,Closed,45,Retail,0,283.28,270.5,1096,46051
+33161,Sales Order,10394,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,7,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,283.28,270.5,0,46051
+33162,Sales Order,6245,Retail:Online,5/10/2028,5/16/2028,Paypal,USPS Priority,3,DAC0183-0002,1,1,0,0,33.75,Closed,45,Retail,8,47.35,47.35,0,45954
+33162,Sales Order,6245,Retail:Online,5/10/2028,5/16/2028,Paypal,USPS Priority,2,DAC0740-0006,1,1,0,0,5.75,Closed,45,Retail,8,47.35,47.35,0,45954
+33162,Sales Order,6245,Retail:Online,5/10/2028,5/16/2028,Paypal,USPS Priority,1,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,47.35,47.35,47,45954
+33162,Sales Order,6245,Retail:Online,5/10/2028,5/16/2028,Paypal,USPS Priority,4,Shipping & Handling,1,1,0,0,7.85,Closed,45,Retail,8,47.35,47.35,0,45954
+33163,Sales Order,6246,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,62.55,62.55,0,46058
+33163,Sales Order,6246,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,4,BAA0012,1,1,0,0,5,Closed,45,Retail,0,62.55,62.55,0,46058
+33163,Sales Order,6246,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,1,TBK0030-0014-WP,1,1,0,0,40.5,Closed,45,Retail,0,62.55,62.55,0,46058
+33163,Sales Order,6246,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.05,Closed,45,Retail,0,62.55,62.55,0,46058
+33164,Sales Order,6247,Retail:Online,5/10/2028,5/16/2028,Paypal,USPS Priority,4,BAA0001,2,2,0,0,5,Closed,45,Retail,0,89.45,89.45,0,In Queue
+33164,Sales Order,6247,Retail:Online,5/10/2028,5/16/2028,Paypal,USPS Priority,1,TBK0172-0002,1,1,0,0,45,Closed,45,Retail,0,89.45,89.45,-1,In Queue
+33164,Sales Order,6247,Retail:Online,5/10/2028,5/16/2028,Paypal,USPS Priority,2,BRS-0005,2,2,0,0,12.5,Closed,45,Retail,0,89.45,89.45,5552.69,In Queue
+33164,Sales Order,6247,Retail:Online,5/10/2028,5/16/2028,Paypal,USPS Priority,3,Shipping & Handling,1,1,0,0,9.45,Closed,45,Retail,0,89.45,89.45,0,In Queue
+33165,Sales Order,6248,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,1,ROF0050-0202,1,1,0,0,65.25,Closed,45,Retail,0,73,73,0,45973
+33165,Sales Order,6248,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.75,Closed,45,Retail,0,73,73,0,45973
+33166,Sales Order,6249,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,4,BAA0001,1,1,0,0,10,Closed,45,Retail,8,62.3,62.3,0,46069
+33166,Sales Order,6249,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,2,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,62.3,62.3,47,46069
+33166,Sales Order,6249,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,1,TBK0172-0001,1,1,0,0,45,Closed,45,Retail,8,62.3,62.3,7,46069
+33166,Sales Order,6249,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,3,Shipping & Handling,1,1,0,0,7.3,Closed,45,Retail,8,62.3,62.3,0,46069
+33167,Sales Order,6250,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,1,TBK0050-0001-BK,1,1,0,0,67.5,Closed,45,Retail,0,75.25,75.25,0,45918
+33167,Sales Order,6250,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.75,Closed,45,Retail,0,75.25,75.25,0,45918
+33168,Sales Order,6251,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,4,BAA0001,1,1,0,0,10,Closed,45,Retail,0,125.25,125.25,0,46055
+33168,Sales Order,6251,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,2,RPF117,1,1,0,0,14,Closed,45,Retail,0,125.25,125.25,5,46055
+33168,Sales Order,6251,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,1,TBK0080-0014,1,1,0,0,101.25,Closed,45,Retail,0,125.25,125.25,0,46055
+33168,Sales Order,6251,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,125.25,125.25,0,46055
+33169,Sales Order,6252,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,4,BAA0001,1,1,0,0,10,Closed,45,Retail,8,53.35,53.35,0,46060
+33169,Sales Order,6252,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,5,BAA0012,1,1,0,0,5,Closed,45,Retail,8,53.35,53.35,0,46060
+33169,Sales Order,6252,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,2,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,53.35,53.35,47,46060
+33169,Sales Order,6252,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,1,ROD0001-0002,1,1,0,0,31.5,Closed,45,Retail,8,53.35,53.35,-3,46060
+33169,Sales Order,6252,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,3,Shipping & Handling,1,1,0,0,6.85,Closed,45,Retail,8,53.35,53.35,0,46060
+33171,Sales Order,6254,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,82.5,82.5,0,46059
+33171,Sales Order,6254,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,4,BAA0012,1,1,0,0,5,Closed,45,Retail,0,82.5,82.5,0,46059
+33171,Sales Order,6254,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,1,TBK0060-0002,1,1,0,0,67.5,Closed,45,Retail,0,82.5,82.5,-2,46059
+33171,Sales Order,6254,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,2,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,82.5,82.5,0,46059
+33172,Sales Order,6253,Retail:Online,5/10/2028,5/16/2028,Paypal,USPS Intl 1st,2,TBK0210-0001,1,1,0,0,25.88,Closed,45,Retail,0,54.13,54.13,14,45871
+33172,Sales Order,6253,Retail:Online,5/10/2028,5/16/2028,Paypal,USPS Intl 1st,1,BRS-0008,1,1,0,0,5.5,Closed,45,Retail,0,54.13,54.13,0,45871
+33172,Sales Order,6253,Retail:Online,5/10/2028,5/16/2028,Paypal,USPS Intl 1st,3,Shipping & Handling,1,1,0,0,22.75,Closed,45,Retail,0,54.13,54.13,0,45871
+33173,Sales Order,5298,Promotional,5/10/2028,5/16/2028,Credit Card,UPS Ground,2,BAA0002,1,1,0,0,50,Closed,7,Promotional,0,162.32,0,0,46000
+33173,Sales Order,5298,Promotional,5/10/2028,5/16/2028,Credit Card,UPS Ground,3,BAA0002,1,1,0,0,50,Closed,7,Promotional,0,162.32,0,0,46000
+33173,Sales Order,5298,Promotional,5/10/2028,5/16/2028,Credit Card,UPS Ground,4,BAA0003,3,3,0,0,1,Closed,7,Promotional,0,162.32,0,0,46000
+33173,Sales Order,5298,Promotional,5/10/2028,5/16/2028,Credit Card,UPS Ground,1,TBK0160-0003,3,3,0,0,11.44,Closed,7,Promotional,0,162.32,0,0,46000
+33173,Sales Order,5298,Promotional,5/10/2028,5/16/2028,Credit Card,UPS Ground,5,RUSH,1,1,0,0,25,Closed,7,Promotional,0,162.32,0,0,46000
+33174,Sales Order,6805,Promotional,5/10/2028,5/23/2028,Net 30,UPS Ground,2,BAA0002,1,0,0,1,50,OPEN,7,Promotional,0,136.36,0,0,
+33174,Sales Order,6805,Promotional,5/10/2028,5/23/2028,Net 30,UPS Ground,3,BAA0003,2,0,0,2,0.5,OPEN,7,Promotional,0,136.36,0,0,
+33174,Sales Order,6805,Promotional,5/10/2028,5/23/2028,Net 30,UPS Ground,5,BAA0003,2,0,0,2,0.5,OPEN,7,Promotional,0,136.36,0,0,
+33174,Sales Order,6805,Promotional,5/10/2028,5/23/2028,Net 30,UPS Ground,7,BAA0003,2,0,0,2,0.5,OPEN,7,Promotional,0,136.36,0,0,
+33174,Sales Order,6805,Promotional,5/10/2028,5/23/2028,Net 30,UPS Ground,9,BAA0003,2,0,0,2,0.5,OPEN,7,Promotional,0,136.36,0,0,
+33174,Sales Order,6805,Promotional,5/10/2028,5/23/2028,Net 30,UPS Ground,11,BAA0003,2,0,0,2,0.5,OPEN,7,Promotional,0,136.36,0,0,
+33174,Sales Order,6805,Promotional,5/10/2028,5/23/2028,Net 30,UPS Ground,13,BAA0003,2,0,0,2,0.5,OPEN,7,Promotional,0,136.36,0,0,
+33174,Sales Order,6805,Promotional,5/10/2028,5/23/2028,Net 30,UPS Ground,12,DAC0131-0002,2,0,0,2,3.83,OPEN,7,Promotional,0,136.36,0,0,
+33174,Sales Order,6805,Promotional,5/10/2028,5/23/2028,Net 30,UPS Ground,6,DAC0131-0005,2,0,0,2,3.83,OPEN,7,Promotional,0,136.36,0,2,
+33174,Sales Order,6805,Promotional,5/10/2028,5/23/2028,Net 30,UPS Ground,1,DAC0133-0001,2,0,0,2,7.65,OPEN,7,Promotional,0,136.36,0,2,
+33174,Sales Order,6805,Promotional,5/10/2028,5/23/2028,Net 30,UPS Ground,8,DAC0133-0002,2,0,0,2,7.65,OPEN,7,Promotional,0,136.36,0,80,
+33174,Sales Order,6805,Promotional,5/10/2028,5/23/2028,Net 30,UPS Ground,10,DAC0138-0001,2,0,0,2,8.61,OPEN,7,Promotional,0,136.36,0,8,
+33174,Sales Order,6805,Promotional,5/10/2028,5/23/2028,Net 30,UPS Ground,4,DAC0138-0015,2,0,0,2,8.61,OPEN,7,Promotional,0,136.36,0,1,
+33175,Sales Order,4074,Corporate,5/10/2028,5/17/2028,Net 30,Pick Up,1,TBK0220-0101-MS,1,1,0,0,36.45,Closed,7,Corporate,0,36.45,0,0,46006
+33176,Sales Order,3527,Wholesale,5/10/2028,5/18/2028,Credit Card,UPS NextDaySvr,1,ROD0001-0101-PK,8,8,0,0,15,Closed,40,Wholesale,0,120,0,0,46015
+33177,Sales Order,3527,Wholesale,5/10/2028,5/19/2028,Credit Card,UPS Ground,4,DAC0190-0002,2,2,0,0,20,Closed,40,Wholesale,0,258,0,1,46004
+33177,Sales Order,3527,Wholesale,5/10/2028,5/19/2028,Credit Card,UPS Ground,1,ROD0001-1414-PK,4,4,0,0,15,Closed,40,Wholesale,0,258,0,0,46004
+33177,Sales Order,3527,Wholesale,5/10/2028,5/19/2028,Credit Card,UPS Ground,2,ROD0001-1515-PK,4,4,0,0,15,Closed,40,Wholesale,0,258,0,0,46004
+33177,Sales Order,3527,Wholesale,5/10/2028,5/19/2028,Credit Card,UPS Ground,5,ROF0020-0101,2,2,0,0,31,Closed,40,Wholesale,0,258,0,0,46004
+33177,Sales Order,3527,Wholesale,5/10/2028,5/19/2028,Credit Card,UPS Ground,3,TBK0030-0002-BK,2,2,0,0,18,Closed,40,Wholesale,0,258,0,0,46004
+33178,Sales Order,4290,,5/10/2028,5/18/2028,Credit Card,UPS Ground,2,UHS0017-0018-NH-MN,168,168,0,0,5,Closed,40,,102,1938,0,0,46053
+33178,Sales Order,4290,,5/10/2028,5/18/2028,Credit Card,UPS Ground,1,UHS0017-0019-NH-MN,240,240,0,0,5,Closed,40,,102,1938,0,0,46053
+33179,Sales Order,3037,Dropship,5/10/2028,5/16/2028,Net 30,USPS FirstClass,2,BAA0001,1,1,0,0,8,Closed,7,Dropship,0,30.45,0,0,46064
+33179,Sales Order,3037,Dropship,5/10/2028,5/16/2028,Net 30,USPS FirstClass,1,UPH0001-0002-HS,1,1,0,0,16.5,Closed,7,Dropship,0,30.45,0,20,46064
+33179,Sales Order,3037,Dropship,5/10/2028,5/16/2028,Net 30,USPS FirstClass,3,Drop Ship Charge,1,1,0,0,5.95,Closed,7,Dropship,0,30.45,0,0,46064
+33180,Sales Order,5418,Retail,5/10/2028,5/17/2028,Credit Card,UPS Ground,5,TBK0340-0001,1,1,0,0,12.5,Closed,7,Retail,0,75,75,0,45942
+33180,Sales Order,5418,Retail,5/10/2028,5/17/2028,Credit Card,UPS Ground,4,TBK0340-0002,1,1,0,0,12.5,Closed,7,Retail,0,75,75,0,45942
+33180,Sales Order,5418,Retail,5/10/2028,5/17/2028,Credit Card,UPS Ground,1,TBK0340-0004,2,2,0,0,12.5,Closed,7,Retail,0,75,75,0,45942
+33180,Sales Order,5418,Retail,5/10/2028,5/17/2028,Credit Card,UPS Ground,2,TBK0340-0005,1,1,0,0,12.5,Closed,7,Retail,0,75,75,1,45942
+33180,Sales Order,5418,Retail,5/10/2028,5/17/2028,Credit Card,UPS Ground,3,TBK0340-0014,1,1,0,0,12.5,Closed,7,Retail,0,75,75,0,45942
+33181,Sales Order,2502,Corporate,5/10/2028,5/18/2028,Credit Card,UPS Ground,2,BAA0001,1,1,0,0,8,Closed,7,Corporate,0,236.25,0,0,In Queue
+33181,Sales Order,2502,Corporate,5/10/2028,5/18/2028,Credit Card,UPS Ground,3,BAA0001,1,1,0,0,8,Closed,7,Corporate,0,236.25,0,0,In Queue
+33181,Sales Order,2502,Corporate,5/10/2028,5/18/2028,Credit Card,UPS Ground,4,BAA0001,1,1,0,0,8,Closed,7,Corporate,0,236.25,0,0,In Queue
+33181,Sales Order,2502,Corporate,5/10/2028,5/18/2028,Credit Card,UPS Ground,5,BAA0003,3,3,0,0,1,Closed,7,Corporate,0,236.25,0,0,In Queue
+33181,Sales Order,2502,Corporate,5/10/2028,5/18/2028,Credit Card,UPS Ground,1,ROF0020-0202,3,3,0,0,69.75,Closed,7,Corporate,0,236.25,0,0,In Queue
+33182,Sales Order,6255,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,5,BAA0001,1,1,0,0,10,Closed,45,Retail,8,67.5,67.5,0,46035
+33182,Sales Order,6255,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,3,DAC0741-0001,1,1,0,0,8,Closed,45,Retail,8,67.5,67.5,61,46035
+33182,Sales Order,6255,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,1,TBK0172-0001,1,1,0,0,45,Closed,45,Retail,8,67.5,67.5,7,46035
+33182,Sales Order,6255,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,2,BRS-0005,1,1,0,0,12.5,Closed,45,Retail,8,67.5,67.5,5552.69,46035
+33182,Sales Order,6255,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,4,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,8,67.5,67.5,0,46035
+33183,Sales Order,6256,Retail:Online,5/10/2028,5/16/2028,Paypal,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,52.95,52.95,0,46050
+33183,Sales Order,6256,Retail:Online,5/10/2028,5/16/2028,Paypal,USPS Priority,1,DAC0750-0001,1,1,0,0,36,Closed,45,Retail,0,52.95,52.95,0,46050
+33183,Sales Order,6256,Retail:Online,5/10/2028,5/16/2028,Paypal,USPS Priority,2,Shipping & Handling,1,1,0,0,6.95,Closed,45,Retail,0,52.95,52.95,0,46050
+33184,Sales Order,6257,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,2,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,19.01,99.12,99.12,47,In Queue
+33184,Sales Order,6257,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,3,RVRF-1331,1,1,0,0,55,Closed,45,Retail,19.01,99.12,99.12,5,In Queue
+33184,Sales Order,6257,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,1,TBK0205-0002-HS-DG,1,1,0,0,55.13,Closed,45,Retail,19.01,99.12,99.12,0,In Queue
+33184,Sales Order,6257,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,4,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,19.01,99.12,99.12,0,In Queue
+33185,Sales Order,6258,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,61.95,61.95,0,46018
+33185,Sales Order,6258,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,1,TBK0172-0004,1,1,0,0,45,Closed,45,Retail,0,61.95,61.95,0,46018
+33185,Sales Order,6258,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,6.95,Closed,45,Retail,0,61.95,61.95,0,46018
+33186,Sales Order,6259,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,62.3,62.3,0,46016
+33186,Sales Order,6259,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,1,TBK0172-0001,1,1,0,0,45,Closed,45,Retail,0,62.3,62.3,7,46016
+33186,Sales Order,6259,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.3,Closed,45,Retail,0,62.3,62.3,0,46016
+33187,Sales Order,6260,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,95.5,95.5,0,46048
+33187,Sales Order,6260,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,1,ROF0060-0106,1,1,0,0,85.5,Closed,45,Retail,0,95.5,95.5,8,46048
+33187,Sales Order,6260,Retail:Online,5/10/2028,5/16/2028,Credit Card,Free Shipping,2,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,95.5,95.5,0,46048
+33188,Sales Order,6261,Retail:Online,5/10/2028,5/16/2028,Credit Card,UPS 2nd Day,1,DAC0190-0002,1,1,0,0,45,Closed,45,Retail,0,111.5,111.5,1,45870
+33188,Sales Order,6261,Retail:Online,5/10/2028,5/16/2028,Credit Card,UPS 2nd Day,2,DAC0750-0002,1,1,0,0,36,Closed,45,Retail,0,111.5,111.5,1,45870
+33188,Sales Order,6261,Retail:Online,5/10/2028,5/16/2028,Credit Card,UPS 2nd Day,3,Shipping & Handling,1,1,0,0,30.5,Closed,45,Retail,0,111.5,111.5,0,45870
+33189,Sales Order,6262,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,1,RPH0030-0002-WP,3,3,0,0,101.25,Closed,45,Retail,0,329,329,1,45981
+33189,Sales Order,6262,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,25.25,Closed,45,Retail,0,329,329,0,45981
+33190,Sales Order,6263,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,48.45,48.45,0,46041
+33190,Sales Order,6263,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,1,ROD0001-0002,1,1,0,0,31.5,Closed,45,Retail,0,48.45,48.45,-3,46041
+33190,Sales Order,6263,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,6.95,Closed,45,Retail,0,48.45,48.45,0,46041
+33191,Sales Order,6264,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,52.05,52.05,0,46040
+33191,Sales Order,6264,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,1,RPH0010-0015,1,1,0,0,35,Closed,45,Retail,0,52.05,52.05,1,46040
+33191,Sales Order,6264,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.05,Closed,45,Retail,0,52.05,52.05,0,46040
+33192,Sales Order,6265,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,1,ROD0001-0202-PK,1,1,0,0,33.75,Closed,45,Retail,0,41.05,41.05,7,45909
+33192,Sales Order,6265,Retail:Online,5/10/2028,5/16/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.3,Closed,45,Retail,0,41.05,41.05,0,45909
+33193,Sales Order,6266,Retail:Online,5/10/2028,5/16/2028,Credit Card,FedEx Priority,1,TBK0050-0002-BK,1,1,0,0,67.5,Closed,45,Retail,0,126.65,126.65,0,45962
+33193,Sales Order,6266,Retail:Online,5/10/2028,5/16/2028,Credit Card,FedEx Priority,2,Shipping & Handling,1,1,0,0,59.15,Closed,45,Retail,0,126.65,126.65,0,45962
+33194,Sales Order,6267,Retail:Online,5/10/2028,5/17/2028,Credit Card,Free Shipping,3,RVRR-1318,1,1,0,0,25,Closed,45,Retail,8.81,79.32,79.32,0,45974
+33194,Sales Order,6267,Retail:Online,5/10/2028,5/17/2028,Credit Card,Free Shipping,1,TBK0205-0004-MS,1,1,0,0,50.63,Closed,45,Retail,8.81,79.32,79.32,1,45974
+33194,Sales Order,6267,Retail:Online,5/10/2028,5/17/2028,Credit Card,Free Shipping,2,BRS-0005,1,1,0,0,12.5,Closed,45,Retail,8.81,79.32,79.32,5552.69,45974
+33194,Sales Order,6267,Retail:Online,5/10/2028,5/17/2028,Credit Card,Free Shipping,4,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,8.81,79.32,79.32,0,45974
+33195,Sales Order,6268,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,1,TBK0080-0002,1,1,0,0,101.25,Closed,45,Retail,0,101.25,101.25,0,45953
+33195,Sales Order,6268,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,2,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,101.25,101.25,0,45953
+33196,Sales Order,6269,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,78,78,0,46020
+33196,Sales Order,6269,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,4,BAA0012,1,1,0,0,5,Closed,45,Retail,0,78,78,0,46020
+33196,Sales Order,6269,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,1,TPH0020-0001-BK,1,1,0,0,63,Closed,45,Retail,0,78,78,2,46020
+33196,Sales Order,6269,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,2,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,78,78,0,46020
+33197,Sales Order,6270,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,1,ROF0020-0202,1,1,0,0,69.75,Closed,45,Retail,0,139.5,139.5,0,45899
+33197,Sales Order,6270,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,2,ROF0020-0505,1,1,0,0,69.75,Closed,45,Retail,0,139.5,139.5,0,45899
+33197,Sales Order,6270,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,139.5,139.5,0,45899
+33198,Sales Order,6271,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,48.45,48.45,0,46032
+33198,Sales Order,6271,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Priority,1,ROD0001-0001,1,1,0,0,31.5,Closed,45,Retail,0,48.45,48.45,0,46032
+33198,Sales Order,6271,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,6.95,Closed,45,Retail,0,48.45,48.45,0,46032
+33199,Sales Order,6272,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Intl 1st,4,BAA0001,1,1,0,0,10,Closed,45,Retail,0,88.63,88.63,0,46049
+33199,Sales Order,6272,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Intl 1st,2,TBK0205-0004-MS,1,1,0,0,50.63,Closed,45,Retail,0,88.63,88.63,1,46049
+33199,Sales Order,6272,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Intl 1st,1,BRS-0006,1,1,0,0,12.5,Closed,45,Retail,0,88.63,88.63,3745,46049
+33199,Sales Order,6272,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Intl 1st,3,Shipping & Handling,1,1,0,0,15.5,Closed,45,Retail,0,88.63,88.63,0,46049
+33200,Sales Order,6273,Retail:Online,5/11/2028,5/17/2028,Paypal,Free Shipping,4,BAA0001,2,2,0,0,10,Closed,45,Retail,0,83,83,0,46019
+33200,Sales Order,6273,Retail:Online,5/11/2028,5/17/2028,Paypal,Free Shipping,2,ROD0001-0001,1,1,0,0,31.5,Closed,45,Retail,0,83,83,0,46019
+33200,Sales Order,6273,Retail:Online,5/11/2028,5/17/2028,Paypal,Free Shipping,1,ROD0001-0002,1,1,0,0,31.5,Closed,45,Retail,0,83,83,-3,46019
+33200,Sales Order,6273,Retail:Online,5/11/2028,5/17/2028,Paypal,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,83,83,0,46019
+33201,Sales Order,5106,Promotional,5/11/2028,5/18/2028,Net 30,UPS Ground,2,BAA0001,1,1,0,0,1.1,Closed,7,Promotional,0,1.1,0,0,46017
+33201,Sales Order,5106,Promotional,5/11/2028,5/18/2028,Net 30,UPS Ground,1,RCJ0021-0004,1,1,0,0,0,Closed,7,Promotional,0,1.1,0,-3,46017
+33202,Sales Order,4880,Wholesale,5/11/2028,5/16/2028,Net 30,UPS Ground,9,DAC0103-0001,2,2,0,0,10,Closed,40,Wholesale,0,424,0,295,45947
+33202,Sales Order,4880,Wholesale,5/11/2028,5/16/2028,Net 30,UPS Ground,10,DAC0103-0002,2,2,0,0,10,Closed,40,Wholesale,0,424,0,0,45947
+33202,Sales Order,4880,Wholesale,5/11/2028,5/16/2028,Net 30,UPS Ground,11,DAC0107-0001,2,2,0,0,15,Closed,40,Wholesale,0,424,0,2,45947
+33202,Sales Order,4880,Wholesale,5/11/2028,5/16/2028,Net 30,UPS Ground,12,DAC0107-0002,2,2,0,0,15,Closed,40,Wholesale,0,424,0,0,45947
+33202,Sales Order,4880,Wholesale,5/11/2028,5/16/2028,Net 30,UPS Ground,7,DAC0112-0001,2,2,0,0,12,Closed,40,Wholesale,0,424,0,0,45947
+33202,Sales Order,4880,Wholesale,5/11/2028,5/16/2028,Net 30,UPS Ground,8,DAC0112-0002,2,2,0,0,12,Closed,40,Wholesale,0,424,0,0,45947
+33202,Sales Order,4880,Wholesale,5/11/2028,5/16/2028,Net 30,UPS Ground,1,DAC0113-0001,2,2,0,0,19,Closed,40,Wholesale,0,424,0,0,45947
+33202,Sales Order,4880,Wholesale,5/11/2028,5/16/2028,Net 30,UPS Ground,2,DAC0113-0002,2,2,0,0,19,Closed,40,Wholesale,0,424,0,0,45947
+33202,Sales Order,4880,Wholesale,5/11/2028,5/16/2028,Net 30,UPS Ground,3,DAC0114-0001-MBLK,1,1,0,0,35,Closed,40,Wholesale,0,424,0,1,45947
+33202,Sales Order,4880,Wholesale,5/11/2028,5/16/2028,Net 30,UPS Ground,4,DAC0114-0001-MSGE,1,1,0,0,35,Closed,40,Wholesale,0,424,0,0,45947
+33202,Sales Order,4880,Wholesale,5/11/2028,5/16/2028,Net 30,UPS Ground,6,DAC0114-0002-MBLK,1,1,0,0,35,Closed,40,Wholesale,0,424,0,0,45947
+33202,Sales Order,4880,Wholesale,5/11/2028,5/16/2028,Net 30,UPS Ground,5,DAC0114-0002-MSUN,1,1,0,0,35,Closed,40,Wholesale,0,424,0,0,45947
+33202,Sales Order,4880,Wholesale,5/11/2028,5/16/2028,Net 30,UPS Ground,13,DAC0183-0001,2,2,0,0,15,Closed,40,Wholesale,0,424,0,1,45947
+33202,Sales Order,4880,Wholesale,5/11/2028,5/16/2028,Net 30,UPS Ground,14,DAC0183-0002,2,2,0,0,15,Closed,40,Wholesale,0,424,0,0,45947
+33203,Sales Order,5296,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,8,DAC0030-0001,75,0,0,75,4,OPEN,40,Wholesale,0,8765,0,0,
+33203,Sales Order,5296,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,7,DAC0030-0002,75,0,0,75,4,OPEN,40,Wholesale,0,8765,0,1,
+33203,Sales Order,5296,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,9,DAC0030-0005,75,0,0,75,4,OPEN,40,Wholesale,0,8765,0,0,
+33203,Sales Order,5296,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,14,DAC0050-0202,75,0,0,75,10,OPEN,40,Wholesale,0,8765,0,3,
+33203,Sales Order,5296,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,5,DAC0101-0002,50,0,0,50,15,OPEN,40,Wholesale,0,8765,0,28,
+33203,Sales Order,5296,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,6,DAC0105-0002,50,0,0,50,9,OPEN,40,Wholesale,0,8765,0,0,
+33203,Sales Order,5296,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,3,DAC0138-0002,75,0,0,75,9,OPEN,40,Wholesale,0,8765,0,0,
+33203,Sales Order,5296,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,2,DAC0165-0002,50,0,0,50,10,OPEN,40,Wholesale,0,8765,0,0,
+33203,Sales Order,5296,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,13,DAC0183-0002,75,0,0,75,15,OPEN,40,Wholesale,0,8765,0,0,
+33203,Sales Order,5296,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,10,DAC0750-0002,75,0,0,75,16,OPEN,40,Wholesale,0,8765,0,1,
+33203,Sales Order,5296,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,1,TBK0160-0002,50,0,0,50,11,OPEN,40,Wholesale,0,8765,0,0,
+33203,Sales Order,5296,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,11,TBK0200-0002,50,0,0,50,17.5,OPEN,40,Wholesale,0,8765,0,-4,
+33203,Sales Order,5296,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,4,UHS0011-0102,50,0,0,50,15,OPEN,40,Wholesale,0,8765,0,11,
+33203,Sales Order,5296,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,12,BRS-0003,75,0,0,75,3.2,OPEN,40,Wholesale,0,8765,0,4701,
+33204,Sales Order,8285,Wholesale,5/11/2028,5/18/2028,Credit Card,UPS Ground,2,BAA0003,100,100,0,0,0.5,Closed,7,Wholesale,0,1000,0,0,46057
+33204,Sales Order,8285,Wholesale,5/11/2028,5/18/2028,Credit Card,UPS Ground,1,DAC0150-0002,100,100,0,0,9.5,Closed,7,Wholesale,0,1000,0,0,46057
+33205,Sales Order,3727,Wholesale,5/11/2028,5/25/2028,Net 30,UPS Ground,4,DAC0132-0001,10,10,0,0,4,Closed,40,Wholesale,0,267.5,0,8,
+33205,Sales Order,3727,Wholesale,5/11/2028,5/25/2028,Net 30,UPS Ground,3,DAC0132-0003,10,10,0,0,4,Closed,40,Wholesale,0,267.5,0,25,
+33205,Sales Order,3727,Wholesale,5/11/2028,5/25/2028,Net 30,UPS Ground,1,ROD0001-0101-PK,5,5,0,0,15,Closed,40,Wholesale,0,267.5,0,0,
+33205,Sales Order,3727,Wholesale,5/11/2028,5/25/2028,Net 30,UPS Ground,2,TBK0205-0001-MS,5,5,0,0,22.5,Closed,40,Wholesale,0,267.5,0,-24,
+33206,Sales Order,4326,,5/11/2028,5/25/2028,Credit Card,UPS Ground,4,DAC0022-0001,8,0,0,8,6,OPEN,40,,0,532.5,0,0,
+33206,Sales Order,4326,,5/11/2028,5/25/2028,Credit Card,UPS Ground,5,DAC0022-0002,8,0,0,8,6,OPEN,40,,0,532.5,0,-1,
+33206,Sales Order,4326,,5/11/2028,5/25/2028,Credit Card,UPS Ground,6,DAC0022-0003,8,0,0,8,6,OPEN,40,,0,532.5,0,1,
+33206,Sales Order,4326,,5/11/2028,5/25/2028,Credit Card,UPS Ground,7,DAC0101-0002,2,0,0,2,15,OPEN,40,,0,532.5,0,28,
+33206,Sales Order,4326,,5/11/2028,5/25/2028,Credit Card,UPS Ground,2,DAC0200-0001,1,0,0,1,75,OPEN,40,,0,532.5,0,3,
+33206,Sales Order,4326,,5/11/2028,5/25/2028,Credit Card,UPS Ground,1,DAC0200-0003,1,0,0,1,75,OPEN,40,,0,532.5,0,0,
+33206,Sales Order,4326,,5/11/2028,5/25/2028,Credit Card,UPS Ground,3,DAC0210-0001,1,0,0,1,95,OPEN,40,,0,532.5,0,1,
+33206,Sales Order,4326,,5/11/2028,5/25/2028,Credit Card,UPS Ground,10,DAC0740-0006,15,0,0,15,2.5,OPEN,40,,0,532.5,0,0,
+33206,Sales Order,4326,,5/11/2028,5/25/2028,Credit Card,UPS Ground,8,TBK0215-0003,2,0,0,2,21,OPEN,40,,0,532.5,0,-1,
+33206,Sales Order,4326,,5/11/2028,5/25/2028,Credit Card,UPS Ground,9,TBK0245-0002,2,0,0,2,17,OPEN,40,,0,532.5,0,-2,
+33207,Sales Order,2131,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,2,BAA0002,1,0,0,1,50,OPEN,40,Wholesale,0,1550,0,0,
+33207,Sales Order,2131,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,3,BAA0003,200,0,0,200,0.5,OPEN,40,Wholesale,0,1550,0,0,
+33207,Sales Order,2131,Wholesale,5/11/2028,5/24/2028,Credit Card,UPS Ground,1,DAC0012-0014,200,200,0,0,7,OPEN,40,Wholesale,0,1550,0,0,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,9,DAC0101-0002,2,2,0,0,15,Closed,40,Wholesale,0,783,0,28,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,10,DAC0101-0004,2,2,0,0,15,Closed,40,Wholesale,0,783,0,-3,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,8,DAC0101-0005,2,2,0,0,15,Closed,40,Wholesale,0,783,0,-2,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,12,DAC0105-0001,2,2,0,0,9,Closed,40,Wholesale,0,783,0,0,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,13,DAC0105-0003,2,2,0,0,9,Closed,40,Wholesale,0,783,0,2,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,11,DAC0105-0005,2,2,0,0,9,Closed,40,Wholesale,0,783,0,-1,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,15,DAC0138-0001,3,3,0,0,9,Closed,40,Wholesale,0,783,0,8,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,16,DAC0138-0003,3,3,0,0,9,Closed,40,Wholesale,0,783,0,12,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,14,DAC0138-0004,3,3,0,0,9,Closed,40,Wholesale,0,783,0,11,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,17,DAC0138-0005,3,3,0,0,9,Closed,40,Wholesale,0,783,0,8,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,6,DAC0200-0001,1,1,0,0,75,Closed,40,Wholesale,0,783,0,3,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,5,DAC0200-0002,1,1,0,0,75,Closed,40,Wholesale,0,783,0,0,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,7,DAC0200-0004,1,1,0,0,75,Closed,40,Wholesale,0,783,0,0,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,20,DAC0210-0002,1,1,0,0,95,Closed,40,Wholesale,0,783,0,2,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,21,DAC0210-0003,1,1,0,0,95,Closed,40,Wholesale,0,783,0,0,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,1,TBK0020-0101-PK,1,1,0,0,12.5,Closed,40,Wholesale,0,783,0,-2,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,2,TBK0020-0202-PK,1,1,0,0,12.5,Closed,40,Wholesale,0,783,0,-4,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,4,TBK0205-0002-MS,1,1,0,0,22.5,Closed,40,Wholesale,0,783,0,-1,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,3,TBK0205-0004-MS,1,1,0,0,22.5,Closed,40,Wholesale,0,783,0,1,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,19,TBK0210-0001,2,2,0,0,11.5,Closed,40,Wholesale,0,783,0,14,
+33208,Sales Order,4542,Wholesale,5/11/2028,5/25/2028,Credit Card,UPS Ground,18,TBK0210-0003,2,2,0,0,11.5,Closed,40,Wholesale,0,783,0,21,
+33209,Sales Order,7192,Promotional,5/11/2028,5/24/2028,Credit Card,FedEx Ground,2,BAA0002,1,0,0,1,50,OPEN,7,Promotional,0,530.24,0,0,
+33209,Sales Order,7192,Promotional,5/11/2028,5/24/2028,Credit Card,FedEx Ground,3,BAA0003,12,0,0,12,0.5,OPEN,7,Promotional,0,530.24,0,0,
+33209,Sales Order,7192,Promotional,5/11/2028,5/24/2028,Credit Card,FedEx Ground,1,ROF0060-0106,12,0,0,12,39.52,OPEN,7,Promotional,0,530.24,0,8,
+33210,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,3,DAC0171-0005,1,0,1,1,6.6,OPEN,,Tradeshow/Promo,0,40.6,0,0,
+33210,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,1,ROD0010-0005,1,0,1,1,17,OPEN,,Tradeshow/Promo,0,40.6,0,11,
+33210,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,2,ROD0021-0005,1,0,1,1,17,OPEN,,Tradeshow/Promo,0,40.6,0,1,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,1,DAC0001-0001,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,2,DAC0001-0002,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,3,DAC0001-0003,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,4,DAC0001-0004,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,3,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,5,DAC0001-0005,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,6,DAC0001-0014,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,2,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,7,DAC0001-0015,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,8,DAC0010-0001,1,0,1,1,5,OPEN,43,Tradeshow/Promo,0,273,0,2,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,9,DAC0010-0002,1,0,1,1,5,OPEN,43,Tradeshow/Promo,0,273,0,3,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,10,DAC0010-0003,1,0,1,1,5,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,11,DAC0010-0004,1,0,1,1,5,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,12,DAC0010-0005,1,0,1,1,5,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,13,DAC0010-0014,1,0,1,1,5,OPEN,43,Tradeshow/Promo,0,273,0,2,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,14,DAC0010-0015,1,0,1,1,5,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,15,DAC0012-0001,1,0,1,1,7,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,16,DAC0012-0002,1,0,1,1,7,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,17,DAC0012-0003,1,0,1,1,7,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,18,DAC0012-0004,1,0,1,1,7,OPEN,43,Tradeshow/Promo,0,273,0,1,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,19,DAC0012-0005,1,0,1,1,7,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,20,DAC0012-0014,1,0,1,1,7,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,21,DAC0012-0015,1,0,1,1,7,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,22,DAC0020-0001,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,6,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,23,DAC0020-0002,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,24,DAC0020-0003,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,7,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,25,DAC0020-0004,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,26,DAC0020-0005,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,7,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,27,DAC0020-0014,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,4,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,28,DAC0020-0015,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,29,DAC0022-0001,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,30,DAC0022-0002,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,-1,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,31,DAC0022-0003,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,1,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,32,DAC0022-0004,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,33,DAC0022-0005,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,34,DAC0022-0014,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,35,DAC0022-0015,1,0,1,1,6,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,36,DAC0024-0001,1,0,1,1,5,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,37,DAC0024-0002,1,0,1,1,5,OPEN,43,Tradeshow/Promo,0,273,0,51,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,38,DAC0024-0003,1,0,1,1,5,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,39,DAC0024-0004,1,0,1,1,5,OPEN,43,Tradeshow/Promo,0,273,0,-3,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,40,DAC0024-0005,1,0,1,1,5,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,41,DAC0024-0014,1,0,1,1,5,OPEN,43,Tradeshow/Promo,0,273,0,1,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,42,DAC0024-0015,1,0,1,1,5,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,43,DAC0030-0001,1,0,1,1,4,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,44,DAC0030-0002,1,0,1,1,3.999999572,OPEN,43,Tradeshow/Promo,0,273,0,1,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,45,DAC0030-0003,1,0,1,1,4,OPEN,43,Tradeshow/Promo,0,273,0,39,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,46,DAC0030-0004,1,0,1,1,4,OPEN,43,Tradeshow/Promo,0,273,0,2,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,47,DAC0030-0005,1,0,1,1,4,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,48,DAC0030-0014,1,0,1,1,4,OPEN,43,Tradeshow/Promo,0,273,0,1,
+33211,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/11/2028,No Charge,Hand Delivered,49,DAC0030-0015,1,0,1,1,4,OPEN,43,Tradeshow/Promo,0,273,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,1,DAC0031-3001,1,0,0,1,9,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,2,DAC0031-3002,1,0,0,1,9,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,3,DAC0031-3003,1,0,0,1,9,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,4,DAC0031-3004,1,0,0,1,9,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,5,DAC0031-3005,1,0,0,1,9,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,6,DAC0031-3014,1,0,0,1,9,OPEN,43,Tradeshow/Promo,0,698,0,4,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,7,DAC0031-3015,1,0,0,1,9,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,8,DAC0031-3101,1,0,0,1,9,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,9,DAC0031-3102,1,0,0,1,9,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,10,DAC0031-3103,1,0,0,1,9,OPEN,43,Tradeshow/Promo,0,698,0,2,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,11,DAC0031-3104,1,0,0,1,9,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,12,DAC0031-3105,1,0,0,1,9,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,13,DAC0031-3114,1,0,0,1,9,OPEN,43,Tradeshow/Promo,0,698,0,2,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,14,DAC0031-3115,1,0,0,1,9,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,15,DAC0032-3001,1,0,0,1,8,OPEN,43,Tradeshow/Promo,0,698,0,10,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,29,DAC0032-3001,1,0,0,1,8,OPEN,43,Tradeshow/Promo,0,698,0,10,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,16,DAC0032-3002,1,0,0,1,8,OPEN,43,Tradeshow/Promo,0,698,0,22,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,17,DAC0032-3003,1,0,0,1,8,OPEN,43,Tradeshow/Promo,0,698,0,12,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,18,DAC0032-3004,1,0,0,1,8,OPEN,43,Tradeshow/Promo,0,698,0,12,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,19,DAC0032-3005,1,0,0,1,8,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,20,DAC0032-3014,1,0,0,1,8,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,21,DAC0032-3015,1,0,0,1,8,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,22,DAC0032-3101,1,0,0,1,8,OPEN,43,Tradeshow/Promo,0,698,0,2,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,23,DAC0032-3102,1,0,0,1,8,OPEN,43,Tradeshow/Promo,0,698,0,12,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,24,DAC0032-3103,1,0,0,1,8,OPEN,43,Tradeshow/Promo,0,698,0,21,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,25,DAC0032-3104,1,0,0,1,8,OPEN,43,Tradeshow/Promo,0,698,0,7,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,26,DAC0032-3105,1,0,0,1,8,OPEN,43,Tradeshow/Promo,0,698,0,-1,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,27,DAC0032-3114,1,0,0,1,8,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,28,DAC0032-3115,1,0,0,1,8,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,30,DAC0033-3002,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,13,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,31,DAC0033-3003,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,11,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,32,DAC0033-3004,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,3,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,33,DAC0033-3005,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,34,DAC0033-3014,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,35,DAC0033-3015,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,36,DAC0033-3101,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,12,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,37,DAC0033-3102,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,11,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,38,DAC0033-3103,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,9,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,39,DAC0033-3104,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,40,DAC0033-3105,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,-1,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,41,DAC0033-3114,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,42,DAC0033-3115,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,-1,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,43,DAC0034-0001,1,0,0,1,6,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,44,DAC0034-0002,1,0,0,1,6,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,45,DAC0034-0003,1,0,0,1,6,OPEN,43,Tradeshow/Promo,0,698,0,6,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,46,DAC0034-0004,1,0,0,1,6,OPEN,43,Tradeshow/Promo,0,698,0,7,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,47,DAC0034-0005,1,0,0,1,6,OPEN,43,Tradeshow/Promo,0,698,0,1,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,48,DAC0034-0014,1,0,0,1,6,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,49,DAC0034-0015,1,0,0,1,6,OPEN,43,Tradeshow/Promo,0,698,0,3,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,50,DAC0035-0001,1,0,0,1,6,OPEN,43,Tradeshow/Promo,0,698,0,26,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,51,DAC0035-0002,1,0,0,1,5.99999967,OPEN,43,Tradeshow/Promo,0,698,0,9,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,52,DAC0035-0003,1,0,0,1,6,OPEN,43,Tradeshow/Promo,0,698,0,9,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,53,DAC0035-0004,1,0,0,1,6,OPEN,43,Tradeshow/Promo,0,698,0,5,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,54,DAC0035-0005,1,0,0,1,6,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,55,DAC0035-0014,1,0,0,1,6,OPEN,43,Tradeshow/Promo,0,698,0,8,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,56,DAC0035-0015,1,0,0,1,6,OPEN,43,Tradeshow/Promo,0,698,0,1,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,57,DAC0050-0101,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,1,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,58,DAC0050-0202,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,3,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,59,DAC0050-0303,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,1,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,60,DAC0050-0404,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,61,DAC0050-0505,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,62,DAC0050-1414,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,4,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,63,DAC0050-1515,1,0,0,1,10,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,64,DAC0055-3001,1,0,0,1,12,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,65,DAC0055-3002,1,0,0,1,12,OPEN,43,Tradeshow/Promo,0,698,0,-3,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,66,DAC0055-3003,1,0,0,1,12,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,67,DAC0055-3004,1,0,0,1,12,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,68,DAC0055-3005,1,0,0,1,12,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,69,DAC0055-3014,1,0,0,1,12,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,70,DAC0055-3015,1,0,0,1,12,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,71,DAC0055-3101,1,0,0,1,12,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,72,DAC0055-3102,1,0,0,1,12,OPEN,43,Tradeshow/Promo,0,698,0,-3,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,73,DAC0055-3103,1,0,0,1,12,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,74,DAC0055-3104,1,0,0,1,12,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,75,DAC0055-3105,1,0,0,1,12,OPEN,43,Tradeshow/Promo,0,698,0,-4,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,76,DAC0055-3114,1,0,0,1,12,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33212,Sales Order,6077,Tradeshow/Promo,5/11/2028,5/31/2028,No Charge,Hand Delivered,77,DAC0055-3115,1,0,0,1,12,OPEN,43,Tradeshow/Promo,0,698,0,0,
+33213,Sales Order,1979,Employee,5/11/2028,5/11/2028,Payroll Deduction,Hand Delivered,4,BAA0001,2,2,0,0,1,Closed,7,Retail,0,14.41,0,0,45889
+33213,Sales Order,1979,Employee,5/11/2028,5/11/2028,Payroll Deduction,Hand Delivered,3,DAC0132-0014,1,1,0,0,1.4,Closed,7,Retail,0,14.41,0,0,45889
+33213,Sales Order,1979,Employee,5/11/2028,5/11/2028,Payroll Deduction,Hand Delivered,1,DAC0161-0003,1,1,0,0,5.11,Closed,7,Retail,0,14.41,0,6,45889
+33213,Sales Order,1979,Employee,5/11/2028,5/11/2028,Payroll Deduction,Hand Delivered,2,DAC0183-0002,1,1,0,0,5.9,Closed,7,Retail,0,14.41,0,0,45889
+33214,Sales Order,7127,Promotional,5/11/2028,5/26/2028,Credit Card,UPS Ground,5,BAA0002,4,0,0,4,50,OPEN,7,Promotional,0,8589.29,4234.88,0,
+33214,Sales Order,7127,Promotional,5/11/2028,5/26/2028,Credit Card,UPS Ground,6,BAA0003,260,0,0,260,0.5,OPEN,7,Promotional,0,8589.29,4234.88,0,
+33214,Sales Order,7127,Promotional,5/11/2028,5/26/2028,Credit Card,UPS Ground,6,BAA0003,4,0,0,4,0.5,OPEN,7,Promotional,0,8589.29,4234.88,0,
+33214,Sales Order,7127,Promotional,5/11/2028,5/26/2028,Credit Card,UPS Ground,1,RCOF0055-0002,1,0,0,1,29.35,OPEN,7,Promotional,0,8589.29,4234.88,0,
+33214,Sales Order,7127,Promotional,5/11/2028,5/26/2028,Credit Card,UPS Ground,1,RCOF0055-0002,60,0,0,60,29.35,OPEN,7,Promotional,0,8589.29,4234.88,0,
+33214,Sales Order,7127,Promotional,5/11/2028,5/26/2028,Credit Card,UPS Ground,4,UHS0020-0002-MS,40,0,0,40,25,OPEN,7,Promotional,0,8589.29,4234.88,0,
+33214,Sales Order,7127,Promotional,5/11/2028,5/26/2028,Credit Card,UPS Ground,4,UHS0020-0002-MS,1,0,0,1,25,OPEN,7,Promotional,0,8589.29,4234.88,0,
+33214,Sales Order,7127,Promotional,5/11/2028,5/26/2028,Credit Card,UPS Ground,2,UHS0030-0002,1,0,0,1,35.19,OPEN,7,Promotional,0,8589.29,4234.88,0,
+33214,Sales Order,7127,Promotional,5/11/2028,5/26/2028,Credit Card,UPS Ground,2,UHS0030-0002,125,0,0,125,35.19,OPEN,7,Promotional,0,8589.29,4234.88,0,
+33214,Sales Order,7127,Promotional,5/11/2028,5/26/2028,Credit Card,UPS Ground,3,UHS0040-0002,1,0,0,1,28,OPEN,7,Promotional,0,8589.29,4234.88,1,
+33214,Sales Order,7127,Promotional,5/11/2028,5/26/2028,Credit Card,UPS Ground,3,UHS0040-0002,35,0,0,35,28,OPEN,7,Promotional,0,8589.29,4234.88,1,
+33215,Sales Order,5795,Corporate,5/11/2028,5/11/2028,No Charge,FedEx Ground,2,BAA0001,1,1,0,0,5,Closed,45,Corporate,0,13,0,0,45873
+33215,Sales Order,5795,Corporate,5/11/2028,5/11/2028,No Charge,FedEx Ground,1,BAA0003,16,16,0,0,0.5,Closed,45,Corporate,0,13,0,0,45873
+33216,Sales Order,5795,Corporate,5/11/2028,5/13/2028,No Charge,FedEx Ground,1,BAA0003,34,34,0,0,0.5,Closed,45,Corporate,0,17,0,0,45959
+33217,Sales Order,5821,Corporate,5/11/2028,5/27/2028,Credit Card,UPS Next Day,1,RCJ0144-0002,56,0,0,56,38.4,OPEN,45,Corporate,0,2400.4,0,0,
+33217,Sales Order,5821,Corporate,5/11/2028,5/27/2028,Credit Card,UPS Next Day,2,RUSH,1,0,0,1,250,OPEN,45,Corporate,0,2400.4,0,0,
+33218,Sales Order,7594,Wholesale,5/11/2028,5/11/2028,Credit Card,UPS Ground,2,DAC0024-0003,3,3,0,0,5,Closed,40,Wholesale,0,308,0,0,In Queue
+33218,Sales Order,7594,Wholesale,5/11/2028,5/11/2028,Credit Card,UPS Ground,1,DAC0024-0004,3,3,0,0,5,Closed,40,Wholesale,0,308,0,-3,In Queue
+33218,Sales Order,7594,Wholesale,5/11/2028,5/11/2028,Credit Card,UPS Ground,4,DAC0030-0002,3,3,0,0,4,Closed,40,Wholesale,0,308,0,1,In Queue
+33218,Sales Order,7594,Wholesale,5/11/2028,5/11/2028,Credit Card,UPS Ground,3,DAC0030-0015,3,3,0,0,4,Closed,40,Wholesale,0,308,0,0,In Queue
+33218,Sales Order,7594,Wholesale,5/11/2028,5/11/2028,Credit Card,UPS Ground,5,DAC0033-3102,3,3,0,0,10,Closed,40,Wholesale,0,308,0,11,In Queue
+33218,Sales Order,7594,Wholesale,5/11/2028,5/11/2028,Credit Card,UPS Ground,6,DAC0033-3114,3,3,0,0,10,Closed,40,Wholesale,0,308,0,0,In Queue
+33218,Sales Order,7594,Wholesale,5/11/2028,5/11/2028,Credit Card,UPS Ground,7,DAC0035-0001,3,3,0,0,6,Closed,40,Wholesale,0,308,0,26,In Queue
+33218,Sales Order,7594,Wholesale,5/11/2028,5/11/2028,Credit Card,UPS Ground,8,DAC0035-0004,3,3,0,0,6,Closed,40,Wholesale,0,308,0,5,In Queue
+33218,Sales Order,7594,Wholesale,5/11/2028,5/11/2028,Credit Card,UPS Ground,9,DAC0103-0002,2,2,0,0,10,Closed,40,Wholesale,0,308,0,0,In Queue
+33218,Sales Order,7594,Wholesale,5/11/2028,5/11/2028,Credit Card,UPS Ground,10,DAC0103-0015,2,2,0,0,10,Closed,40,Wholesale,0,308,0,0,In Queue
+33218,Sales Order,7594,Wholesale,5/11/2028,5/11/2028,Credit Card,UPS Ground,12,DAC0106-0002,2,2,0,0,10,Closed,40,Wholesale,0,308,0,0,In Queue
+33218,Sales Order,7594,Wholesale,5/11/2028,5/11/2028,Credit Card,UPS Ground,11,DAC0106-0003,2,2,0,0,10,Closed,40,Wholesale,0,308,0,0,In Queue
+33218,Sales Order,7594,Wholesale,5/11/2028,5/11/2028,Credit Card,UPS Ground,13,DAC0112-0001,2,2,0,0,12,Closed,40,Wholesale,0,308,0,0,In Queue
+33218,Sales Order,7594,Wholesale,5/11/2028,5/11/2028,Credit Card,UPS Ground,14,DAC0112-0003,2,2,0,0,12,Closed,40,Wholesale,0,308,0,0,In Queue
+33218,Sales Order,7594,Wholesale,5/11/2028,5/11/2028,Credit Card,UPS Ground,15,DAC0183-0001,2,2,0,0,15,Closed,40,Wholesale,0,308,0,1,In Queue
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,2,TBK0110-0001-ST,2,0,0,2,10,OPEN,7,Wholesale,0,889.5,0,-2,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,1,TBK0110-0002-ST,2,0,0,2,10,OPEN,7,Wholesale,0,889.5,0,1,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,5,TBK0110-0004-ST,1,0,0,1,10,OPEN,7,Wholesale,0,889.5,0,0,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,4,TBK0110-0005-ST,1,0,0,1,10,OPEN,7,Wholesale,0,889.5,0,0,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,3,TBK0110-0015-ST,1,0,0,1,10,OPEN,7,Wholesale,0,889.5,0,0,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,6,TBK0340-0001-ST,5,0,0,5,13.5,OPEN,7,Wholesale,0,889.5,0,1,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,7,TBK0340-0002-ST,7,0,0,7,13.5,OPEN,7,Wholesale,0,889.5,0,0,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,8,TBK0340-0003-ST,3,0,0,3,13.5,OPEN,7,Wholesale,0,889.5,0,61,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,9,TBK0340-0004-ST,5,0,0,5,13.5,OPEN,7,Wholesale,0,889.5,0,0,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,10,TBK0340-0005-ST,5,0,0,5,13.5,OPEN,7,Wholesale,0,889.5,0,18,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,11,TBK0340-0014-ST,4,0,0,4,13.5,OPEN,7,Wholesale,0,889.5,0,0,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,12,TBK0341-0001,5,0,0,5,11.5,OPEN,7,Wholesale,0,889.5,0,0,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,13,TBK0341-0002,9,0,0,9,11.5,OPEN,7,Wholesale,0,889.5,0,0,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,14,TBK0341-0003,3,0,0,3,11.5,OPEN,7,Wholesale,0,889.5,0,0,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,15,TBK0341-0004,5,0,0,5,11.5,OPEN,7,Wholesale,0,889.5,0,0,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,16,TBK0341-0005,6,0,0,6,11.5,OPEN,7,Wholesale,0,889.5,0,0,
+33219,Sales Order,3029,Wholesale,5/11/2028,5/27/2028,Credit Card,UPS Ground,17,TBK0341-0014,4,0,0,4,11.5,OPEN,7,Wholesale,0,889.5,0,0,
+33220,Sales Order,4542,Promotional,5/11/2028,5/20/2028,Credit Card,UPS NextDaySvr,2,BAA0002,3,3,0,0,50,Closed,7,Promotional,0,3325,0,0,In Queue
+33220,Sales Order,4542,Promotional,5/11/2028,5/20/2028,Credit Card,UPS NextDaySvr,3,BAA0003,750,750,0,0,0.5,Closed,7,Promotional,0,3325,0,0,In Queue
+33220,Sales Order,4542,Promotional,5/11/2028,5/20/2028,Credit Card,UPS NextDaySvr,1,DAC0160-0003,250,250,0,0,11,Closed,7,Promotional,0,3325,0,44,In Queue
+33220,Sales Order,4542,Promotional,5/11/2028,5/20/2028,Credit Card,UPS NextDaySvr,4,RUSH,1,1,0,0,50,Closed,7,Promotional,0,3325,0,0,In Queue
+33221,Sales Order,3083,Wholesale,5/11/2028,5/25/2028,Net 30,Pick Up,1,RCJ0004-0080,150,150,0,0,4.75,Closed,15,Wholesale,0,712.5,0,0,
+33222,Sales Order,6274,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Priority,1,DAC0741-0014,1,1,0,0,8,Closed,45,Retail,8,16.8,16.8,81,46009
+33222,Sales Order,6274,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Priority,2,BRS-0009,1,1,0,0,9.75,Closed,45,Retail,8,16.8,16.8,1096,46009
+33222,Sales Order,6274,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Priority,3,Shipping & Handling,1,1,0,0,7.05,Closed,45,Retail,8,16.8,16.8,0,46009
+33223,Sales Order,6275,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,4,BAA0001,2,2,0,0,10,Closed,45,Retail,8,143.75,143.75,0,46074
+33223,Sales Order,6275,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,1,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,143.75,143.75,47,46074
+33223,Sales Order,6275,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,2,ROF0030-0202,1,1,0,0,123.75,Closed,45,Retail,8,143.75,143.75,-2,46074
+33223,Sales Order,6275,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,8,143.75,143.75,0,46074
+33224,Sales Order,6276,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,47.55,47.55,0,46075
+33224,Sales Order,6276,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Priority,1,RPH0001-0001-MS,1,1,0,0,30.5,Closed,45,Retail,0,47.55,47.55,1,46075
+33224,Sales Order,6276,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.05,Closed,45,Retail,0,47.55,47.55,0,46075
+33225,Sales Order,6277,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Priority,2,DAC0741-0001,1,1,0,0,8,Closed,45,Retail,8,38.35,38.35,61,46011
+33225,Sales Order,6277,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Priority,1,TBK0241-0001,1,1,0,0,31.5,Closed,45,Retail,8,38.35,38.35,1,46011
+33225,Sales Order,6277,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Priority,3,Shipping & Handling,1,1,0,0,6.85,Closed,45,Retail,8,38.35,38.35,0,46011
+33226,Sales Order,6278,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Priority,2,BAA0001,1,1,0,0,10,Closed,45,Retail,0,39.91,39.91,0,46025
+33226,Sales Order,6278,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Priority,1,TBK0010-0001,1,1,0,0,23.06,Closed,45,Retail,0,39.91,39.91,-1,46025
+33226,Sales Order,6278,Retail:Online,5/11/2028,5/17/2028,Credit Card,USPS Priority,3,Shipping & Handling,1,1,0,0,6.85,Closed,45,Retail,0,39.91,39.91,0,46025
+33227,Sales Order,6279,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,4,BAA0001,1,1,0,0,10,Closed,45,Retail,8.15,73.35,73.35,0,46063
+33227,Sales Order,6279,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,5,BAA0012,1,1,0,0,5,Closed,45,Retail,8.15,73.35,73.35,0,46063
+33227,Sales Order,6279,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,1,ROD0001-0002,1,1,0,0,31.5,Closed,45,Retail,8.15,73.35,73.35,-3,46063
+33227,Sales Order,6279,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,2,RVRP-1315,1,1,0,0,35,Closed,45,Retail,8.15,73.35,73.35,8,46063
+33227,Sales Order,6279,Retail:Online,5/11/2028,5/17/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,8.15,73.35,73.35,0,46063
+33228,Sales Order,6280,Retail:Online,5/11/2028,5/17/2028,Paypal,Free Shipping,7,BAA0001,5,5,0,0,10,Closed,45,Retail,0,146.25,146.25,0,46076
+33228,Sales Order,6280,Retail:Online,5/11/2028,5/17/2028,Paypal,Free Shipping,3,ROD0025-0001,1,1,0,0,19.25,Closed,45,Retail,0,146.25,146.25,0,46076
+33228,Sales Order,6280,Retail:Online,5/11/2028,5/17/2028,Paypal,Free Shipping,4,ROD0025-0002,1,1,0,0,19.25,Closed,45,Retail,0,146.25,146.25,1,46076
+33228,Sales Order,6280,Retail:Online,5/11/2028,5/17/2028,Paypal,Free Shipping,5,ROD0025-0002,1,1,0,0,19.25,Closed,45,Retail,0,146.25,146.25,1,46076
+33228,Sales Order,6280,Retail:Online,5/11/2028,5/17/2028,Paypal,Free Shipping,1,ROD0025-0004,1,1,0,0,19.25,Closed,45,Retail,0,146.25,146.25,0,46076
+33228,Sales Order,6280,Retail:Online,5/11/2028,5/17/2028,Paypal,Free Shipping,2,ROD0025-0005,1,1,0,0,19.25,Closed,45,Retail,0,146.25,146.25,-1,46076
+33228,Sales Order,6280,Retail:Online,5/11/2028,5/17/2028,Paypal,Free Shipping,6,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,146.25,146.25,0,46076
+33229,Sales Order,6281,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,56.43,56.43,0,In Queue
+33229,Sales Order,6281,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,1,TBK0200-0005-DG,1,1,0,0,39.38,Closed,45,Retail,0,56.43,56.43,0,In Queue
+33229,Sales Order,6281,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.05,Closed,45,Retail,0,56.43,56.43,0,In Queue
+33230,Sales Order,6282,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,4,BAA0001,1,1,0,0,10,Closed,45,Retail,8,62.13,62.13,0,In Queue
+33230,Sales Order,6282,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,5,BAA0012,1,1,0,0,5,Closed,45,Retail,8,62.13,62.13,0,In Queue
+33230,Sales Order,6282,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,1,DAC0741-0004,1,1,0,0,8,Closed,45,Retail,8,62.13,62.13,78,In Queue
+33230,Sales Order,6282,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,2,TBK0200-0003,1,1,0,0,39.38,Closed,45,Retail,8,62.13,62.13,0,In Queue
+33230,Sales Order,6282,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,3,Shipping & Handling,1,1,0,0,7.75,Closed,45,Retail,8,62.13,62.13,0,In Queue
+33231,Sales Order,5836,Retail:Online,5/12/2028,5/18/2028,Paypal,USPS Priority,1,DAC0133-0001,1,1,0,0,18,Closed,45,Retail,0,25.05,25.05,2,46062
+33231,Sales Order,5836,Retail:Online,5/12/2028,5/18/2028,Paypal,USPS Priority,2,Shipping & Handling,1,1,0,0,7.05,Closed,45,Retail,0,25.05,25.05,0,46062
+33232,Sales Order,6283,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,57.4,57.4,0,In Queue
+33232,Sales Order,6283,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,1,TBK0170-0014,1,1,0,0,35,Closed,45,Retail,0,57.4,57.4,2,In Queue
+33232,Sales Order,6283,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,12.4,Closed,45,Retail,0,57.4,57.4,0,In Queue
+33233,Sales Order,6284,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,2,DAC0741-0015,1,1,0,0,8,Closed,45,Retail,8,67.5,67.5,75,46013
+33233,Sales Order,6284,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,1,TBK0050-0001-BK,1,1,0,0,67.5,Closed,45,Retail,8,67.5,67.5,0,46013
+33233,Sales Order,6284,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,8,67.5,67.5,0,46013
+33234,Sales Order,6015,Retail:Online,5/12/2028,5/18/2028,Paypal,USPS Priority,1,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,52.4,52.4,47,46008
+33234,Sales Order,6015,Retail:Online,5/12/2028,5/18/2028,Paypal,USPS Priority,2,RCJ0102-34WILD,1,1,0,0,40,Closed,45,Retail,8,52.4,52.4,0,46008
+33234,Sales Order,6015,Retail:Online,5/12/2028,5/18/2028,Paypal,USPS Priority,3,Shipping & Handling,1,1,0,0,12.4,Closed,45,Retail,8,52.4,52.4,0,46008
+33235,Sales Order,6285,Retail:Online,5/12/2028,5/18/2028,Paypal,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,24.05,24.05,0,46039
+33235,Sales Order,6285,Retail:Online,5/12/2028,5/18/2028,Paypal,USPS Priority,1,DAC0120-0002,1,1,0,0,6.75,Closed,45,Retail,0,24.05,24.05,-1,46039
+33235,Sales Order,6285,Retail:Online,5/12/2028,5/18/2028,Paypal,USPS Priority,2,Shipping & Handling,1,1,0,0,7.3,Closed,45,Retail,0,24.05,24.05,0,46039
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,2,DAC0030-0001,3,0,0,3,4,OPEN,40,Wholesale,0,657.5,0,0,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,3,DAC0030-0003,3,0,0,3,4,OPEN,40,Wholesale,0,657.5,0,39,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,4,DAC0030-0004,3,0,0,3,4,OPEN,40,Wholesale,0,657.5,0,2,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,5,DAC0033-3001,3,0,0,3,10,OPEN,40,Wholesale,0,657.5,0,10,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,6,DAC0033-3102,3,0,0,3,10,OPEN,40,Wholesale,0,657.5,0,11,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,7,DAC0033-3103,2,0,0,2,10,OPEN,40,Wholesale,0,657.5,0,9,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,8,DAC0101-0002,2,0,0,2,15,OPEN,40,Wholesale,0,657.5,0,28,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,9,DAC0101-0003,2,0,0,2,15,OPEN,40,Wholesale,0,657.5,0,11,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,10,DAC0105-0001,2,0,0,2,9,OPEN,40,Wholesale,0,657.5,0,0,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,11,DAC0105-0002,2,0,0,2,9,OPEN,40,Wholesale,0,657.5,0,0,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,12,DAC0107-0002,2,0,0,2,15,OPEN,40,Wholesale,0,657.5,0,0,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,13,DAC0131-0001,3,0,0,3,4,OPEN,40,Wholesale,0,657.5,0,6,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,14,DAC0131-0003,3,0,0,3,4,OPEN,40,Wholesale,0,657.5,0,8,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,15,DAC0131-0004,3,0,0,3,4,OPEN,40,Wholesale,0,657.5,0,16,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,16,DAC0132-0001,3,0,0,3,4,OPEN,40,Wholesale,0,657.5,0,8,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,17,DAC0132-0002,3,0,0,3,4,OPEN,40,Wholesale,0,657.5,0,0,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,18,DAC0132-0003,3,0,0,3,4,OPEN,40,Wholesale,0,657.5,0,25,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,19,DAC0165-0001,2,0,0,2,10,OPEN,40,Wholesale,0,657.5,0,0,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,27,DAC0167-0016,2,0,0,2,19,OPEN,40,Wholesale,0,657.5,0,1,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,20,DAC0175-0016,2,0,0,2,32,OPEN,40,Wholesale,0,657.5,0,0,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,22,TBK0172-0002-DG,2,0,0,2,20,OPEN,40,Wholesale,0,657.5,0,-1,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,23,TBK0172-0003-DG,2,0,0,2,20,OPEN,40,Wholesale,0,657.5,0,0,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,1,TBK0200-0001-DG,1,0,0,1,17.5,OPEN,40,Wholesale,0,657.5,0,-1,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,25,TBK0216-0002,2,0,0,2,15,OPEN,40,Wholesale,0,657.5,0,2,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,26,TBK0216-0003,2,0,0,2,15,OPEN,40,Wholesale,0,657.5,0,0,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,24,TBK0245-0001,2,0,0,2,17,OPEN,40,Wholesale,0,657.5,0,-3,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,28,UHS0017-0018-NH-MS,2,0,0,2,5,OPEN,40,Wholesale,0,657.5,0,0,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,29,UHS0017-0019-NH-MS,2,0,0,2,5,OPEN,40,Wholesale,0,657.5,0,0,
+33236,Sales Order,6286,Wholesale,5/12/2028,5/25/2028,Credit Card,UPS Ground,21,BRS-0006,2,0,0,2,5,OPEN,40,Wholesale,0,657.5,0,3745,
+33237,Sales Order,5245,Promotional,5/12/2028,5/13/2028,Credit Card,UPS Ground,1,UHS0003-0004,1,1,0,0,17.68,Closed,37,Promotional,0,35.36,0,-1,46070
+33237,Sales Order,5245,Promotional,5/12/2028,5/13/2028,Credit Card,UPS Ground,1,UHS0003-0004,1,1,0,0,17.68,Closed,37,Promotional,0,35.36,0,-1,46070
+33238,Sales Order,4524,Wholesale,5/12/2028,5/13/2028,Net 60,Pick Up,1,RPH0030-0001-WP,1,1,0,0,45,Closed,15,Wholesale,0,45,0,1,45940
+33239,Sales Order,4524,Wholesale,5/12/2028,5/13/2028,Net 60,Pick Up,2,BAA0001,1,1,0,0,3,Closed,41,Wholesale,0,48,0,0,45939
+33239,Sales Order,4524,Wholesale,5/12/2028,5/13/2028,Net 60,Pick Up,1,RPH0030-0001-WP,1,1,0,0,45,Closed,41,Wholesale,0,48,0,1,45939
+33240,Sales Order,2910,Promotional,5/12/2028,5/13/2028,Net 30,UPS Next Day,1,DAC0810-0002,1,1,0,0,52,Closed,37,Promotional,0,52,0,1,45984
+33241,Sales Order,2215,Promotional,5/12/2028,5/24/2028,Net 30,UPS Ground,3,BAA0001,7,0,0,7,5,OPEN,7,Promotional,0,252.84,0,0,
+33241,Sales Order,2215,Promotional,5/12/2028,5/24/2028,Net 30,UPS Ground,2,BAA0003,7,0,0,7,0.5,OPEN,7,Promotional,0,252.84,0,0,
+33241,Sales Order,2215,Promotional,5/12/2028,5/24/2028,Net 30,UPS Ground,1,RCJ0027-0002,7,0,0,7,30.62,OPEN,7,Promotional,0,252.84,0,0,
+33242,Sales Order,1194,Dropship,5/12/2028,5/19/2028,Net 30,UPS Ground,1,ROF0040-0404,1,0,0,EA,35,OPEN,6,,0,0,40.95,0,
+33242,Sales Order,1194,Dropship,5/12/2028,5/19/2028,Net 30,UPS Ground,2,Drop Ship Charge,1,1,0,0,5.95,Closed,7,Dropship,0,40.95,0,0,In Queue
+33243,Sales Order,3037,Dropship,5/12/2028,5/19/2028,Net 30,USPS Priority,2,BAA0001,1,1,0,0,8,Closed,7,Dropship,0,30.95,0,0,In Queue
+33243,Sales Order,3037,Dropship,5/12/2028,5/19/2028,Net 30,USPS Priority,1,ROD0020-0001,1,1,0,0,17,Closed,7,Dropship,0,30.95,0,-1,In Queue
+33243,Sales Order,3037,Dropship,5/12/2028,5/19/2028,Net 30,USPS Priority,3,Drop Ship Charge,1,1,0,0,5.95,Closed,7,Dropship,0,30.95,0,0,In Queue
+33244,Sales Order,6077,Tradeshow/Promo,5/12/2028,5/12/2028,No Charge,USPS Priority,1,TBK0041-0155-WP,2,2,0,0,23.5,Closed,3,Tradeshow/Promo,0,47,0,1,46056
+33245,Sales Order,7159,Wholesale,5/12/2028,5/24/2028,Credit Card,FedEx Ground,7,DAC0183-0002,2,0,0,2,15,OPEN,40,Wholesale,0,411,0,0,
+33245,Sales Order,7159,Wholesale,5/12/2028,5/24/2028,Credit Card,FedEx Ground,4,DAC0183-0015,2,0,0,2,15,OPEN,40,Wholesale,0,411,0,1,
+33245,Sales Order,7159,Wholesale,5/12/2028,5/24/2028,Credit Card,FedEx Ground,1,DAC0740-0006,10,0,0,10,2.5,OPEN,40,Wholesale,0,411,0,0,
+33245,Sales Order,7159,Wholesale,5/12/2028,5/24/2028,Credit Card,FedEx Ground,5,ROF0030-0202,2,0,0,2,55,OPEN,40,Wholesale,0,411,0,-2,
+33245,Sales Order,7159,Wholesale,5/12/2028,5/24/2028,Credit Card,FedEx Ground,2,ROF0030-1515,2,0,0,2,55,OPEN,40,Wholesale,0,411,0,0,
+33245,Sales Order,7159,Wholesale,5/12/2028,5/24/2028,Credit Card,FedEx Ground,6,TBK0170-0002,2,0,0,2,16,OPEN,40,Wholesale,0,411,0,92,
+33245,Sales Order,7159,Wholesale,5/12/2028,5/24/2028,Credit Card,FedEx Ground,3,TBK0170-0015,2,0,0,2,16,OPEN,40,Wholesale,0,411,0,0,
+33245,Sales Order,7159,Wholesale,5/12/2028,5/24/2028,Credit Card,FedEx Ground,8,TBK0215-0002,2,0,0,2,21,OPEN,40,Wholesale,0,411,0,-2,
+33246,Sales Order,4508,Promotional,5/12/2028,5/20/2028,Credit Card,UPS Ground,2,BAA0003,150,150,0,0,0.5,Closed,7,Promotional,0,592.5,0,0,In Queue
+33246,Sales Order,4508,Promotional,5/12/2028,5/20/2028,Credit Card,UPS Ground,1,RCJ0128-0005,150,150,0,0,3.45,Closed,7,Promotional,0,592.5,0,0,In Queue
+33247,Sales Order,6088,Promotional,5/12/2028,5/19/2028,Credit Card,UPS Ground,2,BAA0003,330,330,0,0,0.5,Closed,7,Promotional,0,1303.5,0,0,In Queue
+33247,Sales Order,6088,Promotional,5/12/2028,5/19/2028,Credit Card,UPS Ground,1,RCJ0079-0002,330,330,0,0,3.45,Closed,7,Promotional,0,1303.5,0,0,In Queue
+33248,Sales Order,722,Promotional,5/12/2028,5/13/2028,Credit Card,FedEx Priority,1,DAC0750-0014,2,2,0,0,16.64,Closed,7,Promotional,0,33.28,0,0,45983
+33249,Sales Order,6287,Retail:Online,5/12/2028,5/18/2028,Paypal,USPS Priority,4,BAA0001,1,1,0,0,10,Closed,45,Retail,8,68.6,68.6,0,In Queue
+33249,Sales Order,6287,Retail:Online,5/12/2028,5/18/2028,Paypal,USPS Priority,2,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,68.6,68.6,47,In Queue
+33249,Sales Order,6287,Retail:Online,5/12/2028,5/18/2028,Paypal,USPS Priority,1,TBK0130-0002,1,1,0,0,47.25,Closed,45,Retail,8,68.6,68.6,-1,In Queue
+33249,Sales Order,6287,Retail:Online,5/12/2028,5/18/2028,Paypal,USPS Priority,3,Shipping & Handling,1,1,0,0,11.35,Closed,45,Retail,8,68.6,68.6,0,In Queue
+33250,Sales Order,6288,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,1,TBK0080-0001,1,1,0,0,101.25,Closed,45,Retail,0,113.65,113.65,-1,46010
+33250,Sales Order,6288,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,12.4,Closed,45,Retail,0,113.65,113.65,0,46010
+33251,Sales Order,6289,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,1,TBK0170-0002,1,1,0,0,35,Closed,45,Retail,0,45.25,45.25,92,46047
+33251,Sales Order,6289,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,10.25,Closed,45,Retail,0,45.25,45.25,0,46047
+33252,Sales Order,6290,Retail:Online,5/12/2028,5/18/2028,Paypal,UPS 3-Day,4,BAA0001,2,2,0,0,10,Closed,45,Retail,8,168.46,168.46,0,In Queue
+33252,Sales Order,6290,Retail:Online,5/12/2028,5/18/2028,Paypal,UPS 3-Day,5,BAA0012,1,1,0,0,5,Closed,45,Retail,8,168.46,168.46,0,In Queue
+33252,Sales Order,6290,Retail:Online,5/12/2028,5/18/2028,Paypal,UPS 3-Day,2,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,168.46,168.46,47,In Queue
+33252,Sales Order,6290,Retail:Online,5/12/2028,5/18/2028,Paypal,UPS 3-Day,1,ROF0030-0202,1,1,0,0,123.75,Closed,45,Retail,8,168.46,168.46,-2,In Queue
+33252,Sales Order,6290,Retail:Online,5/12/2028,5/18/2028,Paypal,UPS 3-Day,3,Shipping & Handling,1,1,0,0,19.71,Closed,45,Retail,8,168.46,168.46,0,In Queue
+33253,Sales Order,8448,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,2,DAC0030-0002,1,1,0,0,9,Closed,45,Retail,9,67.5,67.5,1,46033
+33253,Sales Order,8448,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,1,TBK0060-0002,1,1,0,0,67.5,Closed,45,Retail,9,67.5,67.5,-2,46033
+33253,Sales Order,8448,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,9,67.5,67.5,0,46033
+33254,Sales Order,6291,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,3,BAA0001,2,2,0,0,10,Closed,45,Retail,0,64.45,64.45,0,In Queue
+33254,Sales Order,6291,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,1,TBK0170-0001,1,1,0,0,35,Closed,45,Retail,0,64.45,64.45,93,In Queue
+33254,Sales Order,6291,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,9.45,Closed,45,Retail,0,64.45,64.45,0,In Queue
+33255,Sales Order,6292,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,1,ROD0001-0002,1,1,0,0,41.5,Closed,45,Retail,0,48.45,48.45,-3,In Queue
+33255,Sales Order,6292,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,6.95,Closed,45,Retail,0,48.45,48.45,0,In Queue
+33256,Sales Order,6293,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,4,BAA0001,2,2,0,0,10,Closed,45,Retail,0,184.25,184.25,0,In Queue
+33256,Sales Order,6293,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,2,RPH0020-0003-WP,1,1,0,0,63,Closed,45,Retail,0,184.25,184.25,0,In Queue
+33256,Sales Order,6293,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,1,TBK0080-0014,1,1,0,0,101.25,Closed,45,Retail,0,184.25,184.25,0,In Queue
+33256,Sales Order,6293,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,184.25,184.25,0,In Queue
+33257,Sales Order,6294,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,4,BAA0001,1,1,0,0,10,Closed,45,Retail,8,79.75,79.75,0,In Queue
+33257,Sales Order,6294,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,1,DAC0741-0001,1,1,0,0,8,Closed,45,Retail,8,79.75,79.75,61,In Queue
+33257,Sales Order,6294,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,2,ROF0020-0101,1,1,0,0,69.75,Closed,45,Retail,8,79.75,79.75,0,In Queue
+33257,Sales Order,6294,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,8,79.75,79.75,0,In Queue
+33258,Sales Order,6295,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,3,BAA0001,2,2,0,0,10,Closed,45,Retail,0,72.85,72.85,0,46030
+33258,Sales Order,6295,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,1,TBK0172-0002,1,1,0,0,45,Closed,45,Retail,0,72.85,72.85,-1,46030
+33258,Sales Order,6295,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.85,Closed,45,Retail,0,72.85,72.85,0,46030
+33259,Sales Order,6296,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,2,TBK0205-0002-MS-DG,1,1,0,0,50.63,Closed,45,Retail,0,113.13,113.13,-1,46031
+33259,Sales Order,6296,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,1,BRS-0005,5,5,0,0,12.5,Closed,45,Retail,0,113.13,113.13,5552.69,46031
+33259,Sales Order,6296,Retail:Online,5/12/2028,5/18/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,113.13,113.13,0,46031
+33260,Sales Order,6297,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,1,BRS-0003,1,1,0,0,8,Closed,45,Retail,0,15.05,15.05,4701,46012
+33260,Sales Order,6297,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.05,Closed,45,Retail,0,15.05,15.05,0,46012
+33261,Sales Order,6298,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,52.3,52.3,0,In Queue
+33261,Sales Order,6298,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,1,RPH0010-0002,1,1,0,0,35,Closed,45,Retail,0,52.3,52.3,0,In Queue
+33261,Sales Order,6298,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.3,Closed,45,Retail,0,52.3,52.3,0,In Queue
+33262,Sales Order,6299,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,3,BAA0012,1,1,0,0,5,Closed,45,Retail,0,44.35,44.35,0,In Queue
+33262,Sales Order,6299,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,1,ROD0001-0002,1,1,0,0,31.5,Closed,45,Retail,0,44.35,44.35,-3,In Queue
+33262,Sales Order,6299,Retail:Online,5/12/2028,5/18/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.85,Closed,45,Retail,0,44.35,44.35,0,In Queue
+33263,Sales Order,6300,Retail:Online,5/13/2028,5/19/2028,Credit Card,USPS Priority,3,BAA0001,1,1,0,0,10,Closed,45,Retail,0,53.8,53.8,0,In Queue
+33263,Sales Order,6300,Retail:Online,5/13/2028,5/19/2028,Credit Card,USPS Priority,4,BAA0012,1,1,0,0,5,Closed,45,Retail,0,53.8,53.8,0,In Queue
+33263,Sales Order,6300,Retail:Online,5/13/2028,5/19/2028,Credit Card,USPS Priority,1,ROD0001-0004,1,1,0,0,31.5,Closed,45,Retail,0,53.8,53.8,0,In Queue
+33263,Sales Order,6300,Retail:Online,5/13/2028,5/19/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.3,Closed,45,Retail,0,53.8,53.8,0,In Queue
+33264,Sales Order,6301,Retail:Online,5/13/2028,5/19/2028,Credit Card,USPS Priority,3,BAA0001,2,2,0,0,10,Closed,45,Retail,0,65.25,65.25,0,In Queue
+33264,Sales Order,6301,Retail:Online,5/13/2028,5/19/2028,Credit Card,USPS Priority,1,TBK0170-0002,1,1,0,0,35,Closed,45,Retail,0,65.25,65.25,92,In Queue
+33264,Sales Order,6301,Retail:Online,5/13/2028,5/19/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,10.25,Closed,45,Retail,0,65.25,65.25,0,In Queue
+33265,Sales Order,6302,Retail:Online,5/13/2028,5/19/2028,Credit Card,UPS 2nd Day,4,BAA0001,2,2,0,0,10,Closed,45,Retail,0,122.46,122.46,0,In Queue
+33265,Sales Order,6302,Retail:Online,5/13/2028,5/19/2028,Credit Card,UPS 2nd Day,1,RPH0010-0005,1,1,0,0,35,Closed,45,Retail,0,122.46,122.46,0,In Queue
+33265,Sales Order,6302,Retail:Online,5/13/2028,5/19/2028,Credit Card,UPS 2nd Day,2,RPH0010-0005,1,1,0,0,35,Closed,45,Retail,0,122.46,122.46,0,In Queue
+33265,Sales Order,6302,Retail:Online,5/13/2028,5/19/2028,Credit Card,UPS 2nd Day,3,Shipping & Handling,1,1,0,0,32.46,Closed,45,Retail,0,122.46,122.46,0,In Queue
+33266,Sales Order,6303,Retail:Online,5/13/2028,5/19/2028,Paypal,USPS Priority,1,DAC0133-0001,1,1,0,0,18,Closed,45,Retail,0,24.85,24.85,2,46034
+33266,Sales Order,6303,Retail:Online,5/13/2028,5/19/2028,Paypal,USPS Priority,2,Shipping & Handling,1,1,0,0,6.85,Closed,45,Retail,0,24.85,24.85,0,46034
+33267,Sales Order,6304,Retail:Online,5/13/2028,5/19/2028,Credit Card,Free Shipping,5,BAA0001,2,2,0,0,10,Closed,45,Retail,10.75,96.75,96.75,0,
+33267,Sales Order,6304,Retail:Online,5/13/2028,5/19/2028,Credit Card,Free Shipping,6,BAA0012,1,1,0,0,5,Closed,45,Retail,10.75,96.75,96.75,0,
+33267,Sales Order,6304,Retail:Online,5/13/2028,5/19/2028,Credit Card,Free Shipping,3,RVRR-1302,1,1,0,0,25,Closed,45,Retail,10.75,96.75,96.75,1,
+33267,Sales Order,6304,Retail:Online,5/13/2028,5/19/2028,Credit Card,Free Shipping,1,TBK0172-0004,1,1,0,0,45,Closed,45,Retail,10.75,96.75,96.75,0,
+33267,Sales Order,6304,Retail:Online,5/13/2028,5/19/2028,Credit Card,Free Shipping,2,BRS-0005,1,1,0,0,12.5,Closed,45,Retail,10.75,96.75,96.75,5552.69,
+33267,Sales Order,6304,Retail:Online,5/13/2028,5/19/2028,Credit Card,Free Shipping,4,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,10.75,96.75,96.75,0,
+33268,Sales Order,6305,Retail:Online,5/13/2028,5/19/2028,Paypal,USPS Priority,1,TBK0021-0155,1,1,0,0,28.25,Closed,45,Retail,0,35.1,35.1,0,46043
+33268,Sales Order,6305,Retail:Online,5/13/2028,5/19/2028,Paypal,USPS Priority,2,Shipping & Handling,1,1,0,0,6.85,Closed,45,Retail,0,35.1,35.1,0,46043
+33269,Sales Order,6306,Retail:Online,5/13/2028,5/19/2028,Paypal,USPS Priority,1,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,51.35,51.35,47,46007
+33269,Sales Order,6306,Retail:Online,5/13/2028,5/19/2028,Paypal,USPS Priority,2,RCJ0102-34WILD,1,1,0,0,40,Closed,45,Retail,8,51.35,51.35,0,46007
+33269,Sales Order,6306,Retail:Online,5/13/2028,5/19/2028,Paypal,USPS Priority,3,Shipping & Handling,1,1,0,0,11.35,Closed,45,Retail,8,51.35,51.35,0,46007
+33270,Sales Order,6307,Retail:Online,5/13/2028,5/19/2028,Credit Card,Free Shipping,2,RVRS-1701,1,1,0,0,58,Closed,45,Retail,17.38,156.37,156.37,2,46036
+33270,Sales Order,6307,Retail:Online,5/13/2028,5/19/2028,Credit Card,Free Shipping,3,TBK0060-0002,1,1,0,0,67.5,Closed,45,Retail,17.38,156.37,156.37,-2,46036
+33270,Sales Order,6307,Retail:Online,5/13/2028,5/19/2028,Credit Card,Free Shipping,4,TBK0245-0002,1,1,0,0,38.25,Closed,45,Retail,17.38,156.37,156.37,-2,46036
+33270,Sales Order,6307,Retail:Online,5/13/2028,5/19/2028,Credit Card,Free Shipping,1,KFN04,1,1,0,0,10,Closed,45,Retail,17.38,156.37,156.37,0,46036
+33270,Sales Order,6307,Retail:Online,5/13/2028,5/19/2028,Credit Card,Free Shipping,5,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,17.38,156.37,156.37,0,46036
+33271,Sales Order,6308,Retail:Online,5/13/2028,5/19/2028,Credit Card,Free Shipping,1,ROF0050-0101,2,2,0,0,65.25,Closed,45,Retail,6.53,123.97,123.97,2,In Queue
+33271,Sales Order,6308,Retail:Online,5/13/2028,5/19/2028,Credit Card,Free Shipping,2,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,6.53,123.97,123.97,0,In Queue
+33272,Sales Order,1129,Promotional,5/13/2028,5/16/2028,Credit Card,UPS Ground,1,TBK0050-0001-WP,1,1,0,0,31.2,Closed,37,Promotional,0,31.2,0,60,46001
+33273,Sales Order,6077,Tradeshow/Promo,5/13/2028,5/13/2028,No Charge,Hand Delivered,7,DAC0032-3101,1,0,1,1,8,OPEN,,Tradeshow/Promo,0,71,0,2,
+33273,Sales Order,6077,Tradeshow/Promo,5/13/2028,5/13/2028,No Charge,Hand Delivered,6,DAC0035-0013,1,0,1,1,6,OPEN,,Tradeshow/Promo,0,71,0,-2,
+33273,Sales Order,6077,Tradeshow/Promo,5/13/2028,5/13/2028,No Charge,Hand Delivered,4,DAC0138-0001,1,0,1,1,9,OPEN,,Tradeshow/Promo,0,71,0,8,
+33273,Sales Order,6077,Tradeshow/Promo,5/13/2028,5/13/2028,No Charge,Hand Delivered,3,DAC0160-0001,1,0,1,1,11.5,OPEN,,Tradeshow/Promo,0,71,0,40,
+33273,Sales Order,6077,Tradeshow/Promo,5/13/2028,5/13/2028,No Charge,Hand Delivered,5,DAC0741-0015,1,0,1,1,3.5,OPEN,,Tradeshow/Promo,0,71,0,75,
+33273,Sales Order,6077,Tradeshow/Promo,5/13/2028,5/13/2028,No Charge,Hand Delivered,2,DAC0750-0005,1,0,1,1,16,OPEN,,Tradeshow/Promo,0,71,0,2,
+33273,Sales Order,6077,Tradeshow/Promo,5/13/2028,5/13/2028,No Charge,Hand Delivered,1,UHS0003-0015,1,0,1,1,17,OPEN,,Tradeshow/Promo,0,71,0,1,
+33274,Sales Order,1549,Promotional,5/13/2028,5/27/2028,Net 30,UPS Ground,1,Prototype,1,0,0,1,150,OPEN,40,Promotional,0,150,0,0,
+33275,Sales Order,4329,,5/13/2028,5/26/2028,Net 30,FedEx Ground,1,TBK0216-0001,75,0,0,75,15,OPEN,40,Wholesale,0,1125,0,0,
+33276,Sales Order,2354,Promotional,5/13/2028,5/19/2028,Net 30,UPS NextDaySvr,2,BAA0002,1,1,0,0,50,Closed,7,Promotional,0,71.3,0,0,In Queue
+33276,Sales Order,2354,Promotional,5/13/2028,5/19/2028,Net 30,UPS NextDaySvr,3,BAA0003,1,1,0,0,0.5,Closed,7,Promotional,0,71.3,0,0,In Queue
+33276,Sales Order,2354,Promotional,5/13/2028,5/19/2028,Net 30,UPS NextDaySvr,1,TBK0172-0004,1,1,0,0,20.8,Closed,7,Promotional,0,71.3,0,0,In Queue
+33277,Sales Order,3006,Promotional,5/13/2028,5/16/2028,Credit Card,UPS Next Day,1,DAC0111-0001,1,1,0,0,9,Closed,37,Promotional,0,41,0,0,46014
+33277,Sales Order,3006,Promotional,5/13/2028,5/16/2028,Credit Card,UPS Next Day,2,DAC0175-0001,1,1,0,0,32,Closed,37,Promotional,0,41,0,0,46014
+33278,Sales Order,6309,Corporate,5/13/2028,5/25/2028,Credit Card,UPS 2nd Day,2,BAA0001,72,0,0,72,8,OPEN,45,Corporate,0,3041.74,0,0,
+33278,Sales Order,6309,Corporate,5/13/2028,5/25/2028,Credit Card,UPS 2nd Day,1,TBK0172-0001,72,0,0,72,30.07,OPEN,45,Corporate,0,3041.74,0,7,
+33278,Sales Order,6309,Corporate,5/13/2028,5/25/2028,Credit Card,UPS 2nd Day,3,TBK0172-0001,10,0,0,10,30.07,OPEN,45,Corporate,0,3041.74,0,7,
+33279,Sales Order,6310,Wholesale,5/13/2028,5/18/2028,Credit Card,UPS Ground,3,TBK0040-0001-BK,1,1,0,0,24,Closed,7,Wholesale,0,72,0,50,In Queue
+33279,Sales Order,6310,Wholesale,5/13/2028,5/18/2028,Credit Card,UPS Ground,1,TBK0040-0002-BK,1,1,0,0,24,Closed,7,Wholesale,0,72,0,6,In Queue
+33279,Sales Order,6310,Wholesale,5/13/2028,5/18/2028,Credit Card,UPS Ground,2,TBK0040-0015-BK,1,1,0,0,24,Closed,7,Wholesale,0,72,0,-1,In Queue
+33280,Sales Order,3731,Promotional,5/13/2028,5/25/2028,Credit Card,UPS Ground,8,BAA0002,1,0,0,1,50,OPEN,7,Promotional,0,244.82,0,0,
+33280,Sales Order,3731,Promotional,5/13/2028,5/25/2028,Credit Card,UPS Ground,9,BAA0003,51,0,0,51,0.5,OPEN,7,Promotional,0,244.82,0,0,
+33280,Sales Order,3731,Promotional,5/13/2028,5/25/2028,Credit Card,UPS Ground,1,DAC0741-0001,7,0,0,7,3.32,OPEN,7,Promotional,0,244.82,0,61,
+33280,Sales Order,3731,Promotional,5/13/2028,5/25/2028,Credit Card,UPS Ground,2,DAC0741-0002,8,0,0,8,3.32,OPEN,7,Promotional,0,244.82,0,47,
+33280,Sales Order,3731,Promotional,5/13/2028,5/25/2028,Credit Card,UPS Ground,3,DAC0741-0003,7,0,0,7,3.32,OPEN,7,Promotional,0,244.82,0,80,
+33280,Sales Order,3731,Promotional,5/13/2028,5/25/2028,Credit Card,UPS Ground,4,DAC0741-0004,7,0,0,7,3.32,OPEN,7,Promotional,0,244.82,0,78,
+33280,Sales Order,3731,Promotional,5/13/2028,5/25/2028,Credit Card,UPS Ground,5,DAC0741-0005,7,0,0,7,3.32,OPEN,7,Promotional,0,244.82,0,84,
+33280,Sales Order,3731,Promotional,5/13/2028,5/25/2028,Credit Card,UPS Ground,6,DAC0741-0014,7,0,0,7,3.32,OPEN,7,Promotional,0,244.82,0,81,
+33280,Sales Order,3731,Promotional,5/13/2028,5/25/2028,Credit Card,UPS Ground,7,DAC0741-0015,8,0,0,8,3.32,OPEN,7,Promotional,0,244.82,0,75,
+33281,Sales Order,5136,Promotional,5/13/2028,5/24/2028,Net 30,UPS Ground,2,BAA0002,1,0,0,1,50,OPEN,7,Promotional,0,103.75,0,0,
+33281,Sales Order,5136,Promotional,5/13/2028,5/24/2028,Net 30,UPS Ground,3,BAA0003,25,0,0,25,0.15,OPEN,7,Promotional,0,103.75,0,0,
+33281,Sales Order,5136,Promotional,5/13/2028,5/24/2028,Net 30,UPS Ground,1,UHS0010-0009-Single,25,0,0,25,2,OPEN,7,Promotional,0,103.75,0,0,
+33282,Sales Order,2641,Wholesale,5/13/2028,5/26/2028,Credit Card,UPS Ground,7,DAC0105-0001,2,0,0,2,9,OPEN,45,Wholesale,0,299.5,0,0,
+33282,Sales Order,2641,Wholesale,5/13/2028,5/26/2028,Credit Card,UPS Ground,6,DAC0105-0005,2,0,0,2,9,OPEN,45,Wholesale,0,299.5,0,-1,
+33282,Sales Order,2641,Wholesale,5/13/2028,5/26/2028,Credit Card,UPS Ground,5,DAC0105-0015,2,0,0,2,9,OPEN,45,Wholesale,0,299.5,0,0,
+33282,Sales Order,2641,Wholesale,5/13/2028,5/26/2028,Credit Card,UPS Ground,4,DAC0167-0016,2,0,0,2,19,OPEN,45,Wholesale,0,299.5,0,1,
+33282,Sales Order,2641,Wholesale,5/13/2028,5/26/2028,Credit Card,UPS Ground,3,DAC0183-3015,5,0,0,5,15,OPEN,45,Wholesale,0,299.5,0,0,
+33282,Sales Order,2641,Wholesale,5/13/2028,5/26/2028,Credit Card,UPS Ground,1,TBK0110-0015-ST,5,0,0,5,10,OPEN,45,Wholesale,0,299.5,0,0,
+33282,Sales Order,2641,Wholesale,5/13/2028,5/26/2028,Credit Card,UPS Ground,2,UPH0001-3115-HS,5,0,0,5,16.5,OPEN,45,Wholesale,0,299.5,0,0,
+33283,Sales Order,2173,Promotional,5/13/2028,5/17/2028,Credit Card,UPS Ground,2,BAA0001,1,1,0,0,5,Closed,33,Promotional,0,28.72,0,0,46072
+33283,Sales Order,2173,Promotional,5/13/2028,5/17/2028,Credit Card,UPS Ground,3,BAA0001,1,1,0,0,5,Closed,33,Promotional,0,28.72,0,0,46072
+33283,Sales Order,2173,Promotional,5/13/2028,5/17/2028,Credit Card,UPS Ground,1,TBK0030-0002-WP,1,1,0,0,18.72,Closed,33,Promotional,0,28.72,0,154,46072
+33284,Sales Order,2355,Promotional,5/13/2028,5/17/2028,Half/Half 30,UPS Ground,8,DAC0101-0002,1,1,0,0,15,Closed,37,Promotional,0,176,0,28,46066
+33284,Sales Order,2355,Promotional,5/13/2028,5/17/2028,Half/Half 30,UPS Ground,5,DAC0120-0005,1,1,0,0,3,Closed,37,Promotional,0,176,0,0,46066
+33284,Sales Order,2355,Promotional,5/13/2028,5/17/2028,Half/Half 30,UPS Ground,6,DAC0152-0004,1,1,0,0,12,Closed,37,Promotional,0,176,0,2,46066
+33284,Sales Order,2355,Promotional,5/13/2028,5/17/2028,Half/Half 30,UPS Ground,4,DAC0160-0015,1,1,0,0,11.5,Closed,37,Promotional,0,176,0,18,46066
+33284,Sales Order,2355,Promotional,5/13/2028,5/17/2028,Half/Half 30,UPS Ground,9,ROF0050-1414,1,1,0,0,29,Closed,37,Promotional,0,176,0,3,46066
+33284,Sales Order,2355,Promotional,5/13/2028,5/17/2028,Half/Half 30,UPS Ground,2,ROF0060-0106,1,1,0,0,38,Closed,37,Promotional,0,176,0,8,46066
+33284,Sales Order,2355,Promotional,5/13/2028,5/17/2028,Half/Half 30,UPS Ground,3,RPH0030-0001-WP,1,1,0,0,45,Closed,37,Promotional,0,176,0,1,46066
+33284,Sales Order,2355,Promotional,5/13/2028,5/17/2028,Half/Half 30,UPS Ground,7,TBK0020-0101-PK,1,1,0,0,12.5,Closed,37,Promotional,0,176,0,-2,46066
+33284,Sales Order,2355,Promotional,5/13/2028,5/17/2028,Half/Half 30,UPS Ground,1,TBK0110-0003-SP,1,1,0,0,10,Closed,37,Promotional,0,176,0,7,46066
+33286,Sales Order,6311,,5/13/2028,5/19/2028,Credit Card,USPS Priority,1,ROD0021-0002,1,1,0,0,48.25,Closed,45,Retail,0,55.55,55.55,1,In Queue
+33286,Sales Order,6311,,5/13/2028,5/19/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.3,Closed,45,Retail,0,55.55,55.55,0,In Queue
+33287,Sales Order,6312,,5/13/2028,5/19/2028,Paypal,Free Shipping,1,TPH0020-0001-BK,1,1,0,0,73,Closed,45,Retail,0,73,73,2,In Queue
+33287,Sales Order,6312,,5/13/2028,5/19/2028,Paypal,Free Shipping,2,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,73,73,0,In Queue
+33288,Sales Order,6313,,5/13/2028,5/19/2028,Credit Card,USPS Priority,1,ROD0010-0002,1,1,0,0,48.25,Closed,45,Retail,0,55.55,55.55,-1,In Queue
+33288,Sales Order,6313,,5/13/2028,5/19/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.3,Closed,45,Retail,0,55.55,55.55,0,In Queue
+33289,Sales Order,6314,,5/13/2028,5/19/2028,Credit Card,USPS Priority,2,DAC0182-0001,1,1,0,0,22.5,Closed,45,Retail,8,29.35,29.35,0,In Queue
+33289,Sales Order,6314,,5/13/2028,5/19/2028,Credit Card,USPS Priority,1,DAC0741-0001,1,1,0,0,8,Closed,45,Retail,8,29.35,29.35,61,In Queue
+33289,Sales Order,6314,,5/13/2028,5/19/2028,Credit Card,USPS Priority,3,Shipping & Handling,1,1,0,0,6.85,Closed,45,Retail,8,29.35,29.35,0,In Queue
+33290,Sales Order,6315,,5/13/2028,5/19/2028,Credit Card,Free Shipping,1,ROF0030-0101,1,1,0,0,123.75,Closed,45,Retail,0,123.75,123.75,8,46037
+33290,Sales Order,6315,,5/13/2028,5/19/2028,Credit Card,Free Shipping,2,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,123.75,123.75,0,46037
+33291,Sales Order,6316,,5/13/2028,5/19/2028,Credit Card,USPS Priority,1,TBK0020-0004,1,1,0,0,26.44,Closed,45,Retail,0,34.29,34.29,0,In Queue
+33291,Sales Order,6316,,5/13/2028,5/19/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.85,Closed,45,Retail,0,34.29,34.29,0,In Queue
+33292,Sales Order,6317,,5/13/2028,5/19/2028,Credit Card,Free Shipping,1,ROF0040-0505,1,1,0,0,98.75,Closed,45,Retail,0,108.75,108.75,0,In Queue
+33292,Sales Order,6317,,5/13/2028,5/19/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,0,108.75,108.75,0,In Queue
+33293,Sales Order,6318,,5/13/2028,5/19/2028,Credit Card,USPS Priority,1,DAC0741-0015,1,1,0,0,8,Closed,45,Retail,8,46.1,46.1,75,46042
+33293,Sales Order,6318,,5/13/2028,5/19/2028,Credit Card,USPS Priority,2,TBK0245-0015,1,1,0,0,38.25,Closed,45,Retail,8,46.1,46.1,16,46042
+33293,Sales Order,6318,,5/13/2028,5/19/2028,Credit Card,USPS Priority,3,Shipping & Handling,1,1,0,0,7.85,Closed,45,Retail,8,46.1,46.1,0,46042
+33294,Sales Order,6319,,5/13/2028,5/19/2028,Credit Card,USPS Priority,1,DAC0741-0002,1,1,0,0,8,Closed,45,Retail,8,45.2,45.2,47,In Queue
+33294,Sales Order,6319,,5/13/2028,5/19/2028,Credit Card,USPS Priority,2,TBK0245-0002,1,1,0,0,38.25,Closed,45,Retail,8,45.2,45.2,-2,In Queue
+33294,Sales Order,6319,,5/13/2028,5/19/2028,Credit Card,USPS Priority,3,Shipping & Handling,1,1,0,0,6.95,Closed,45,Retail,8,45.2,45.2,0,In Queue
+33295,Sales Order,6320,,5/13/2028,5/19/2028,Credit Card,USPS Priority,2,DAC0030-0002,1,1,0,0,9,Closed,45,Retail,9,16.85,16.85,1,46024
+33295,Sales Order,6320,,5/13/2028,5/19/2028,Credit Card,USPS Priority,1,DAC0131-0005,1,1,0,0,9,Closed,45,Retail,9,16.85,16.85,2,46024
+33295,Sales Order,6320,,5/13/2028,5/19/2028,Credit Card,USPS Priority,3,Shipping & Handling,1,1,0,0,7.85,Closed,45,Retail,9,16.85,16.85,0,46024
+33296,Sales Order,6321,,5/14/2028,5/20/2028,Credit Card,USPS Priority,2,DAC0183-0001,1,0,0,1,30,OPEN,45,Retail,19.5,187.9,187.9,1,
+33296,Sales Order,6321,,5/14/2028,5/20/2028,Credit Card,USPS Priority,3,RPF117,1,1,0,0,20,OPEN,45,Retail,19.5,187.9,187.9,5,
+33296,Sales Order,6321,,5/14/2028,5/20/2028,Credit Card,USPS Priority,4,RVRF-1331,1,0,0,1,55,OPEN,45,Retail,19.5,187.9,187.9,5,
+33296,Sales Order,6321,,5/14/2028,5/20/2028,Credit Card,USPS Priority,1,TBK0080-0001,1,1,0,0,90,OPEN,45,Retail,19.5,187.9,187.9,-1,
+33296,Sales Order,6321,,5/14/2028,5/20/2028,Credit Card,USPS Priority,5,Shipping & Handling,1,0,0,1,12.4,OPEN,45,Retail,19.5,187.9,187.9,0,
+33297,Sales Order,6322,,5/14/2028,5/20/2028,Credit Card,USPS Priority,1,TBK0030-0004-WP,1,1,0,0,55.5,OPEN,45,Retail,0,61.95,61.95,7,
+33297,Sales Order,6322,,5/14/2028,5/20/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,0,0,1,6.45,OPEN,45,Retail,0,61.95,61.95,0,
+33298,Sales Order,6323,,5/14/2028,5/20/2028,Credit Card,USPS Priority,1,TBK0170-0002,1,1,0,0,45,Closed,45,Retail,0,51.8,51.8,92,
+33298,Sales Order,6323,,5/14/2028,5/20/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,6.8,Closed,45,Retail,0,51.8,51.8,0,
+33299,Sales Order,6324,,5/14/2028,5/20/2028,Paypal,USPS Priority,1,ROF0050-0101,1,1,0,0,85.25,Closed,45,Retail,0,94.7,94.7,2,
+33299,Sales Order,6324,,5/14/2028,5/20/2028,Paypal,USPS Priority,2,Shipping & Handling,1,1,0,0,9.45,Closed,45,Retail,0,94.7,94.7,0,
+33300,Sales Order,6325,,5/14/2028,5/20/2028,Paypal,USPS Priority,1,RVRP-1315,1,1,0,0,35,Closed,45,Retail,0,42.85,42.85,8,46038
+33300,Sales Order,6325,,5/14/2028,5/20/2028,Paypal,USPS Priority,2,Shipping & Handling,1,1,0,0,7.85,Closed,45,Retail,0,42.85,42.85,0,46038
+33301,Sales Order,6326,,5/14/2028,5/20/2028,Credit Card,Free Shipping,2,RVRP-1315,1,1,0,0,35,Closed,45,Retail,8,72,72,8,In Queue
+33301,Sales Order,6326,,5/14/2028,5/20/2028,Credit Card,Free Shipping,1,TBK0172-0004,1,1,0,0,45,Closed,45,Retail,8,72,72,0,In Queue
+33301,Sales Order,6326,,5/14/2028,5/20/2028,Credit Card,Free Shipping,3,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,8,72,72,0,In Queue
+33302,Sales Order,6232,Wholesale,5/14/2028,5/30/2028,Credit Card,USPS Intl Prty,1,ROD0001-0101-PK,20,0,0,20,15,OPEN,45,Wholesale,0,1437.65,1437.65,0,
+33302,Sales Order,6232,Wholesale,5/14/2028,5/30/2028,Credit Card,USPS Intl Prty,6,ROF0040-0101,3,0,0,3,35,OPEN,45,Wholesale,0,1437.65,1437.65,1,
+33302,Sales Order,6232,Wholesale,5/14/2028,5/30/2028,Credit Card,USPS Intl Prty,5,RPH0030-0001-WP,3,0,0,3,45,OPEN,45,Wholesale,0,1437.65,1437.65,1,
+33302,Sales Order,6232,Wholesale,5/14/2028,5/30/2028,Credit Card,USPS Intl Prty,4,TBK0020-0001,5,0,0,5,11.75,OPEN,45,Wholesale,0,1437.65,1437.65,2,
+33302,Sales Order,6232,Wholesale,5/14/2028,5/30/2028,Credit Card,USPS Intl Prty,7,TBK0150-0001,15,0,0,15,13,OPEN,45,Wholesale,0,1437.65,1437.65,0,
+33302,Sales Order,6232,Wholesale,5/14/2028,5/30/2028,Credit Card,USPS Intl Prty,3,TBK0170-0001,15,0,0,15,16,OPEN,45,Wholesale,0,1437.65,1437.65,93,
+33302,Sales Order,6232,Wholesale,5/14/2028,5/30/2028,Credit Card,USPS Intl Prty,2,TBK0231-0101,3,0,0,3,45,OPEN,45,Wholesale,0,1437.65,1437.65,0,
+33302,Sales Order,6232,Wholesale,5/14/2028,5/30/2028,Credit Card,USPS Intl Prty,8,Shipping & Handling,1,0,0,1,268.9,OPEN,45,Wholesale,0,1437.65,1437.65,0,
+33303,Sales Order,6327,,5/14/2028,5/20/2028,Credit Card,USPS Priority,1,BRS-0008,2,2,0,0,5.5,Closed,45,Retail,0,18.05,18.05,0,46046
+33303,Sales Order,6327,,5/14/2028,5/20/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.05,Closed,45,Retail,0,18.05,18.05,0,46046
+33304,Sales Order,6328,,5/14/2028,5/20/2028,Paypal,USPS Priority,1,TBK0170-0014,1,1,0,0,45,OPEN,45,Retail,0,52.75,52.75,2,
+33304,Sales Order,6328,,5/14/2028,5/20/2028,Paypal,USPS Priority,2,Shipping & Handling,1,0,0,1,7.75,OPEN,45,Retail,0,52.75,52.75,0,
+33305,Sales Order,6329,,5/14/2028,5/20/2028,Credit Card,USPS Priority,1,ROD0001-0202-PK,1,1,0,0,33.75,Closed,45,Retail,0,40.8,40.8,7,46029
+33305,Sales Order,6329,,5/14/2028,5/20/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.05,Closed,45,Retail,0,40.8,40.8,0,46029
+33306,Sales Order,6330,,5/14/2028,5/20/2028,Credit Card,USPS Priority,1,UHS0003-0001,1,1,0,0,48.25,OPEN,45,Retail,0,56.1,56.1,16,
+33306,Sales Order,6330,,5/14/2028,5/20/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,0,0,1,7.85,OPEN,45,Retail,0,56.1,56.1,0,
+33307,Sales Order,6331,,5/14/2028,5/20/2028,Credit Card,Free Shipping,5,DAC0741-0001,1,1,0,0,8,Closed,45,Retail,8,101,101,61,In Queue
+33307,Sales Order,6331,,5/14/2028,5/20/2028,Credit Card,Free Shipping,1,TBK0172-0001,1,1,0,0,45,Closed,45,Retail,8,101,101,7,In Queue
+33307,Sales Order,6331,,5/14/2028,5/20/2028,Credit Card,Free Shipping,2,TBK0216-0001,1,1,0,0,33.75,Closed,45,Retail,8,101,101,0,In Queue
+33307,Sales Order,6331,,5/14/2028,5/20/2028,Credit Card,Free Shipping,3,BRS-0005,1,1,0,0,12.5,Closed,45,Retail,8,101,101,5552.69,In Queue
+33307,Sales Order,6331,,5/14/2028,5/20/2028,Credit Card,Free Shipping,4,BRS-0009,1,1,0,0,9.75,Closed,45,Retail,8,101,101,1096,In Queue
+33307,Sales Order,6331,,5/14/2028,5/20/2028,Credit Card,Free Shipping,6,Shipping & Handling,1,1,0,0,0,Closed,45,Retail,8,101,101,0,In Queue
+33308,Sales Order,6332,,5/14/2028,5/20/2028,Credit Card,USPS Priority,1,ROD0001-0015,1,1,0,0,41.5,Closed,45,Retail,0,49.35,49.35,0,
+33308,Sales Order,6332,,5/14/2028,5/20/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.85,Closed,45,Retail,0,49.35,49.35,0,
+33309,Sales Order,6333,,5/14/2028,5/20/2028,Credit Card,USPS Priority,1,TBK0030-0002-WP,1,1,0,0,40.5,Closed,45,Retail,0,48.35,48.35,154,46026
+33309,Sales Order,6333,,5/14/2028,5/20/2028,Credit Card,USPS Priority,2,Shipping & Handling,1,1,0,0,7.85,Closed,45,Retail,0,48.35,48.35,0,46026
+33310,Sales Order,6334,,5/14/2028,5/20/2028,Credit Card,Free Shipping,1,ROF0030-1414,1,0,0,1,133.75,OPEN,45,Retail,0,133.75,133.75,0,
+33310,Sales Order,6334,,5/14/2028,5/20/2028,Credit Card,Free Shipping,2,Shipping & Handling,1,0,0,1,0,OPEN,45,Retail,0,133.75,133.75,0,
