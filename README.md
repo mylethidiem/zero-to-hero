@@ -40,15 +40,14 @@ Notes on writing commits:
 - Capitalize the first letter, no periods at the end of the line.
 - If needed, you can describe in more detail on the line below after a blank line.
 
-### 🛠️ Git Rules for Team Collaboration
+### Git Rules for Team Collaboration
 1. Branch Regulations
 Default development on dev branch
 Do not commit directly to main unless there is a release tag
 Name the branch in the form:
 ```php
-feature/<tên-tính-năng>
-fix/<tên-vấn-đề>
-chore/<tên-nhiệm-vụ>
+feature/<feature-name>
+fix/<issue-name>
 ```
 Examples: feature/data-cleaning, fix/memory-leak
 2. Commit & Push process
@@ -78,8 +77,9 @@ Examples: feature/data-cleaning, fix/memory-leak
 
 ### Python
 - Learning sources from Udemy: Python 3: Deep Dive from [Part 1](https://www.udemy.com/course/python-3-deep-dive-part-1) - [Part 4](https://www.udemy.com/course/python-3-deep-dive-part-4)
-# Data Science And Artificial Intelligence
 - [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
+### Data Science And Artificial Intelligence
+- Learning sources from [AIVN](https://aivietnam.edu.vn)
 <!-- (Udemy, Coursera, AWS, NVDIA, Kaggle) -->
 
 ### Practice:
@@ -94,3 +94,4 @@ Examples: feature/data-cleaning, fix/memory-leak
 1. https://www.kaggle.com/learn/certification/banhmuy/python
 2. https://www.kaggle.com/learn/certification/banhmuy/pandas
 3. https://codelearn.io/profile/920858
+
