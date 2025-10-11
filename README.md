@@ -7,12 +7,12 @@
   - [Introduction](#introduction)
   - [Usage](#usage)
     - [Commit message convention](#commit-message-convention)
-    - [🛠️ Git Rules for Team Collaboration](#️-git-rules-for-team-collaboration)
+    - [Git Rules for Team Collaboration](#git-rules-for-team-collaboration)
   - [Overview](#overview)
     - [C++](#c)
     - [Git](#git)
     - [Python](#python)
-- [Data Science And Artificial Intelligence](#data-science-and-artificial-intelligence)
+    - [Data Science And Artificial Intelligence](#data-science-and-artificial-intelligence)
     - [Practice:](#practice)
   - [Contribution](#contribution)
   - [Certificates](#certificates)
@@ -63,8 +63,8 @@ Examples: feature/data-cleaning, fix/memory-leak
 - If unsure, ask your teammates to handle it
 5. File và Folder Structure
 - Keep your directory structure clean and standard
-- Name your files meaningfully, in lowercase, and with hyphens: data-cleaning.py, eda-notebook.ipynb
-6. Ignore files
+- Name your files meaningfully
+1. Ignore files
 - All temporary files, sensitive data, large output (checkpoints, model weights, .csv) should be added to .gitignore
 
 ## Overview
