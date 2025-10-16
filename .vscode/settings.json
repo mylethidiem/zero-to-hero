@@ -2,4 +2,7 @@
 	"editor.formatOnSave": true,
 	"files.trimTrailingWhitespace": true,
 	"C_Cpp.default.compilerPath": "cl.exe",
+	"python-envs.defaultEnvManager": "ms-python.python:conda",
+	"python-envs.defaultPackageManager": "ms-python.python:conda",
+	"python-envs.pythonProjects": [],
 }
