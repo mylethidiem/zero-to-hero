@@ -1,20 +1,68 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+# What does this PR do?
 
----
+<!--
+Congratulations! You've made it this far! You're not quite done yet though.
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+Once merged, your PR is going to appear in the release notes with the title you set, so make sure it's a great title that fully reflects the extent of your awesome contribution.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Then, please replace this with a description of the change and which issue is fixed (if applicable). Please also include relevant motivation and context. List any dependencies (if any) that are required for this change.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+Once you're done, someone will review your PR shortly (see the section "Who can review?" below to tag some potential reviewers). They may suggest changes to make the code even better. If no one reviewed your PR after a week has passed, don't hesitate to post a new comment @-mentioning the same persons---sometimes notifications get lost.
+-->
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+<!-- Remove if not applicable -->
+
+Fixes # (issue)
+
+
+## Before submitting
+- [ ] This PR fixes a typo or improves the docs (you can dismiss the other checks if that's the case).
+- [ ] Was this discussed/approved via a Github issue
+- [ ] Did you make sure to update the documentation with your changes? Here are the
+      documentation guidelines.
+- [ ] Did you write any new necessary tests?
+
+
+## Who can review?
+
+Anyone in the community is free to review the PR once the tests have passed. Feel free to tag
+members/contributors who may be interested in your PR.
+
+<!-- Your PR will be replied to more quickly if you can figure out the right person to tag with @
+
+ If you know how to use git blame, that is the easiest way, otherwise, here is a rough guide of **who to tag**.
+ Please tag fewer than 3 people.
+
+Models:
+
+- text models: @mylethidiem
+- vision models: @mylethidiem
+- audio models: @mylethidiem
+- multimodal models: @mylethidiem
+- graph models: @mylethidiem
+
+Library:
+
+- generate: @mylethidiem
+- continuous batching: @mylethidiem
+- pipelines: @mylethidiem
+- tokenizers: @mylethidiem
+- trainer: @mylethidiem
+- attention: @mylethidiem
+- model loading (from pretrained, etc): @mylethidiem
+- distributed: @mylethidiem
+- CIs: @mylethidiem
+
+Integrations:
+
+-
+
+Devices/Backends:
+
+- AMD Bravo
+
+Documentation: @mylethidiem
+
+Research projects are not maintained and should be taken as is.
+
+ -->
