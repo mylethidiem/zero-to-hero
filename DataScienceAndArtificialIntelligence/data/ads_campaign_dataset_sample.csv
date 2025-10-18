@@ -1,0 +1,1007 @@
+Campaign_ID,Target_Audience,Campaign_Goal,Duration,Channel_Used,Conversion_Rate,Spend,ROI,Location,Language,Clicks,Impressions,Customer_Segment,Date,Company
+819114,Women 25-34,Market Expansion,45 Days,Twitter,"0,07","8311,42","5,43",Austin,French,21772,66009,Fashion,2022-04-04 00:00:00,Glam Garments
+701591,Women 18-24,Brand Awareness,45 Days,Pinterest,"0,13","7762,14","0,943785552",Miami,Spanish,11903,39741,Food,2022-04-08 00:00:00,Feast Flavors
+374605,Women 25-34,Market Expansion,60 Days,Twitter,"0,14","12306,92","0,24",New York,English,32581,98024,Food,2022-08-09 00:00:00,Savor Street
+737924,Men 18-24,Increase Sales,15 Days,Pinterest,"0,06","2811,25","0,831174776",New York,English,4042,14144,Fashion,2022-08-15 00:00:00,Vogue Visions
+367825,Men 25-34,Increase Sales,45 Days,Instagram,"0,02","8881,3","1,76",New York,English,23303,70545,Food,2022-05-16 00:00:00,Gastronomy Guild
+525364,Men 25-34,Brand Awareness,45 Days,Pinterest,"0,11","9055,95","0,731076308",Miami,Spanish,13961,46440,Food,2022-10-02 00:00:00,Nosh Nirvana
+758996,Men 25-34,Market Expansion,15 Days,Twitter,"0,09","817,27","5,41",Austin,French,2545,9057,Food,2022-11-12 00:00:00,Gastronomy Guild
+124142,Men 25-34,Increase Sales,45 Days,Instagram,"0,11","9941,47","2,33",Austin,English,26188,79088,Fashion,2022-09-13 00:00:00,Chic Couture
+570477,Men 25-34,Increase Sales,30 Days,Twitter,"0,1","4419,45","4,43",Las Vegas,French,11188,34659,Food,2022-10-22 00:00:00,Culinary Quest
+833013,Men 18-24,Market Expansion,45 Days,Pinterest,"0,02","9391,2","0,436143323",Los Angeles,Spanish,14494,48177,Fashion,2022-03-11 00:00:00,Style Sphere
+240601,Women 18-24,Brand Awareness,60 Days,Instagram,"0,05","13047,17","4,78",New York,English,34495,103695,Fashion,2022-05-21 00:00:00,Mode Maven
+392009,Women 35-44,Market Expansion,15 Days,Twitter,"0,02","3769,75","0,53",Miami,Spanish,9415,29409,Food,2022-03-07 00:00:00,Nosh Nirvana
+990297,Men 35-44,Market Expansion,15 Days,Facebook,"0,1",2752,"1,46",Austin,French,6738,21478,Food,2022-08-26 00:00:00,Gastronomy Guild
+198437,Men 25-34,Product Launch,30 Days,Twitter,"0,04","6165,34","1,57",New York,Spanish,15945,48751,Fashion,2022-12-27 00:00:00,Fiber Fashion
+659111,Men 18-24,Product Launch,15 Days,Instagram,"0,15",3091,"6,14",New York,English,7614,24072,Fashion,2022-04-10 00:00:00,Fiber Fashion
+307278,Women 18-24,Market Expansion,60 Days,Instagram,"0,13","11638,69","5,75",New York,Spanish,30817,92802,Food,2022-01-13 00:00:00,Palate Paradise
+491441,Women 35-44,Market Expansion,45 Days,Pinterest,"0,04","9392,93","0,693539383",Miami,English,14497,48186,Food,2022-11-28 00:00:00,Epicurean Edge
+972089,Women 35-44,Market Expansion,30 Days,Pinterest,"0,14","4908,9","1,337029532",Las Vegas,English,7356,24936,Food,2022-11-12 00:00:00,Gourmet Grove
+442401,Women 25-34,Increase Sales,60 Days,Pinterest,"0,08","11475,48","0,452230577",Los Angeles,French,17840,59071,Food,2022-02-10 00:00:00,Dine Divine
+243979,Men 25-34,Market Expansion,60 Days,Instagram,"0,13","14020,02","2,03",Miami,French,36710,110255,Food,2022-09-02 00:00:00,Nosh Nirvana
+473377,Men 35-44,Product Launch,15 Days,Facebook,"0,08","1435,89","2,41",Las Vegas,Spanish,3677,12411,Food,2022-05-02 00:00:00,Gourmet Grove
+782778,Men 25-34,Brand Awareness,60 Days,Twitter,"0,06","11898,25","3,39",Los Angeles,French,31503,94832,Food,2022-05-23 00:00:00,Culinary Quest
+353033,Men 18-24,Market Expansion,30 Days,Instagram,"0,02","6418,88","5,05",Las Vegas,French,16629,50775,Food,2022-08-24 00:00:00,Gourmet Grove
+666807,Women 18-24,Brand Awareness,15 Days,Instagram,"0,03","1806,89","0,43",New York,English,4454,14714,Food,2022-11-04 00:00:00,Culinary Quest
+574650,Men 35-44,Product Launch,15 Days,Facebook,"0,11","2184,61","4,45",Miami,English,5346,17354,Food,2022-10-20 00:00:00,Gourmet Grove
+452594,Women 18-24,Increase Sales,45 Days,Twitter,"0,03","9805,23","7,24",New York,English,25832,78034,Fashion,2022-03-27 00:00:00,Trend Tailors
+844256,Women 18-24,Market Expansion,60 Days,Twitter,"0,15",11417,"6,14",Miami,French,30213,91010,Food,2022-12-06 00:00:00,Epicurean Edge
+443475,Women 18-24,Market Expansion,15 Days,Twitter,"0,14","1740,72","6,91",Los Angeles,English,4307,14277,Fashion,2022-10-29 00:00:00,Attire Artistry
+942655,Men 25-34,Product Launch,30 Days,Twitter,"0,02","4993,74","4,33",Miami,English,12753,39294,Food,2022-09-18 00:00:00,Feast Flavors
+648285,Men 25-34,Increase Sales,30 Days,Instagram,"0,14",5343,"7,61",Las Vegas,Spanish,13706,42116,Food,2022-10-20 00:00:00,Epicurean Edge
+924744,Women 35-44,Market Expansion,30 Days,Pinterest,"0,08","4449,23","0,455805522",Los Angeles,French,6618,22532,Food,2022-06-09 00:00:00,Gourmet Grove
+257597,Women 25-34,Product Launch,60 Days,Twitter,"0,03","12728,28","0,53",Miami,French,33681,101283,Fashion,2022-09-26 00:00:00,Style Sphere
+624335,Men 35-44,Market Expansion,15 Days,Twitter,"0,13","2359,59","0,61",Las Vegas,Spanish,5768,18605,Food,2022-02-20 00:00:00,Dine Divine
+447301,Women 35-44,Market Expansion,60 Days,Pinterest,"0,06","13116,81","0,593440915",Austin,French,20359,67275,Food,2022-05-31 00:00:00,Palate Paradise
+861387,Men 18-24,Product Launch,45 Days,Facebook,"0,13","11368,64","2,92",Los Angeles,French,30080,90618,Fashion,2022-06-25 00:00:00,Mode Maven
+659528,Women 18-24,Market Expansion,60 Days,Twitter,"0,14",15000,"4,82",New York,English,39900,119706,Fashion,2022-06-23 00:00:00,Vogue Visions
+930789,Men 18-24,Product Launch,45 Days,Pinterest,"0,09","10349,93","0,938423134",Los Angeles,English,16035,53197,Food,2022-08-29 00:00:00,Gastronomy Guild
+979230,Women 18-24,Market Expansion,15 Days,Twitter,"0,04","2724,58","5,77",Austin,Spanish,6667,21266,Food,2022-09-06 00:00:00,Culinary Quest
+808288,Men 18-24,Increase Sales,60 Days,Instagram,"0,02","12488,07","1,42",Las Vegas,Spanish,33052,99421,Food,2022-09-17 00:00:00,Palate Paradise
+562700,Men 25-34,Market Expansion,30 Days,Pinterest,"0,13","5626,02","0,668514766",Los Angeles,French,8505,28676,Food,2022-06-16 00:00:00,Nosh Nirvana
+160197,Men 35-44,Brand Awareness,15 Days,Twitter,"0,14",500,"2,9",Austin,Spanish,1554,6123,Food,2022-12-09 00:00:00,Bistro Bliss
+887416,Men 25-34,Brand Awareness,60 Days,Pinterest,"0,14",15000,"0,94914797",Los Angeles,French,22962,75750,Food,2022-03-14 00:00:00,Feast Flavors
+982814,Men 18-24,Product Launch,60 Days,Facebook,"0,15","11458,69","6,1",Los Angeles,English,30330,91358,Food,2022-01-30 00:00:00,Dine Divine
+800337,Men 25-34,Product Launch,45 Days,Facebook,"0,07","8313,25","1,31",Las Vegas,English,21777,66024,Food,2022-04-05 00:00:00,Epicurean Edge
+212744,Men 25-34,Market Expansion,60 Days,Facebook,"0,05","13464,65","2,06",Las Vegas,English,35497,106663,Fashion,2022-09-18 00:00:00,Runway Rebels
+654846,Women 25-34,Increase Sales,30 Days,Pinterest,"0,03","6296,58","0,580928607",New York,French,9572,32150,Food,2022-06-08 00:00:00,Gourmet Grove
+940739,Women 25-34,Brand Awareness,60 Days,Instagram,"0,13","13041,11","1,86",New York,French,34479,103648,Fashion,2022-12-20 00:00:00,Glam Garments
+574371,Women 35-44,Brand Awareness,45 Days,Instagram,"0,08","9260,91",3,New York,English,24327,73578,Food,2022-04-15 00:00:00,Nosh Nirvana
+283690,Men 25-34,Market Expansion,30 Days,Pinterest,"0,03","4195,64","0,988472368",Austin,English,6211,21205,Fashion,2022-06-27 00:00:00,Silk & Style
+717829,Women 25-34,Increase Sales,30 Days,Facebook,"0,07","4939,96","5,42",Las Vegas,Spanish,12608,38866,Fashion,2022-08-04 00:00:00,Trend Tailors
+896111,Women 25-34,Market Expansion,30 Days,Pinterest,"0,1","4566,59","1,210118975",Los Angeles,Spanish,6808,23149,Fashion,2022-11-16 00:00:00,Glam Garments
+816505,Women 25-34,Brand Awareness,45 Days,Facebook,"0,15","8666,61","3,53",Los Angeles,French,22734,68859,Food,2022-09-21 00:00:00,Culinary Quest
+755308,Women 25-34,Product Launch,30 Days,Pinterest,"0,03","4497,06","1,372778985",Austin,French,6696,22784,Food,2022-07-04 00:00:00,Feast Flavors
+695914,Women 35-44,Product Launch,60 Days,Instagram,"0,13","13266,22","7,02",Austin,Spanish,35030,105279,Fashion,2022-10-27 00:00:00,Silk & Style
+450733,Men 18-24,Product Launch,30 Days,Pinterest,"0,14","7283,47","0,021449672",Austin,French,11136,37242,Fashion,2022-09-28 00:00:00,Silk & Style
+301394,Women 18-24,Brand Awareness,45 Days,Facebook,"0,07","10030,32","5,12",Los Angeles,French,26432,79812,Fashion,2022-04-16 00:00:00,Chic Couture
+320375,Men 18-24,Product Launch,15 Days,Instagram,"0,12","1431,86","1,57",Los Angeles,Spanish,3668,12383,Food,2022-11-27 00:00:00,Gourmet Grove
+187214,Women 35-44,Product Launch,15 Days,Twitter,"0,07","766,79","4,48",Miami,English,2467,8826,Food,2022-08-22 00:00:00,Feast Flavors
+541694,Women 35-44,Increase Sales,45 Days,Twitter,"0,1","8149,34","3,54",New York,English,21323,64680,Fashion,2022-03-30 00:00:00,Attire Artistry
+961619,Men 18-24,Market Expansion,45 Days,Instagram,"0,1","9228,9","4,2",Austin,English,24243,73328,Fashion,2022-11-27 00:00:00,Silk & Style
+272489,Women 35-44,Market Expansion,45 Days,Pinterest,"0,08","10487,26","0,863349284",New York,Spanish,16259,53922,Fashion,2022-03-17 00:00:00,Fiber Fashion
+738523,Men 18-24,Increase Sales,45 Days,Twitter,"0,03","7954,95","3,73",New York,French,20790,63101,Food,2022-06-18 00:00:00,Bistro Bliss
+168323,Women 18-24,Increase Sales,45 Days,Twitter,"0,14","8157,62","7,41",Los Angeles,French,21348,64752,Fashion,2022-11-25 00:00:00,Vogue Visions
+797212,Women 25-34,Brand Awareness,45 Days,Pinterest,"0,03","7826,55","0,046474289",Miami,French,12005,40071,Food,2022-07-16 00:00:00,Feast Flavors
+685400,Women 18-24,Product Launch,30 Days,Twitter,"0,06","4510,69","0,83",New York,Spanish,11438,35400,Fashion,2022-05-22 00:00:00,Silk & Style
+860933,Men 18-24,Product Launch,60 Days,Facebook,"0,03",15000,"4,16",Los Angeles,Spanish,39773,119328,Fashion,2022-10-05 00:00:00,Attire Artistry
+943802,Women 25-34,Increase Sales,15 Days,Facebook,"0,02","1047,1","3,33",Miami,French,2949,10256,Fashion,2022-12-27 00:00:00,Chic Couture
+835245,Women 18-24,Market Expansion,45 Days,Twitter,"0,1","9891,62","2,98",New York,English,26062,78716,Fashion,2022-06-16 00:00:00,Style Sphere
+680059,Women 18-24,Brand Awareness,60 Days,Facebook,"0,12","12515,04","2,05",Las Vegas,Spanish,33124,99634,Food,2022-08-31 00:00:00,Culinary Quest
+601141,Women 18-24,Product Launch,45 Days,Pinterest,"0,13","9083,51","0,46116794",Las Vegas,French,14005,46585,Fashion,2022-05-04 00:00:00,Runway Rebels
+206153,Women 35-44,Market Expansion,45 Days,Facebook,"0,09","8557,12","2,34",Los Angeles,French,22442,67992,Fashion,2022-09-04 00:00:00,Mode Maven
+927065,Men 25-34,Increase Sales,45 Days,Pinterest,"0,04","8288,3","0,055411652",Miami,English,12749,42494,Fashion,2022-12-28 00:00:00,Runway Rebels
+916432,Women 25-34,Brand Awareness,60 Days,Pinterest,"0,12","14227,77","0,797212796",New York,French,21812,72004,Food,2022-12-29 00:00:00,Nosh Nirvana
+779484,Men 18-24,Brand Awareness,60 Days,Facebook,"0,02",15000,"3,68",Las Vegas,English,39562,118705,Fashion,2022-06-17 00:00:00,Chic Couture
+940670,Women 18-24,Increase Sales,15 Days,Instagram,"0,07",500,"4,9",Las Vegas,French,831,3981,Fashion,2022-12-06 00:00:00,Chic Couture
+423652,Men 25-34,Brand Awareness,15 Days,Pinterest,"0,02","3366,18","0,822237413",Los Angeles,English,4895,16922,Food,2022-06-20 00:00:00,Savor Street
+830076,Men 35-44,Increase Sales,45 Days,Twitter,"0,13","8523,22","2,14",New York,French,22352,67726,Fashion,2022-10-09 00:00:00,Trend Tailors
+972990,Men 18-24,Brand Awareness,45 Days,Pinterest,"0,11","8680,18","0,012512308",Austin,Spanish,13375,44533,Fashion,2022-10-26 00:00:00,Style Sphere
+560667,Men 25-34,Product Launch,30 Days,Pinterest,"0,05","4164,27","0,55590399",Los Angeles,Spanish,6162,21048,Fashion,2022-04-23 00:00:00,Trend Tailors
+892172,Men 35-44,Market Expansion,15 Days,Instagram,"0,08","2806,82","3,52",Los Angeles,French,6872,21874,Fashion,2022-03-08 00:00:00,Glam Garments
+773882,Men 25-34,Product Launch,15 Days,Twitter,"0,06","2487,45","0,41",Los Angeles,French,6080,19528,Food,2022-01-13 00:00:00,Palate Paradise
+584556,Women 35-44,Market Expansion,45 Days,Facebook,"0,05","10470,77","0,89",Los Angeles,Spanish,27636,83377,Food,2022-04-10 00:00:00,Feast Flavors
+426633,Women 18-24,Brand Awareness,60 Days,Twitter,"0,04","12248,28","7,22",Austin,Spanish,32427,97569,Fashion,2022-12-04 00:00:00,Trend Tailors
+992320,Women 18-24,Market Expansion,60 Days,Facebook,"0,12","13745,15","4,37",Las Vegas,Spanish,36129,108534,Fashion,2022-05-13 00:00:00,Vogue Visions
+451730,Women 25-34,Brand Awareness,30 Days,Facebook,"0,15","7676,14","3,36",New York,French,20020,60821,Food,2022-04-21 00:00:00,Culinary Quest
+338992,Men 35-44,Product Launch,15 Days,Instagram,"0,15","3128,06","6,16",Miami,French,7713,24367,Fashion,2022-10-27 00:00:00,Glam Garments
+391026,Women 25-34,Brand Awareness,45 Days,Facebook,"0,12","11349,19","3,14",Las Vegas,French,30027,90462,Food,2022-06-08 00:00:00,Epicurean Edge
+856649,Men 25-34,Brand Awareness,30 Days,Pinterest,"0,03","5922,16","0,089373632",Austin,French,8979,30218,Food,2022-02-18 00:00:00,Palate Paradise
+589680,Women 18-24,Market Expansion,30 Days,Twitter,"0,1","4537,87","1,11",Los Angeles,French,11515,35627,Food,2022-12-15 00:00:00,Feast Flavors
+808212,Women 35-44,Product Launch,30 Days,Twitter,"0,04","4832,5","3,5",Miami,French,12312,37989,Food,2022-05-17 00:00:00,Feast Flavors
+416355,Women 25-34,Product Launch,15 Days,Pinterest,"0,14","3625,46","0,822237413",New York,English,5300,18240,Food,2022-10-14 00:00:00,Epicurean Edge
+531617,Women 18-24,Brand Awareness,60 Days,Facebook,"0,12","13327,05","6,94",Las Vegas,French,35170,105694,Fashion,2022-03-30 00:00:00,Runway Rebels
+486480,Women 18-24,Market Expansion,15 Days,Facebook,"0,09","1489,02","0,27",New York,French,3783,12726,Food,2022-11-07 00:00:00,Savor Street
+127803,Women 35-44,Brand Awareness,30 Days,Facebook,"0,11","6250,01","0,74",Los Angeles,Spanish,16169,49414,Fashion,2022-01-19 00:00:00,Chic Couture
+710395,Women 25-34,Brand Awareness,15 Days,Pinterest,"0,04","3619,39","0,645277622",New York,English,5290,18205,Food,2022-07-14 00:00:00,Nosh Nirvana
+395886,Women 25-34,Increase Sales,30 Days,Instagram,"0,06","6170,33","4,44",New York,English,15958,48788,Fashion,2022-09-28 00:00:00,Attire Artistry
+283097,Women 35-44,Brand Awareness,45 Days,Pinterest,"0,13","9851,88","0,448655632",Los Angeles,Spanish,15246,50624,Food,2022-10-20 00:00:00,Gastronomy Guild
+982564,Men 35-44,Market Expansion,60 Days,Pinterest,"0,02","12044,75","0,618465532",Miami,Spanish,18725,61952,Fashion,2022-01-17 00:00:00,Fiber Fashion
+422862,Women 35-44,Market Expansion,30 Days,Instagram,"0,12","6720,47","0,76",Los Angeles,English,17431,53152,Fashion,2022-01-13 00:00:00,Vogue Visions
+262993,Men 18-24,Increase Sales,30 Days,Twitter,"0,1","6662,67","6,24",Los Angeles,Spanish,17276,52692,Food,2022-08-23 00:00:00,Culinary Quest
+577155,Women 35-44,Increase Sales,15 Days,Instagram,"0,1","3180,43","4,81",Los Angeles,Spanish,7845,24757,Fashion,2022-10-14 00:00:00,Vogue Visions
+195696,Women 35-44,Brand Awareness,60 Days,Twitter,"0,14","12351,03","3,8",Miami,Spanish,32698,98372,Food,2022-01-07 00:00:00,Savor Street
+800190,Men 18-24,Product Launch,15 Days,Facebook,"0,08","3177,1","7,71",Las Vegas,French,7836,24730,Fashion,2022-12-08 00:00:00,Runway Rebels
+650151,Men 25-34,Market Expansion,45 Days,Facebook,"0,08","10099,66","5,67",New York,Spanish,26625,80383,Fashion,2022-02-10 00:00:00,Fiber Fashion
+970266,Women 25-34,Increase Sales,15 Days,Twitter,"0,13","3147,86","6,74",Las Vegas,French,7761,24507,Fashion,2022-10-08 00:00:00,Attire Artistry
+802915,Men 25-34,Market Expansion,60 Days,Pinterest,"0,07","11397,45","1,211906448",Las Vegas,Spanish,17712,58655,Fashion,2022-10-25 00:00:00,Chic Couture
+827885,Women 25-34,Increase Sales,45 Days,Facebook,"0,09","11037,06","4,52",Austin,English,29173,87930,Fashion,2022-08-09 00:00:00,Runway Rebels
+666589,Women 35-44,Market Expansion,30 Days,Facebook,"0,1","5405,67","3,42",Miami,French,13876,42621,Fashion,2022-09-25 00:00:00,Mode Maven
+592297,Men 18-24,Market Expansion,15 Days,Facebook,"0,11","825,02","7,87",Miami,French,2555,9088,Food,2022-05-23 00:00:00,Bistro Bliss
+967821,Men 25-34,Increase Sales,45 Days,Twitter,"0,09","8017,53","4,5",Las Vegas,English,20964,63617,Fashion,2022-05-21 00:00:00,Silk & Style
+432702,Women 25-34,Market Expansion,15 Days,Pinterest,"0,01","2452,57","1,272680517",Los Angeles,French,3519,12439,Food,2022-12-10 00:00:00,Dine Divine
+469531,Women 18-24,Product Launch,60 Days,Twitter,"0,09","12852,28","0,54",Austin,French,34006,102247,Fashion,2022-05-26 00:00:00,Mode Maven
+191200,Women 18-24,Brand Awareness,30 Days,Instagram,"0,08","5677,22","4,87",New York,English,14619,44821,Food,2022-04-03 00:00:00,Feast Flavors
+593368,Men 25-34,Brand Awareness,45 Days,Instagram,"0,03","10896,15","6,14",New York,Spanish,28791,86798,Food,2022-12-11 00:00:00,Savor Street
+667610,Men 25-34,Brand Awareness,30 Days,Twitter,"0,05","6504,19","6,2",Los Angeles,English,16857,51451,Fashion,2022-01-08 00:00:00,Mode Maven
+276206,Women 25-34,Increase Sales,45 Days,Facebook,"0,11","10847,8","2,59",Austin,English,28661,86414,Food,2022-01-11 00:00:00,Savor Street
+778843,Men 35-44,Increase Sales,45 Days,Twitter,"0,06","9320,81","5,98",Las Vegas,Spanish,24487,74050,Fashion,2022-02-16 00:00:00,Chic Couture
+453391,Women 18-24,Product Launch,15 Days,Pinterest,"0,1","2944,32","0,500492338",Austin,English,4246,14809,Food,2022-05-02 00:00:00,Gastronomy Guild
+676570,Women 25-34,Increase Sales,30 Days,Facebook,"0,14","6264,8","5,24",Miami,Spanish,16210,49534,Food,2022-06-21 00:00:00,Gastronomy Guild
+248731,Women 25-34,Product Launch,60 Days,Instagram,"0,1","14224,54","2,96",New York,English,37133,111508,Food,2022-07-05 00:00:00,Savor Street
+610934,Men 18-24,Brand Awareness,15 Days,Twitter,"0,05","1540,05","3,66",Miami,French,3893,13053,Fashion,2022-01-16 00:00:00,Vogue Visions
+119923,Women 18-24,Brand Awareness,60 Days,Facebook,"0,09",15000,"2,03",Miami,English,39979,119939,Food,2022-06-17 00:00:00,Dine Divine
+270846,Women 35-44,Market Expansion,45 Days,Instagram,"0,14","8887,63","3,98",Miami,French,23321,70596,Fashion,2022-07-15 00:00:00,Mode Maven
+498557,Women 35-44,Increase Sales,60 Days,Facebook,"0,1","12413,01","6,35",Las Vegas,French,32862,98859,Food,2022-04-15 00:00:00,Gastronomy Guild
+616123,Women 18-24,Brand Awareness,60 Days,Pinterest,"0,12","12618,57","0,091161104",Miami,English,19614,64847,Food,2022-08-06 00:00:00,Feast Flavors
+534843,Men 25-34,Brand Awareness,30 Days,Pinterest,"0,08","7575,45","0,370006836",Austin,French,11600,38753,Food,2022-04-12 00:00:00,Palate Paradise
+142337,Women 18-24,Market Expansion,45 Days,Pinterest,"0,09","9902,52","1,011709512",Los Angeles,English,15325,50881,Food,2022-09-13 00:00:00,Dine Divine
+153441,Women 18-24,Increase Sales,30 Days,Twitter,"0,08","7107,44","4,36",New York,English,18488,56281,Food,2022-09-02 00:00:00,Savor Street
+954858,Women 35-44,Product Launch,45 Days,Pinterest,"0,14","7995,28","1,249443373",Las Vegas,Spanish,12275,40951,Food,2022-03-19 00:00:00,Dine Divine
+553017,Women 35-44,Product Launch,30 Days,Facebook,"0,06","4600,69","4,58",Las Vegas,French,11683,36126,Food,2022-11-12 00:00:00,Nosh Nirvana
+621462,Men 18-24,Increase Sales,15 Days,Facebook,"0,1","1334,07","6,1",New York,Spanish,3478,11821,Fashion,2022-03-28 00:00:00,Fiber Fashion
+392217,Women 18-24,Product Launch,45 Days,Twitter,"0,05","10090,58","6,89",New York,French,26600,80309,Food,2022-09-13 00:00:00,Bistro Bliss
+247313,Women 35-44,Market Expansion,60 Days,Twitter,"0,07","14310,58","5,92",Las Vegas,French,37289,111971,Food,2022-06-22 00:00:00,Culinary Quest
+546914,Men 25-34,Market Expansion,30 Days,Facebook,"0,15","4617,19","3,85",New York,English,11731,36267,Fashion,2022-05-14 00:00:00,Attire Artistry
+448479,Women 18-24,Product Launch,60 Days,Facebook,"0,01","13227,06","1,4",Austin,French,34936,105000,Food,2022-06-25 00:00:00,Epicurean Edge
+939239,Men 18-24,Market Expansion,15 Days,Twitter,"0,03","3710,35","0,41",Los Angeles,French,9254,28930,Fashion,2022-10-03 00:00:00,Vogue Visions
+683443,Men 35-44,Market Expansion,15 Days,Twitter,"0,09","3137,09","3,18",Los Angeles,English,7735,24430,Food,2022-07-29 00:00:00,Nosh Nirvana
+208746,Women 25-34,Market Expansion,60 Days,Facebook,"0,04",15000,"6,94",Austin,Spanish,39899,119701,Fashion,2022-03-28 00:00:00,Chic Couture
+791535,Men 35-44,Increase Sales,15 Days,Facebook,"0,06","3679,51","3,27",Miami,Spanish,9170,28682,Food,2022-09-02 00:00:00,Nosh Nirvana
+978229,Men 35-44,Market Expansion,60 Days,Pinterest,"0,06","12135,09","1,195819194",New York,Spanish,18866,62411,Fashion,2022-11-16 00:00:00,Chic Couture
+221223,Women 25-34,Product Launch,15 Days,Twitter,"0,12","1429,07","2,54",Los Angeles,French,3663,12369,Fashion,2022-03-04 00:00:00,Attire Artistry
+909634,Men 35-44,Market Expansion,15 Days,Pinterest,"0,07","2493,14","0,550541572",New York,English,3578,12632,Fashion,2022-12-11 00:00:00,Mode Maven
+426476,Women 25-34,Increase Sales,60 Days,Instagram,"0,03","14087,33","3,37",New York,Spanish,36853,110681,Food,2022-12-23 00:00:00,Epicurean Edge
+878736,Men 25-34,Brand Awareness,60 Days,Twitter,"0,06","13183,22","5,22",Los Angeles,Spanish,34832,104692,Fashion,2022-11-22 00:00:00,Fiber Fashion
+949050,Women 35-44,Product Launch,45 Days,Pinterest,"0,15","11349,86","0,412906179",Miami,Spanish,17636,58409,Food,2022-04-30 00:00:00,Gastronomy Guild
+495158,Men 18-24,Product Launch,45 Days,Twitter,"0,07","10818,93","3,74",New York,French,28583,86183,Fashion,2022-06-01 00:00:00,Glam Garments
+646296,Women 25-34,Increase Sales,15 Days,Twitter,"0,04",500,"2,79",Miami,English,1191,5048,Food,2022-07-26 00:00:00,Gastronomy Guild
+719428,Women 25-34,Product Launch,30 Days,Twitter,"0,1","7360,88","3,13",Las Vegas,French,19166,58291,Food,2022-11-07 00:00:00,Feast Flavors
+117124,Men 35-44,Product Launch,45 Days,Instagram,"0,04","8083,28","7,61",Los Angeles,English,21142,64144,Food,2022-06-23 00:00:00,Gourmet Grove
+310032,Women 18-24,Increase Sales,15 Days,Instagram,"0,02","2247,05","3,07",Los Angeles,Spanish,5499,17807,Fashion,2022-11-13 00:00:00,Silk & Style
+549476,Women 18-24,Increase Sales,30 Days,Facebook,"0,04","7126,97","6,03",Las Vegas,English,18543,56444,Food,2022-11-21 00:00:00,Nosh Nirvana
+728128,Women 18-24,Increase Sales,30 Days,Pinterest,"0,09","4554,17","0,448655632",Miami,Spanish,6787,23082,Fashion,2022-08-01 00:00:00,Chic Couture
+863321,Men 25-34,Brand Awareness,45 Days,Twitter,"0,12","9051,23","4,79",Las Vegas,English,23760,71897,Fashion,2022-12-06 00:00:00,Runway Rebels
+521869,Men 35-44,Brand Awareness,60 Days,Instagram,"0,06",15000,"2,31",New York,English,38417,115311,Food,2022-07-27 00:00:00,Bistro Bliss
+972751,Men 18-24,Product Launch,45 Days,Pinterest,"0,04","8847,14","0,967022696",Las Vegas,English,13635,45381,Food,2022-08-10 00:00:00,Epicurean Edge
+832361,Men 18-24,Market Expansion,30 Days,Instagram,"0,01","4205,7","2,18",Las Vegas,Spanish,10604,32928,Food,2022-09-12 00:00:00,Culinary Quest
+558527,Women 25-34,Product Launch,45 Days,Pinterest,"0,02","11200,97","1,002772149",Los Angeles,French,17401,57643,Fashion,2022-02-13 00:00:00,Attire Artistry
+848021,Men 35-44,Increase Sales,30 Days,Facebook,"0,11","6526,63","3,56",Austin,English,16917,51629,Food,2022-09-20 00:00:00,Epicurean Edge
+102581,Women 35-44,Product Launch,30 Days,Facebook,"0,05","6100,37","3,03",Los Angeles,English,15769,48228,Food,2022-04-09 00:00:00,Gastronomy Guild
+920337,Men 18-24,Increase Sales,60 Days,Facebook,"0,1","13498,41","2,04",New York,English,35572,106886,Fashion,2022-01-24 00:00:00,Silk & Style
+822225,Men 35-44,Brand Awareness,15 Days,Pinterest,"0,06","2554,87","0,362856945",Austin,English,3667,12921,Food,2022-07-02 00:00:00,Nosh Nirvana
+456410,Women 35-44,Brand Awareness,45 Days,Facebook,"0,13","11017,7","6,89",Las Vegas,Spanish,29116,87763,Fashion,2022-05-25 00:00:00,Style Sphere
+753094,Men 18-24,Increase Sales,45 Days,Twitter,"0,14","10893,53","6,4",Las Vegas,French,28784,86778,Food,2022-02-21 00:00:00,Nosh Nirvana
+409285,Women 35-44,Market Expansion,60 Days,Twitter,"0,08","14863,57","2,22",New York,French,38214,114711,Food,2022-01-16 00:00:00,Gourmet Grove
+847314,Men 35-44,Increase Sales,30 Days,Facebook,"0,04","4299,32","5,49",Miami,Spanish,10864,33700,Fashion,2022-02-13 00:00:00,Chic Couture
+874470,Men 18-24,Brand Awareness,45 Days,Twitter,"0,11","9556,94","6,12",Austin,English,25141,75989,Food,2022-06-10 00:00:00,Nosh Nirvana
+134091,Women 25-34,Product Launch,60 Days,Pinterest,"0,08","11713,59","0,575566189",Miami,English,18214,60290,Food,2022-02-10 00:00:00,Savor Street
+106258,Women 35-44,Increase Sales,45 Days,Instagram,"0,15","10155,42","6,37",Los Angeles,English,26782,80850,Food,2022-04-02 00:00:00,Gastronomy Guild
+717574,Women 25-34,Market Expansion,15 Days,Twitter,"0,09",500,"4,34",Los Angeles,English,820,3949,Fashion,2022-06-25 00:00:00,Chic Couture
+675184,Men 25-34,Product Launch,30 Days,Instagram,"0,07","6943,78","0,79",Los Angeles,English,18045,54970,Fashion,2022-09-25 00:00:00,Trend Tailors
+314609,Women 35-44,Increase Sales,60 Days,Instagram,"0,02","12030,07","1,53",Miami,French,31846,95849,Fashion,2022-06-02 00:00:00,Style Sphere
+699359,Women 18-24,Product Launch,45 Days,Pinterest,"0,12","9769,21","1,419253274",Las Vegas,French,15113,50192,Fashion,2022-04-21 00:00:00,Chic Couture
+917638,Women 18-24,Product Launch,45 Days,Facebook,"0,05","8685,46","4,82",Miami,English,22787,69015,Food,2022-04-30 00:00:00,Nosh Nirvana
+621569,Men 25-34,Product Launch,45 Days,Facebook,"0,1","10861,47","0,6",Los Angeles,French,28699,86528,Fashion,2022-06-22 00:00:00,Mode Maven
+915331,Men 25-34,Product Launch,30 Days,Instagram,"0,07","4447,78","5,14",New York,Spanish,11265,34888,Fashion,2022-07-31 00:00:00,Attire Artistry
+675677,Women 18-24,Increase Sales,30 Days,Instagram,"0,13","7354,66","3,68",Miami,Spanish,19149,58241,Fashion,2022-11-07 00:00:00,Style Sphere
+118287,Women 25-34,Increase Sales,30 Days,Instagram,"0,03","5779,62","5,38",New York,English,14892,45632,Food,2022-01-21 00:00:00,Dine Divine
+389178,Women 18-24,Product Launch,15 Days,Twitter,"0,11","3849,5","5,76",New York,Spanish,9629,30041,Fashion,2022-10-20 00:00:00,Trend Tailors
+992564,Men 25-34,Market Expansion,60 Days,Twitter,"0,06","14611,06","3,06",Miami,Spanish,37824,113554,Food,2022-08-21 00:00:00,Savor Street
+759843,Women 18-24,Market Expansion,60 Days,Twitter,"0,07","14953,61","6,19",Miami,French,38341,115087,Food,2022-11-29 00:00:00,Nosh Nirvana
+613345,Women 35-44,Increase Sales,30 Days,Twitter,"0,1","5102,2","0,42",Los Angeles,Spanish,13054,40187,Food,2022-10-08 00:00:00,Nosh Nirvana
+183147,Women 35-44,Brand Awareness,15 Days,Twitter,"0,11","1069,16","7,06",Las Vegas,Spanish,2989,10372,Food,2022-01-12 00:00:00,Palate Paradise
+631658,Women 35-44,Product Launch,15 Days,Instagram,"0,08","936,72","0,49",New York,English,2749,9663,Food,2022-03-02 00:00:00,Epicurean Edge
+504476,Women 25-34,Market Expansion,45 Days,Pinterest,"0,15","8054,82","0,959872806",Las Vegas,French,12372,41267,Food,2022-09-16 00:00:00,Gourmet Grove
+641543,Men 25-34,Market Expansion,60 Days,Pinterest,"0,11","14031,4","0,727501363",Los Angeles,English,21574,71232,Fashion,2022-04-14 00:00:00,Glam Garments
+248064,Women 35-44,Market Expansion,30 Days,Pinterest,"0,05","7411,66","1,219056338",Los Angeles,English,11333,37886,Food,2022-04-30 00:00:00,Dine Divine
+284426,Men 35-44,Product Launch,15 Days,Twitter,"0,06","4063,82","2,07",Austin,English,10212,31767,Food,2022-08-10 00:00:00,Epicurean Edge
+912496,Women 35-44,Market Expansion,45 Days,Instagram,"0,08","10694,23","6,74",Miami,French,28249,85195,Food,2022-12-08 00:00:00,Culinary Quest
+606539,Women 35-44,Market Expansion,30 Days,Facebook,"0,07","7347,6","2,42",Los Angeles,Spanish,19132,58189,Food,2022-10-06 00:00:00,Nosh Nirvana
+168455,Women 35-44,Increase Sales,30 Days,Facebook,"0,08","4870,35","3,5",Austin,English,12420,38309,Food,2022-11-01 00:00:00,Savor Street
+638277,Women 18-24,Brand Awareness,60 Days,Twitter,"0,08","12399,69","2,65",Los Angeles,English,32825,98748,Fashion,2022-05-08 00:00:00,Mode Maven
+799338,Women 18-24,Market Expansion,45 Days,Facebook,"0,11","7817,34","7,53",Austin,English,20415,61990,Fashion,2022-12-07 00:00:00,Fiber Fashion
+682362,Women 35-44,Market Expansion,30 Days,Facebook,"0,14","6722,97","4,78",Los Angeles,Spanish,17440,53177,Food,2022-11-06 00:00:00,Feast Flavors
+417053,Women 35-44,Brand Awareness,60 Days,Instagram,"0,05","11617,84","0,02",Austin,Spanish,30762,92638,Food,2022-02-15 00:00:00,Feast Flavors
+963179,Men 18-24,Product Launch,15 Days,Facebook,"0,12",500,"4,67",Los Angeles,Spanish,1294,5352,Fashion,2022-05-09 00:00:00,Fiber Fashion
+601964,Men 35-44,Brand Awareness,45 Days,Instagram,"0,04","9522,47","0,04",Miami,English,25042,75695,Fashion,2022-01-08 00:00:00,Chic Couture
+578646,Men 25-34,Product Launch,60 Days,Facebook,"0,04","12139,87","3,77",Los Angeles,Spanish,32136,96707,Fashion,2022-07-12 00:00:00,Glam Garments
+715828,Men 18-24,Market Expansion,30 Days,Instagram,"0,07","6546,11","6,02",Austin,English,16968,51779,Fashion,2022-07-23 00:00:00,Style Sphere
+336883,Women 25-34,Product Launch,45 Days,Pinterest,"0,14","7981,1","1,101083144",New York,English,12252,40875,Fashion,2022-09-26 00:00:00,Mode Maven
+146517,Men 35-44,Increase Sales,60 Days,Twitter,"0,06","11472,92","0,97",Los Angeles,English,30369,91475,Food,2022-02-09 00:00:00,Gastronomy Guild
+750181,Men 18-24,Increase Sales,30 Days,Facebook,"0,01","5283,37","4,5",Miami,Spanish,13547,41647,Food,2022-09-13 00:00:00,Culinary Quest
+961307,Men 35-44,Product Launch,30 Days,Facebook,"0,04","7112,18","6,64",Los Angeles,French,18503,56327,Fashion,2022-09-22 00:00:00,Silk & Style
+819017,Men 25-34,Market Expansion,45 Days,Instagram,"0,12","10766,02","2,92",New York,English,28437,85751,Food,2022-04-28 00:00:00,Savor Street
+722571,Men 35-44,Increase Sales,15 Days,Instagram,"0,09","4009,91","6,97",Miami,Spanish,10065,31332,Fashion,2022-08-08 00:00:00,Fiber Fashion
+918885,Men 35-44,Market Expansion,30 Days,Facebook,"0,14","6012,34","4,38",Miami,French,15534,47531,Food,2022-09-15 00:00:00,Gourmet Grove
+212264,Men 25-34,Brand Awareness,15 Days,Facebook,"0,04","3725,24","7,72",Miami,Spanish,9294,29048,Food,2022-09-01 00:00:00,Palate Paradise
+733809,Men 25-34,Brand Awareness,45 Days,Facebook,"0,04","11360,52","4,42",Los Angeles,Spanish,30059,90554,Food,2022-03-27 00:00:00,Gastronomy Guild
+477201,Women 35-44,Product Launch,30 Days,Twitter,"0,08","6557,2","4,41",Los Angeles,Spanish,16996,51864,Food,2022-11-18 00:00:00,Epicurean Edge
+458100,Men 25-34,Product Launch,60 Days,Facebook,"0,11","13613,1","0,94",Miami,Spanish,35843,107687,Fashion,2022-05-16 00:00:00,Fiber Fashion
+826641,Women 35-44,Brand Awareness,60 Days,Pinterest,"0,08","14462,16","1,201181612",New York,English,22065,72829,Food,2022-02-22 00:00:00,Epicurean Edge
+162969,Men 18-24,Brand Awareness,45 Days,Pinterest,"0,04","9872,64","0,990259841",Las Vegas,French,15279,50733,Food,2022-04-14 00:00:00,Nosh Nirvana
+670303,Men 18-24,Increase Sales,15 Days,Twitter,"0,03","1607,53","0,36",Las Vegas,English,4026,13446,Fashion,2022-02-11 00:00:00,Vogue Visions
+868829,Women 35-44,Brand Awareness,60 Days,Twitter,"0,04",15000,"5,41",Austin,French,38923,116812,Food,2022-12-18 00:00:00,Gourmet Grove
+315478,Men 25-34,Brand Awareness,30 Days,Instagram,"0,06","5341,65","3,56",Austin,French,13702,42105,Food,2022-11-24 00:00:00,Nosh Nirvana
+900152,Men 18-24,Market Expansion,45 Days,Twitter,"0,14","8221,38","6,56",Austin,French,21522,65269,Food,2022-01-15 00:00:00,Savor Street
+833216,Women 35-44,Product Launch,30 Days,Facebook,"0,03","6943,06","7,26",New York,English,18043,54965,Food,2022-11-16 00:00:00,Gastronomy Guild
+639820,Men 35-44,Product Launch,15 Days,Pinterest,"0,11","1460,68","0,648852567",New York,French,2188,8108,Food,2022-05-27 00:00:00,Gastronomy Guild
+809353,Men 35-44,Brand Awareness,30 Days,Pinterest,"0,02","7484,3","0,160872537",Los Angeles,English,11453,38274,Food,2022-04-11 00:00:00,Gourmet Grove
+595521,Men 35-44,Market Expansion,15 Days,Twitter,"0,06","3593,2","0,79",New York,English,8940,28001,Fashion,2022-05-15 00:00:00,Mode Maven
+770296,Women 18-24,Product Launch,30 Days,Instagram,"0,02","7464,28","4,02",Los Angeles,Spanish,19442,59107,Fashion,2022-01-24 00:00:00,Glam Garments
+405425,Women 35-44,Market Expansion,45 Days,Instagram,"0,11","10425,16","6,67",Austin,English,27509,83001,Fashion,2022-09-20 00:00:00,Style Sphere
+813290,Women 25-34,Increase Sales,45 Days,Pinterest,"0,06","10652,58","1,365629094",New York,French,16522,54781,Food,2022-07-23 00:00:00,Gastronomy Guild
+756546,Men 35-44,Brand Awareness,60 Days,Facebook,"0,13","14415,89","7,22",Los Angeles,French,37480,112537,Food,2022-07-04 00:00:00,Bistro Bliss
+571653,Women 25-34,Product Launch,45 Days,Instagram,"0,03","10611,09","6,33",Austin,French,28018,84509,Fashion,2022-05-11 00:00:00,Chic Couture
+370415,Women 18-24,Market Expansion,15 Days,Pinterest,"0,04","1554,25","1,397803602",Miami,French,2304,8486,Fashion,2022-03-23 00:00:00,Silk & Style
+322379,Women 18-24,Product Launch,45 Days,Facebook,"0,11","10476,3","0,39",Miami,French,27653,83428,Food,2022-11-01 00:00:00,Dine Divine
+620155,Women 35-44,Market Expansion,60 Days,Pinterest,"0,1",15000,"1,142195015",Austin,Spanish,22625,74653,Fashion,2022-10-26 00:00:00,Chic Couture
+908889,Women 35-44,Product Launch,45 Days,Instagram,"0,14","10497,68","7,85",Los Angeles,English,27710,83599,Food,2022-03-05 00:00:00,Dine Divine
+685657,Men 18-24,Market Expansion,15 Days,Pinterest,"0,05","2350,87","0,622040478",Las Vegas,French,3375,11974,Food,2022-06-25 00:00:00,Culinary Quest
+776524,Women 18-24,Market Expansion,45 Days,Pinterest,"0,05","11011,61","0,954510388",New York,Spanish,17090,56631,Fashion,2022-12-15 00:00:00,Vogue Visions
+724460,Men 35-44,Increase Sales,15 Days,Instagram,"0,03","859,32","7,32",Austin,Spanish,2609,9247,Fashion,2022-09-24 00:00:00,Fiber Fashion
+110756,Men 18-24,Brand Awareness,60 Days,Facebook,"0,09","13035,79","2,28",Miami,Spanish,34465,103607,Food,2022-12-19 00:00:00,Palate Paradise
+722541,Men 25-34,Market Expansion,30 Days,Twitter,"0,08","5154,5","4,18",Las Vegas,English,13205,40633,Fashion,2022-05-30 00:00:00,Silk & Style
+286627,Women 18-24,Product Launch,60 Days,Twitter,"0,12","12460,82","6,49",Los Angeles,French,32985,99221,Fashion,2022-06-17 00:00:00,Silk & Style
+106747,Men 18-24,Product Launch,15 Days,Pinterest,"0,05","2020,03","0,321745075",Los Angeles,French,2906,10446,Fashion,2022-02-24 00:00:00,Glam Garments
+658884,Men 18-24,Product Launch,60 Days,Instagram,"0,07","12091,89","1,04",Las Vegas,English,32008,96328,Food,2022-06-06 00:00:00,Gourmet Grove
+556022,Men 18-24,Product Launch,45 Days,Facebook,"0,15","8829,04","2,67",Austin,Spanish,23168,70143,Fashion,2022-02-09 00:00:00,Silk & Style
+607456,Women 35-44,Brand Awareness,60 Days,Twitter,"0,05","13556,51","2,97",Miami,English,35713,107304,Food,2022-11-05 00:00:00,Feast Flavors
+962365,Men 18-24,Brand Awareness,15 Days,Facebook,"0,07","3996,67","5,14",New York,Spanish,10031,31232,Food,2022-01-08 00:00:00,Feast Flavors
+448627,Women 35-44,Brand Awareness,15 Days,Pinterest,"0,05",500,"1,222631284",Las Vegas,English,1076,4487,Food,2022-06-29 00:00:00,Feast Flavors
+231004,Women 25-34,Product Launch,30 Days,Instagram,"0,05","7570,83","2,32",Austin,French,19736,59980,Fashion,2022-08-11 00:00:00,Runway Rebels
+308294,Men 35-44,Market Expansion,60 Days,Pinterest,"0,09",15000,"0,185897154",Miami,English,23079,76132,Food,2022-10-04 00:00:00,Gourmet Grove
+794644,Men 25-34,Product Launch,30 Days,Pinterest,"0,1","6216,86","0,741801144",Las Vegas,French,9444,31734,Food,2022-02-07 00:00:00,Gastronomy Guild
+902670,Women 35-44,Brand Awareness,60 Days,Instagram,"0,07","12189,78","2,84",Miami,English,32276,97121,Fashion,2022-02-26 00:00:00,Trend Tailors
+102010,Men 25-34,Product Launch,60 Days,Facebook,"0,02","12239,71","1,41",Austin,Spanish,32405,97505,Food,2022-06-23 00:00:00,Culinary Quest
+629948,Women 18-24,Increase Sales,60 Days,Twitter,"0,15",15000,"0,14",Las Vegas,Spanish,38982,116986,Food,2022-05-17 00:00:00,Nosh Nirvana
+822124,Women 25-34,Brand Awareness,30 Days,Pinterest,"0,1","6602,67","0,956297861",Las Vegas,Spanish,10052,33712,Fashion,2022-09-24 00:00:00,Vogue Visions
+336871,Women 35-44,Increase Sales,45 Days,Facebook,"0,02","10735,52","5,08",Austin,English,28354,85506,Food,2022-04-04 00:00:00,Bistro Bliss
+468165,Women 18-24,Market Expansion,45 Days,Twitter,"0,11","9901,75","7,13",New York,Spanish,26090,78800,Food,2022-12-09 00:00:00,Palate Paradise
+196804,Men 35-44,Product Launch,60 Days,Twitter,"0,06","13852,4","7,6",New York,Spanish,36358,109214,Food,2022-01-04 00:00:00,Epicurean Edge
+972311,Women 35-44,Brand Awareness,45 Days,Pinterest,"0,11","7784,55","1,219056338",Austin,English,11939,39858,Fashion,2022-09-09 00:00:00,Attire Artistry
+468254,Men 35-44,Brand Awareness,30 Days,Instagram,"0,11","4357,69","7,41",New York,English,11017,34153,Fashion,2022-11-28 00:00:00,Attire Artistry
+626255,Women 25-34,Market Expansion,15 Days,Facebook,"0,14",500,"3,15",New York,English,1107,4798,Food,2022-11-30 00:00:00,Culinary Quest
+394385,Women 35-44,Increase Sales,45 Days,Twitter,"0,15","10423,19","4,72",Las Vegas,Spanish,27503,82984,Fashion,2022-06-24 00:00:00,Trend Tailors
+271627,Men 18-24,Brand Awareness,60 Days,Pinterest,"0,11","12106,74","0,057199124",New York,English,18822,62270,Food,2022-05-10 00:00:00,Gastronomy Guild
+746020,Men 35-44,Product Launch,15 Days,Facebook,"0,03","3667,85","2,59",Miami,French,9137,28585,Food,2022-12-20 00:00:00,Bistro Bliss
+564829,Men 35-44,Brand Awareness,15 Days,Pinterest,"0,03","1461,24","1,424615691",Los Angeles,English,2190,8111,Fashion,2022-11-04 00:00:00,Attire Artistry
+963709,Men 18-24,Market Expansion,45 Days,Instagram,"0,08","10545,3","6,48",Los Angeles,French,27832,83958,Food,2022-09-17 00:00:00,Bistro Bliss
+165953,Women 25-34,Brand Awareness,45 Days,Facebook,"0,11","8657,72","5,22",Las Vegas,English,22712,68793,Fashion,2022-01-15 00:00:00,Attire Artistry
+525442,Men 25-34,Market Expansion,15 Days,Twitter,"0,11","4039,46","7,12",Austin,French,10146,31574,Fashion,2022-07-25 00:00:00,Trend Tailors
+722634,Women 35-44,Product Launch,45 Days,Pinterest,"0,15","10634,53","0,39324398",Las Vegas,Spanish,16493,54684,Fashion,2022-05-27 00:00:00,Mode Maven
+517203,Women 18-24,Brand Awareness,30 Days,Instagram,"0,08","7065,51","4,93",New York,Spanish,18375,55946,Food,2022-01-10 00:00:00,Gastronomy Guild
+604623,Men 35-44,Increase Sales,60 Days,Pinterest,"0,05","13378,52","1,381716348",Los Angeles,French,20730,68482,Food,2022-03-27 00:00:00,Savor Street
+198331,Men 35-44,Increase Sales,15 Days,Twitter,"0,07","2532,15","7,2",Austin,French,6190,19855,Food,2022-08-11 00:00:00,Nosh Nirvana
+512889,Women 25-34,Brand Awareness,60 Days,Facebook,"0,06","13432,8","4,79",Miami,French,35424,106447,Food,2022-12-08 00:00:00,Savor Street
+121146,Men 35-44,Brand Awareness,30 Days,Twitter,"0,14","5586,64","0,89",Miami,English,14372,44089,Food,2022-10-23 00:00:00,Feast Flavors
+656083,Men 18-24,Market Expansion,45 Days,Instagram,"0,05","7803,09","3,58",Austin,English,20376,61875,Food,2022-03-09 00:00:00,Nosh Nirvana
+235817,Women 25-34,Brand Awareness,60 Days,Pinterest,"0,09","13202,53","1,13862007",Los Angeles,Spanish,20485,67684,Fashion,2022-07-01 00:00:00,Runway Rebels
+186300,Women 25-34,Brand Awareness,45 Days,Pinterest,"0,09","10818,13","0,643490149",New York,English,16785,55639,Food,2022-03-04 00:00:00,Dine Divine
+867416,Women 25-34,Brand Awareness,15 Days,Instagram,"0,09",500,"5,76",Las Vegas,French,1766,6750,Food,2022-11-06 00:00:00,Feast Flavors
+518473,Women 35-44,Product Launch,60 Days,Pinterest,"0,09","13536,16","0,289570567",New York,English,20948,69192,Food,2022-01-02 00:00:00,Nosh Nirvana
+239640,Women 25-34,Product Launch,30 Days,Pinterest,"0,03","6804,5","0,346769692",Los Angeles,French,10376,34767,Fashion,2022-07-14 00:00:00,Style Sphere
+742926,Men 18-24,Brand Awareness,15 Days,Instagram,"0,1",500,"2,28",Los Angeles,English,529,3087,Food,2022-05-12 00:00:00,Nosh Nirvana
+612962,Women 18-24,Increase Sales,15 Days,Twitter,"0,05","4038,12","0,01",Las Vegas,Spanish,10143,31565,Food,2022-07-21 00:00:00,Feast Flavors
+229765,Men 25-34,Brand Awareness,45 Days,Facebook,"0,13","10661,11","6,03",New York,Spanish,28156,84918,Food,2022-06-05 00:00:00,Palate Paradise
+661719,Men 25-34,Product Launch,45 Days,Facebook,"0,06","9272,67","6,51",Miami,Spanish,24360,73676,Food,2022-05-24 00:00:00,Nosh Nirvana
+331504,Women 35-44,Increase Sales,60 Days,Instagram,"0,03",15000,"0,16",Los Angeles,English,38559,115734,Food,2022-03-08 00:00:00,Nosh Nirvana
+352059,Men 25-34,Increase Sales,60 Days,Twitter,"0,11","13591,18","3,71",Las Vegas,English,35793,107539,Fashion,2022-03-29 00:00:00,Fiber Fashion
+797075,Men 25-34,Increase Sales,15 Days,Facebook,"0,06","3291,73","1,77",Miami,English,8135,25616,Fashion,2022-08-25 00:00:00,Runway Rebels
+110632,Men 35-44,Market Expansion,60 Days,Pinterest,"0,04",15000,"0,908036099",Las Vegas,English,22952,75719,Food,2022-11-08 00:00:00,Gourmet Grove
+728097,Women 25-34,Product Launch,45 Days,Pinterest,"0,08","9423,84","0,563053881",Miami,French,14548,48352,Fashion,2022-08-02 00:00:00,Glam Garments
+210853,Men 35-44,Brand Awareness,60 Days,Pinterest,"0,07","14428,69","0,085798687",New York,Spanish,22028,72709,Fashion,2022-09-13 00:00:00,Vogue Visions
+518874,Men 18-24,Market Expansion,15 Days,Facebook,"0,04","4116,52","6,86",Los Angeles,Spanish,10361,32211,Fashion,2022-06-25 00:00:00,Mode Maven
+882132,Men 18-24,Market Expansion,60 Days,Instagram,"0,13",15000,"3,43",Austin,Spanish,39679,119050,Fashion,2022-01-01 00:00:00,Attire Artistry
+435940,Women 25-34,Increase Sales,15 Days,Instagram,"0,09","3356,63","6,69",Miami,Spanish,8311,26138,Food,2022-07-16 00:00:00,Gastronomy Guild
+540305,Women 35-44,Product Launch,60 Days,Facebook,"0,13","14399,86","7,56",Las Vegas,Spanish,37452,112455,Fashion,2022-03-15 00:00:00,Fiber Fashion
+193810,Men 18-24,Brand Awareness,30 Days,Twitter,"0,04","7641,5","0,12",Miami,French,19929,60550,Food,2022-04-25 00:00:00,Palate Paradise
+391851,Women 25-34,Brand Awareness,30 Days,Instagram,"0,13","7089,16","7,39",Los Angeles,Spanish,18438,56132,Food,2022-10-23 00:00:00,Bistro Bliss
+149902,Women 35-44,Increase Sales,30 Days,Twitter,"0,12","5106,34","4,56",Las Vegas,English,13065,40218,Food,2022-10-04 00:00:00,Bistro Bliss
+909033,Men 18-24,Increase Sales,15 Days,Twitter,"0,04","3885,24","3,63",Los Angeles,Spanish,9723,30320,Fashion,2022-05-13 00:00:00,Chic Couture
+533100,Men 25-34,Brand Awareness,30 Days,Twitter,"0,14","4290,03","2,05",Las Vegas,English,10839,33624,Food,2022-03-08 00:00:00,Feast Flavors
+943277,Men 18-24,Increase Sales,15 Days,Instagram,"0,06","2340,06","4,57",Los Angeles,French,5722,18469,Fashion,2022-06-11 00:00:00,Style Sphere
+416790,Women 35-44,Market Expansion,60 Days,Twitter,"0,08",15000,"6,32",New York,English,39154,117494,Food,2022-08-24 00:00:00,Gastronomy Guild
+501799,Men 25-34,Increase Sales,30 Days,Pinterest,"0,12","6834,08","0,479042667",Austin,French,10422,34917,Fashion,2022-07-09 00:00:00,Mode Maven
+891277,Men 18-24,Brand Awareness,15 Days,Instagram,"0,14",500,"0,18",Los Angeles,Spanish,2029,7529,Food,2022-02-17 00:00:00,Savor Street
+818392,Women 18-24,Brand Awareness,60 Days,Instagram,"0,13","13330,2","5,43",New York,English,35178,105719,Fashion,2022-06-02 00:00:00,Mode Maven
+734992,Women 18-24,Increase Sales,45 Days,Facebook,"0,13","9263,09","0,63",Los Angeles,English,24334,73597,Fashion,2022-01-07 00:00:00,Silk & Style
+333775,Men 18-24,Increase Sales,30 Days,Facebook,"0,01","6448,88","0,66",New York,English,16707,51005,Food,2022-09-19 00:00:00,Gourmet Grove
+321035,Women 35-44,Product Launch,45 Days,Facebook,"0,09","9346,69","5,16",Los Angeles,Spanish,24555,74252,Fashion,2022-10-03 00:00:00,Mode Maven
+862596,Women 25-34,Market Expansion,60 Days,Facebook,"0,01","12499,63","7,02",Miami,English,33082,99510,Fashion,2022-11-02 00:00:00,Vogue Visions
+726758,Men 18-24,Increase Sales,15 Days,Twitter,"0,03","3556,34","7,41",Los Angeles,English,8837,27696,Fashion,2022-07-30 00:00:00,Mode Maven
+448849,Women 18-24,Product Launch,60 Days,Facebook,"0,13","13447,09","7,36",Los Angeles,French,35457,106544,Food,2022-02-19 00:00:00,Gourmet Grove
+779031,Women 25-34,Product Launch,45 Days,Facebook,"0,11","11130,12","7,67",Miami,Spanish,29432,88698,Food,2022-11-06 00:00:00,Nosh Nirvana
+899061,Women 35-44,Market Expansion,15 Days,Instagram,"0,12","3011,7","1,5",Austin,English,7410,23468,Fashion,2022-02-18 00:00:00,Attire Artistry
+944489,Men 35-44,Product Launch,15 Days,Twitter,"0,13","1120,05","2,5",Miami,Spanish,3082,10648,Fashion,2022-03-09 00:00:00,Style Sphere
+209321,Men 25-34,Increase Sales,15 Days,Twitter,"0,12","4028,35","7,87",Los Angeles,English,10114,31477,Fashion,2022-12-15 00:00:00,Chic Couture
+732950,Men 35-44,Brand Awareness,60 Days,Twitter,"0,06","12305,8","5,98",New York,English,32577,98013,Fashion,2022-03-19 00:00:00,Chic Couture
+805343,Men 35-44,Market Expansion,30 Days,Instagram,"0,03","7077,34","4,44",Los Angeles,Spanish,18406,56040,Food,2022-03-21 00:00:00,Gastronomy Guild
+862488,Women 25-34,Increase Sales,60 Days,Pinterest,"0,11","11583,37","1,074271055",Austin,French,18013,59634,Food,2022-09-20 00:00:00,Gastronomy Guild
+239552,Women 25-34,Product Launch,15 Days,Pinterest,"0,07","2681,87","0,759675871",New York,English,3854,13530,Fashion,2022-06-08 00:00:00,Silk & Style
+479663,Men 18-24,Product Launch,45 Days,Pinterest,"0,15","8872,04","0,173384846",Los Angeles,English,13672,45501,Fashion,2022-02-09 00:00:00,Runway Rebels
+440784,Men 18-24,Product Launch,15 Days,Facebook,"0,06","3336,47",7,New York,French,8256,25974,Fashion,2022-11-02 00:00:00,Mode Maven
+376225,Women 35-44,Increase Sales,45 Days,Facebook,"0,05","8922,18","1,55",Austin,French,23418,70884,Food,2022-08-14 00:00:00,Palate Paradise
+719633,Men 35-44,Product Launch,15 Days,Pinterest,"0,07","2132,18","1,076058527",Austin,French,3064,10959,Fashion,2022-01-16 00:00:00,Silk & Style
+882428,Men 18-24,Increase Sales,60 Days,Pinterest,"0,01","14424,31","0,496917393",Las Vegas,Spanish,22023,72690,Food,2022-02-04 00:00:00,Dine Divine
+429675,Women 18-24,Increase Sales,45 Days,Twitter,"0,04","9592,46","5,39",Austin,Spanish,25231,76256,Food,2022-12-23 00:00:00,Gastronomy Guild
+923245,Women 35-44,Product Launch,15 Days,Pinterest,"0,11",500,"0,151935174",Austin,Spanish,593,2913,Food,2022-05-31 00:00:00,Gourmet Grove
+144071,Women 35-44,Brand Awareness,30 Days,Instagram,"0,01","4815,76","7,96",Miami,French,12268,37859,Food,2022-04-15 00:00:00,Dine Divine
+537460,Men 18-24,Market Expansion,60 Days,Instagram,"0,14","14249,03","2,68",Austin,Spanish,37176,111637,Fashion,2022-12-28 00:00:00,Fiber Fashion
+783570,Women 35-44,Product Launch,60 Days,Twitter,"0,02","12034,45","6,21",Austin,English,31857,95880,Food,2022-04-15 00:00:00,Gastronomy Guild
+965508,Women 25-34,Product Launch,30 Days,Instagram,"0,06","5926,37","6,49",Austin,French,15298,46834,Food,2022-04-29 00:00:00,Savor Street
+282826,Women 35-44,Increase Sales,60 Days,Facebook,"0,05","14514,89","3,93",New York,Spanish,37661,113073,Food,2022-11-06 00:00:00,Feast Flavors
+735118,Women 18-24,Increase Sales,30 Days,Pinterest,"0,13","6286,75","0,445080687",Miami,Spanish,9555,32096,Food,2022-01-04 00:00:00,Palate Paradise
+686180,Men 35-44,Increase Sales,30 Days,Facebook,"0,12","7254,57","3,69",Miami,French,18884,57454,Fashion,2022-03-05 00:00:00,Trend Tailors
+652560,Men 35-44,Product Launch,60 Days,Pinterest,"0,03","13272,22","0,46116794",Los Angeles,French,20582,67999,Food,2022-04-25 00:00:00,Dine Divine
+433583,Men 25-34,Market Expansion,45 Days,Facebook,"0,08","9975,29","6,7",New York,French,26282,79369,Food,2022-01-01 00:00:00,Nosh Nirvana
+792462,Men 35-44,Brand Awareness,45 Days,Facebook,"0,11","8723,54","3,16",Austin,English,22889,69318,Fashion,2022-03-17 00:00:00,Attire Artistry
+296610,Men 18-24,Market Expansion,15 Days,Facebook,"0,03","2768,05","4,5",Miami,French,6779,21599,Fashion,2022-11-23 00:00:00,Glam Garments
+265988,Men 35-44,Product Launch,15 Days,Pinterest,"0,05","2827,82","0,600590806",Miami,English,4067,14226,Food,2022-11-29 00:00:00,Savor Street
+497871,Men 35-44,Brand Awareness,15 Days,Facebook,"0,03","3628,12","6,73",Las Vegas,French,9030,28268,Food,2022-07-23 00:00:00,Feast Flavors
+322873,Men 18-24,Market Expansion,30 Days,Twitter,"0,02","6718,44","2,49",Las Vegas,French,17426,53138,Food,2022-09-01 00:00:00,Gourmet Grove
+502903,Women 25-34,Increase Sales,45 Days,Instagram,"0,12","9035,58",3,Austin,English,23719,71776,Fashion,2022-06-04 00:00:00,Attire Artistry
+191099,Women 35-44,Increase Sales,15 Days,Twitter,"0,07",500,"3,08",New York,French,509,3027,Fashion,2022-08-04 00:00:00,Fiber Fashion
+795709,Women 25-34,Increase Sales,45 Days,Twitter,"0,05","8008,4","1,4",New York,Spanish,20938,63540,Fashion,2022-02-26 00:00:00,Trend Tailors
+844183,Women 25-34,Product Launch,15 Days,Twitter,"0,06","2462,05","3,29",Austin,Spanish,6016,19340,Food,2022-09-19 00:00:00,Culinary Quest
+303007,Men 18-24,Increase Sales,30 Days,Pinterest,"0,1","5467,48","0,321745075",New York,French,8247,27836,Food,2022-11-08 00:00:00,Gourmet Grove
+151188,Men 25-34,Increase Sales,30 Days,Twitter,"0,09","7147,53","1,57",New York,Spanish,18597,56605,Fashion,2022-11-14 00:00:00,Runway Rebels
+958417,Women 18-24,Brand Awareness,30 Days,Instagram,"0,12","5306,83","6,7",Miami,French,13614,41846,Fashion,2022-08-21 00:00:00,Glam Garments
+255760,Women 18-24,Brand Awareness,30 Days,Facebook,"0,07","6438,6","3,24",Las Vegas,English,16679,50925,Fashion,2022-06-17 00:00:00,Runway Rebels
+897303,Men 18-24,Market Expansion,60 Days,Facebook,"0,14","13993,51","0,74",Miami,English,36656,110095,Fashion,2022-09-28 00:00:00,Attire Artistry
+923751,Women 25-34,Product Launch,45 Days,Instagram,"0,12","10673,29","4,14",Los Angeles,English,28190,85020,Fashion,2022-11-22 00:00:00,Runway Rebels
+390013,Men 25-34,Brand Awareness,30 Days,Facebook,"0,11","4743,83","0,81",Austin,French,12073,37280,Fashion,2022-06-03 00:00:00,Vogue Visions
+292548,Women 35-44,Increase Sales,30 Days,Pinterest,"0,08","4570,03","0,166234955",Miami,Spanish,6813,23165,Fashion,2022-12-25 00:00:00,Fiber Fashion
+218222,Women 18-24,Market Expansion,30 Days,Twitter,"0,09","5915,29","6,31",Miami,English,15270,46750,Food,2022-08-12 00:00:00,Savor Street
+722308,Women 18-24,Brand Awareness,15 Days,Twitter,"0,09","1340,8","7,33",Los Angeles,Spanish,3491,11860,Fashion,2022-06-12 00:00:00,Fiber Fashion
+530541,Women 18-24,Product Launch,30 Days,Instagram,"0,12","6770,63","6,93",New York,French,17570,53562,Food,2022-12-27 00:00:00,Nosh Nirvana
+212233,Women 35-44,Market Expansion,60 Days,Facebook,"0,12","14125,53","2,91",New York,Spanish,36930,110906,Fashion,2022-01-12 00:00:00,Silk & Style
+406797,Men 25-34,Market Expansion,60 Days,Instagram,"0,07","12947,35","5,45",Austin,Spanish,34246,102956,Fashion,2022-12-03 00:00:00,Trend Tailors
+672962,Men 18-24,Brand Awareness,60 Days,Facebook,"0,04","14964,98","7,71",Miami,English,38359,115141,Fashion,2022-03-10 00:00:00,Attire Artistry
+288586,Women 25-34,Increase Sales,45 Days,Instagram,"0,09","9801,3","3,16",Austin,English,25821,78002,Fashion,2022-04-08 00:00:00,Fiber Fashion
+104735,Women 18-24,Market Expansion,60 Days,Pinterest,"0,12","11467,79","0,790062905",Las Vegas,Spanish,17828,59035,Food,2022-01-13 00:00:00,Nosh Nirvana
+111226,Women 18-24,Brand Awareness,15 Days,Facebook,"0,12",500,"7,65",Las Vegas,French,639,3413,Fashion,2022-05-26 00:00:00,Vogue Visions
+918279,Men 25-34,Product Launch,30 Days,Twitter,"0,11","7531,46","7,46",New York,English,19630,59664,Fashion,2022-08-13 00:00:00,Attire Artistry
+446768,Men 25-34,Increase Sales,30 Days,Pinterest,"0,02",5450,"0,282420677",New York,English,8219,27745,Food,2022-04-09 00:00:00,Dine Divine
+139138,Men 35-44,Brand Awareness,60 Days,Facebook,"0,14","14713,52","4,52",Las Vegas,French,37987,114039,Food,2022-06-06 00:00:00,Culinary Quest
+343491,Men 35-44,Increase Sales,30 Days,Facebook,"0,11","4532,13","3,43",Austin,French,11498,35578,Fashion,2022-02-16 00:00:00,Fiber Fashion
+511731,Women 35-44,Market Expansion,30 Days,Pinterest,"0,13","6178,6","1,244080955",Las Vegas,French,9384,31537,Fashion,2022-04-29 00:00:00,Mode Maven
+200229,Women 18-24,Increase Sales,60 Days,Instagram,"0,05","13766,4","3,54",Los Angeles,English,36175,108670,Fashion,2022-10-21 00:00:00,Fiber Fashion
+263663,Women 35-44,Product Launch,45 Days,Instagram,"0,04","10542,49","5,97",Miami,English,27824,83935,Fashion,2022-01-15 00:00:00,Runway Rebels
+179859,Men 25-34,Brand Awareness,15 Days,Pinterest,"0,11","1482,79","0,146572756",Miami,Spanish,2214,8191,Fashion,2022-12-25 00:00:00,Fiber Fashion
+165355,Women 18-24,Product Launch,60 Days,Facebook,"0,02","13865,25","6,46",New York,Spanish,36386,109296,Fashion,2022-12-10 00:00:00,Attire Artistry
+940958,Men 35-44,Product Launch,15 Days,Twitter,"0,13","3784,5","3,93",New York,French,9456,29529,Food,2022-01-21 00:00:00,Savor Street
+143371,Women 35-44,Brand Awareness,45 Days,Pinterest,"0,12","10726,87","0,886586428",New York,French,16640,55165,Fashion,2022-07-03 00:00:00,Glam Garments
+551663,Women 18-24,Product Launch,60 Days,Twitter,"0,12","13704,39","4,13",Austin,French,36034,108254,Food,2022-05-30 00:00:00,Gourmet Grove
+163940,Men 25-34,Product Launch,45 Days,Twitter,"0,13","10451,83","7,14",Las Vegas,French,27581,83214,Fashion,2022-04-07 00:00:00,Runway Rebels
+244015,Men 18-24,Brand Awareness,60 Days,Facebook,"0,11","14316,77","0,2",Miami,English,37301,112005,Fashion,2022-03-02 00:00:00,Silk & Style
+743819,Men 35-44,Increase Sales,15 Days,Twitter,"0,05","864,04","3,82",Miami,English,2619,9277,Fashion,2022-01-02 00:00:00,Attire Artistry
+621323,Women 35-44,Increase Sales,60 Days,Instagram,"0,13","13706,36","6,25",Miami,English,36039,108269,Food,2022-07-27 00:00:00,Savor Street
+735311,Men 35-44,Product Launch,30 Days,Instagram,"0,14","6973,53","6,7",Austin,French,18127,55214,Food,2022-04-20 00:00:00,Nosh Nirvana
+715003,Men 25-34,Market Expansion,60 Days,Pinterest,"0,06","11581,51","0,872286647",Miami,English,18009,59623,Fashion,2022-03-23 00:00:00,Chic Couture
+370841,Women 18-24,Product Launch,60 Days,Pinterest,"0,08","13054,69","1,324517224",Miami,Spanish,20271,66985,Fashion,2022-04-23 00:00:00,Glam Garments
+257204,Men 25-34,Market Expansion,60 Days,Instagram,"0,11","13416,99","7,75",Los Angeles,English,35384,106330,Food,2022-04-27 00:00:00,Gastronomy Guild
+300307,Women 35-44,Brand Awareness,15 Days,Twitter,"0,14","1168,5","1,86",Miami,English,3167,10902,Fashion,2022-11-07 00:00:00,Trend Tailors
+819113,Men 25-34,Increase Sales,15 Days,Twitter,"0,03","3898,08","7,75",Austin,French,9759,30427,Fashion,2022-10-02 00:00:00,Vogue Visions
+373255,Women 25-34,Increase Sales,15 Days,Twitter,"0,13","3337,71","5,17",Austin,French,8259,25985,Food,2022-02-17 00:00:00,Culinary Quest
+622443,Men 25-34,Product Launch,15 Days,Facebook,"0,1","680,37","4,96",Austin,Spanish,2340,8450,Food,2022-05-13 00:00:00,Culinary Quest
+829617,Men 35-44,Brand Awareness,45 Days,Pinterest,"0,05","9155,03","0,695326856",New York,French,14124,46971,Food,2022-02-05 00:00:00,Nosh Nirvana
+748118,Women 35-44,Increase Sales,45 Days,Facebook,"0,11","8110,59","1,32",New York,English,21216,64363,Food,2022-10-14 00:00:00,Palate Paradise
+382642,Men 18-24,Increase Sales,15 Days,Instagram,"0,07","3961,86","6,26",Los Angeles,English,9935,30949,Food,2022-02-15 00:00:00,Bistro Bliss
+641770,Men 18-24,Increase Sales,45 Days,Twitter,"0,03","11054,48","5,93",Austin,Spanish,29225,88084,Fashion,2022-05-04 00:00:00,Silk & Style
+186879,Men 35-44,Product Launch,15 Days,Pinterest,"0,1","1780,94","0,32532002",Miami,Spanish,2581,9386,Food,2022-11-02 00:00:00,Feast Flavors
+473475,Men 35-44,Market Expansion,30 Days,Facebook,"0,07","6476,89","3,68",Miami,English,16783,51232,Fashion,2022-03-07 00:00:00,Silk & Style
+908596,Men 18-24,Brand Awareness,60 Days,Facebook,"0,11","14540,92","0,76",Austin,Spanish,37706,113206,Fashion,2022-11-28 00:00:00,Fiber Fashion
+576432,Men 25-34,Increase Sales,30 Days,Instagram,"0,06","7241,24","5,78",Las Vegas,French,18849,57352,Food,2022-06-20 00:00:00,Epicurean Edge
+640526,Women 18-24,Brand Awareness,30 Days,Pinterest,"0,07","7447,18","0,743588617",New York,English,11391,38071,Fashion,2022-11-23 00:00:00,Mode Maven
+665259,Men 18-24,Brand Awareness,30 Days,Twitter,"0,03","4165,02","4,48",Austin,Spanish,10495,32607,Fashion,2022-09-18 00:00:00,Trend Tailors
+845213,Men 25-34,Product Launch,15 Days,Facebook,"0,15",500,"7,46",Austin,English,1074,4701,Food,2022-04-27 00:00:00,Epicurean Edge
+180753,Women 25-34,Increase Sales,60 Days,Facebook,"0,09",11445,"6,46",Austin,Spanish,30292,91245,Food,2022-10-22 00:00:00,Dine Divine
+765004,Women 35-44,Product Launch,45 Days,Instagram,"0,08","10808,89","6,39",Los Angeles,Spanish,28552,86092,Food,2022-05-31 00:00:00,Savor Street
+375584,Women 18-24,Increase Sales,60 Days,Pinterest,"0,09","13077,95","0,94199808",Los Angeles,French,20305,67097,Fashion,2022-11-06 00:00:00,Silk & Style
+821545,Men 25-34,Market Expansion,45 Days,Pinterest,"0,06","9594,21","0,754313453",Las Vegas,Spanish,14822,49245,Food,2022-10-06 00:00:00,Culinary Quest
+935590,Men 25-34,Product Launch,60 Days,Facebook,"0,11","12538,5","2,88",Austin,Spanish,33183,99809,Fashion,2022-08-22 00:00:00,Runway Rebels
+367033,Men 18-24,Product Launch,15 Days,Facebook,"0,03","1954,57","3,58",New York,English,4794,15721,Food,2022-08-23 00:00:00,Dine Divine
+884549,Men 35-44,Market Expansion,30 Days,Pinterest,"0,13","7736,99","0,437930796",Las Vegas,Spanish,11861,39604,Fashion,2022-12-29 00:00:00,Fiber Fashion
+610270,Women 35-44,Product Launch,15 Days,Pinterest,"0,14","1706,81","1,40316602",Los Angeles,English,2488,9084,Fashion,2022-11-18 00:00:00,Mode Maven
+314525,Women 35-44,Market Expansion,15 Days,Pinterest,"0,04","2378,34","0,144785284",Las Vegas,French,3414,12100,Fashion,2022-01-04 00:00:00,Mode Maven
+218690,Men 25-34,Brand Awareness,60 Days,Pinterest,"0,05","12512,34","0,999197204",New York,English,19449,64313,Fashion,2022-11-10 00:00:00,Trend Tailors
+933012,Men 18-24,Increase Sales,45 Days,Pinterest,"0,13","8440,48","1,176156995",Los Angeles,French,12995,43294,Food,2022-09-07 00:00:00,Epicurean Edge
+211590,Women 18-24,Brand Awareness,60 Days,Pinterest,"0,03","14922,67","0,437930796",New York,French,22495,74229,Food,2022-03-22 00:00:00,Culinary Quest
+197156,Men 25-34,Increase Sales,15 Days,Instagram,"0,13","3468,42","3,88",New York,English,8598,26988,Food,2022-12-13 00:00:00,Gastronomy Guild
+661465,Women 25-34,Market Expansion,60 Days,Twitter,"0,07","12225,36","1,28",Miami,English,32368,97395,Food,2022-12-03 00:00:00,Feast Flavors
+550468,Women 35-44,Product Launch,30 Days,Facebook,"0,14","5189,84","3,61",Miami,English,13298,40909,Fashion,2022-04-21 00:00:00,Attire Artistry
+518051,Men 18-24,Product Launch,60 Days,Twitter,"0,02","11485,45","4,43",Los Angeles,French,30402,91570,Food,2022-02-25 00:00:00,Palate Paradise
+167712,Women 25-34,Increase Sales,60 Days,Instagram,"0,12","13079,18","7,6",Miami,Spanish,34575,103933,Food,2022-06-14 00:00:00,Epicurean Edge
+443937,Women 35-44,Market Expansion,45 Days,Instagram,"0,14","10623,6","4,3",Austin,Spanish,28052,84610,Food,2022-10-05 00:00:00,Gourmet Grove
+731695,Men 25-34,Brand Awareness,15 Days,Twitter,"0,14","2407,14","3,83",Austin,Spanish,5882,18944,Food,2022-01-25 00:00:00,Dine Divine
+806947,Women 25-34,Market Expansion,30 Days,Twitter,"0,13","4828,48","0,1",Austin,Spanish,12302,37959,Fashion,2022-05-17 00:00:00,Style Sphere
+592457,Men 25-34,Brand Awareness,45 Days,Twitter,"0,05","8777,32","5,5",New York,French,23032,69740,Food,2022-04-27 00:00:00,Dine Divine
+771243,Women 25-34,Brand Awareness,60 Days,Pinterest,"0,04","14584,78","1,387078766",Austin,Spanish,22190,73235,Food,2022-04-30 00:00:00,Gastronomy Guild
+252762,Women 35-44,Increase Sales,30 Days,Facebook,"0,11","5722,94","3,82",New York,Spanish,14741,45182,Fashion,2022-09-17 00:00:00,Vogue Visions
+707893,Women 35-44,Product Launch,60 Days,Twitter,"0,14","13004,84","6,19",Austin,Spanish,34389,103382,Food,2022-09-07 00:00:00,Nosh Nirvana
+995010,Men 18-24,Market Expansion,30 Days,Twitter,"0,03","6231,25","3,69",New York,French,16120,49269,Fashion,2022-02-22 00:00:00,Silk & Style
+128112,Women 35-44,Increase Sales,30 Days,Instagram,"0,03","5731,59","6,52",Austin,Spanish,14763,45248,Food,2022-03-27 00:00:00,Gastronomy Guild
+500105,Women 35-44,Product Launch,30 Days,Instagram,"0,12","6994,56","0,49",Los Angeles,Spanish,18189,55396,Fashion,2022-06-01 00:00:00,Attire Artistry
+394546,Women 35-44,Product Launch,60 Days,Instagram,"0,02","12921,4","4,54",Las Vegas,English,34179,102759,Fashion,2022-11-28 00:00:00,Glam Garments
+570679,Men 18-24,Brand Awareness,15 Days,Instagram,"0,14",500,"1,98",Miami,English,974,4404,Food,2022-07-12 00:00:00,Bistro Bliss
+183394,Women 18-24,Market Expansion,60 Days,Instagram,"0,05","12300,25","4,8",Los Angeles,French,32561,97968,Fashion,2022-03-11 00:00:00,Silk & Style
+477395,Men 25-34,Product Launch,30 Days,Facebook,"0,05","6529,82","5,93",Austin,English,16927,51657,Food,2022-05-30 00:00:00,Palate Paradise
+625126,Men 25-34,Product Launch,60 Days,Instagram,"0,13","11695,9","0,81",Miami,French,30968,93249,Fashion,2022-07-11 00:00:00,Style Sphere
+680795,Men 35-44,Brand Awareness,15 Days,Facebook,"0,06","3195,81","7,18",Las Vegas,English,7882,24867,Food,2022-07-11 00:00:00,Bistro Bliss
+355916,Women 35-44,Market Expansion,45 Days,Facebook,"0,14","10881,7",4,Austin,Spanish,28753,86687,Food,2022-04-10 00:00:00,Nosh Nirvana
+504533,Women 35-44,Product Launch,15 Days,Twitter,"0,08","1813,76","7,01",Los Angeles,Spanish,4468,14755,Fashion,2022-01-02 00:00:00,Attire Artistry
+182090,Women 18-24,Brand Awareness,45 Days,Pinterest,"0,1","8018,58","0,865136756",Las Vegas,French,12315,41080,Fashion,2022-08-25 00:00:00,Glam Garments
+246300,Men 18-24,Brand Awareness,15 Days,Facebook,"0,05","3452,68","4,6",Los Angeles,Spanish,8558,26868,Fashion,2022-06-30 00:00:00,Mode Maven
+761170,Men 25-34,Increase Sales,45 Days,Instagram,"0,12","10932,44","6,57",Austin,Spanish,28888,87086,Food,2022-10-21 00:00:00,Nosh Nirvana
+925947,Men 35-44,Increase Sales,15 Days,Instagram,"0,04","1063,21","3,45",Miami,English,2977,10339,Fashion,2022-11-13 00:00:00,Vogue Visions
+404822,Men 18-24,Increase Sales,15 Days,Instagram,"0,07","3149,66","3,56",New York,French,7765,24520,Food,2022-03-24 00:00:00,Culinary Quest
+818450,Men 35-44,Product Launch,45 Days,Facebook,"0,1","8045,52",2,New York,Spanish,21040,63840,Fashion,2022-09-08 00:00:00,Attire Artistry
+619046,Women 35-44,Brand Awareness,30 Days,Facebook,"0,02","7391,33","2,3",Las Vegas,Spanish,19244,58522,Fashion,2022-10-27 00:00:00,Attire Artistry
+107749,Women 25-34,Product Launch,45 Days,Pinterest,"0,1","8857,37","1,390653711",New York,Spanish,13652,45434,Fashion,2022-11-25 00:00:00,Style Sphere
+777480,Men 25-34,Product Launch,15 Days,Pinterest,"0,1",500,"0,511217174",Las Vegas,French,380,2220,Food,2022-11-02 00:00:00,Culinary Quest
+235026,Women 25-34,Brand Awareness,30 Days,Facebook,"0,01","7107,98","7,5",Las Vegas,French,18490,56288,Fashion,2022-04-14 00:00:00,Mode Maven
+610903,Men 35-44,Market Expansion,60 Days,Instagram,"0,08",15000,"2,56",New York,French,39747,119252,Fashion,2022-08-02 00:00:00,Mode Maven
+654814,Men 18-24,Increase Sales,15 Days,Pinterest,"0,1","2077,67","1,306642497",Miami,Spanish,2985,10702,Food,2022-08-09 00:00:00,Bistro Bliss
+529562,Women 25-34,Increase Sales,45 Days,Facebook,"0,07","10799,34","4,63",Los Angeles,Spanish,28527,86018,Fashion,2022-04-08 00:00:00,Vogue Visions
+746285,Women 18-24,Brand Awareness,15 Days,Facebook,"0,07","2089,84",6,New York,English,5113,16665,Fashion,2022-01-20 00:00:00,Attire Artistry
+595004,Men 18-24,Brand Awareness,45 Days,Pinterest,"0,14","11284,55","0,185897154",Miami,Spanish,17534,58073,Food,2022-06-14 00:00:00,Culinary Quest
+977237,Women 35-44,Market Expansion,30 Days,Instagram,"0,08","7617,62","1,99",Austin,French,19862,60352,Food,2022-06-19 00:00:00,Savor Street
+588246,Men 18-24,Market Expansion,15 Days,Instagram,"0,06","1607,77","4,84",Los Angeles,Spanish,4028,13450,Food,2022-09-27 00:00:00,Dine Divine
+295729,Women 35-44,Market Expansion,15 Days,Facebook,"0,13","1705,11","3,87",New York,Spanish,4233,14057,Fashion,2022-12-26 00:00:00,Trend Tailors
+963408,Women 18-24,Market Expansion,30 Days,Facebook,"0,12","5783,86","2,07",Los Angeles,English,14903,45664,Food,2022-09-25 00:00:00,Feast Flavors
+209950,Women 18-24,Market Expansion,30 Days,Instagram,"0,04","5368,09","1,05",New York,English,13772,42313,Food,2022-04-28 00:00:00,Gastronomy Guild
+931811,Women 35-44,Product Launch,60 Days,Twitter,"0,12",15000,"2,08",Miami,English,39784,119362,Fashion,2022-07-25 00:00:00,Mode Maven
+905636,Men 18-24,Increase Sales,15 Days,Pinterest,"0,12","1205,57","0,832962249",New York,Spanish,1900,7167,Fashion,2022-07-27 00:00:00,Chic Couture
+987217,Men 35-44,Product Launch,45 Days,Instagram,"0,04","9653,9","6,49",Los Angeles,French,25409,76781,Fashion,2022-05-09 00:00:00,Mode Maven
+992238,Men 18-24,Product Launch,60 Days,Instagram,"0,03","13124,56","0,43",Austin,English,34686,104262,Food,2022-06-05 00:00:00,Gourmet Grove
+340462,Women 18-24,Product Launch,60 Days,Pinterest,"0,1","12705,96","0,536241791",Miami,French,19747,65282,Fashion,2022-03-01 00:00:00,Attire Artistry
+558417,Women 18-24,Market Expansion,30 Days,Facebook,"0,12","5783,93","3,66",New York,French,14904,45665,Fashion,2022-11-12 00:00:00,Attire Artistry
+267111,Women 25-34,Increase Sales,30 Days,Twitter,"0,11","7340,26","0,48",Las Vegas,French,19110,58125,Fashion,2022-01-27 00:00:00,Silk & Style
+312413,Women 18-24,Product Launch,60 Days,Twitter,"0,09",15000,"2,32",Miami,French,38571,115767,Fashion,2022-12-23 00:00:00,Silk & Style
+770707,Women 18-24,Brand Awareness,60 Days,Twitter,"0,07","13223,46","4,05",New York,English,34929,104980,Fashion,2022-08-19 00:00:00,Silk & Style
+314980,Women 25-34,Product Launch,45 Days,Twitter,"0,04","10173,08","0,63",Austin,English,26826,80979,Fashion,2022-07-23 00:00:00,Silk & Style
+340590,Women 18-24,Market Expansion,15 Days,Instagram,"0,09","597,95","3,8",Austin,Spanish,2223,8104,Food,2022-09-08 00:00:00,Feast Flavors
+607736,Women 25-34,Increase Sales,60 Days,Instagram,"0,05","12303,55","6,53",New York,English,32571,97996,Food,2022-10-30 00:00:00,Epicurean Edge
+943009,Women 35-44,Brand Awareness,30 Days,Twitter,"0,11","5511,35","3,07",Austin,French,14162,43468,Food,2022-03-10 00:00:00,Gastronomy Guild
+937329,Men 25-34,Brand Awareness,60 Days,Twitter,"0,06","13221,15","3,37",New York,Spanish,34923,104963,Fashion,2022-04-27 00:00:00,Glam Garments
+532191,Women 35-44,Market Expansion,60 Days,Facebook,"0,06","14115,72","4,77",Las Vegas,French,36910,110849,Food,2022-01-05 00:00:00,Feast Flavors
+202414,Women 35-44,Increase Sales,60 Days,Instagram,"0,02","11576,62","6,27",Austin,English,30651,92310,Fashion,2022-03-29 00:00:00,Chic Couture
+519947,Men 18-24,Product Launch,60 Days,Facebook,"0,09","12124,56","4,36",Los Angeles,French,32095,96585,Fashion,2022-09-07 00:00:00,Style Sphere
+651934,Men 25-34,Product Launch,60 Days,Pinterest,"0,11","13213,59","1,363841622",Los Angeles,English,20500,67731,Food,2022-12-18 00:00:00,Nosh Nirvana
+113882,Women 35-44,Brand Awareness,45 Days,Twitter,"0,03","9629,47","1,29",Miami,Spanish,25340,76578,Fashion,2022-09-12 00:00:00,Vogue Visions
+643982,Men 25-34,Product Launch,45 Days,Facebook,"0,03","9665,25","2,97",Los Angeles,English,25441,76875,Food,2022-08-16 00:00:00,Culinary Quest
+500604,Men 18-24,Brand Awareness,30 Days,Facebook,"0,12","4867,59","1,83",New York,French,12412,38285,Fashion,2022-10-06 00:00:00,Runway Rebels
+151365,Men 35-44,Brand Awareness,45 Days,Instagram,"0,06","8063,8","1,45",Austin,French,21090,63988,Food,2022-10-01 00:00:00,Dine Divine
+344009,Women 18-24,Brand Awareness,60 Days,Twitter,"0,03","14577,17","1,04",Los Angeles,English,37767,113385,Food,2022-04-23 00:00:00,Feast Flavors
+266402,Women 35-44,Market Expansion,45 Days,Instagram,"0,15","10636,11","5,48",New York,Spanish,28089,84719,Fashion,2022-05-08 00:00:00,Mode Maven
+146882,Men 25-34,Increase Sales,30 Days,Pinterest,"0,03","4461,11","0,246671224",Las Vegas,French,6637,22595,Fashion,2022-06-27 00:00:00,Silk & Style
+394819,Women 35-44,Product Launch,15 Days,Twitter,"0,02","623,73","0,97",Austin,French,2256,8203,Food,2022-08-25 00:00:00,Dine Divine
+818444,Men 35-44,Product Launch,15 Days,Facebook,"0,14","1188,74","5,6",Austin,French,3205,11014,Food,2022-07-31 00:00:00,Gourmet Grove
+975868,Women 18-24,Product Launch,30 Days,Instagram,"0,09","5658,49","5,28",Austin,French,14568,44671,Fashion,2022-05-15 00:00:00,Trend Tailors
+864496,Women 25-34,Product Launch,30 Days,Facebook,"0,01","7172,69","5,49",New York,French,18667,56813,Food,2022-02-04 00:00:00,Dine Divine
+702226,Men 25-34,Brand Awareness,15 Days,Twitter,"0,11","3012,72","2,67",Los Angeles,French,7412,23476,Food,2022-10-11 00:00:00,Gourmet Grove
+189751,Women 18-24,Market Expansion,15 Days,Instagram,"0,1","2842,63","3,92",Los Angeles,Spanish,6963,22144,Food,2022-03-29 00:00:00,Savor Street
+753157,Men 35-44,Product Launch,30 Days,Twitter,"0,11","7639,6","3,34",Las Vegas,English,19923,60533,Food,2022-03-31 00:00:00,Nosh Nirvana
+693149,Women 18-24,Market Expansion,45 Days,Twitter,"0,14","9186,71","6,72",Las Vegas,English,24135,73007,Fashion,2022-03-23 00:00:00,Glam Garments
+336633,Men 18-24,Product Launch,30 Days,Twitter,"0,06","5501,85","4,11",Austin,French,14136,43392,Fashion,2022-06-16 00:00:00,Chic Couture
+423084,Women 25-34,Increase Sales,30 Days,Instagram,"0,1","4253,12","7,21",Las Vegas,Spanish,10738,33325,Fashion,2022-03-06 00:00:00,Fiber Fashion
+329484,Women 25-34,Brand Awareness,60 Days,Twitter,"0,11","12840,56","6,47",New York,English,33977,102160,Fashion,2022-05-08 00:00:00,Style Sphere
+217471,Men 25-34,Product Launch,60 Days,Facebook,"0,09","13518,53","5,06",Austin,English,35626,107046,Fashion,2022-02-16 00:00:00,Silk & Style
+371427,Men 18-24,Product Launch,45 Days,Twitter,"0,15","7896,88","4,39",Austin,Spanish,20628,62621,Food,2022-06-06 00:00:00,Gourmet Grove
+406579,Women 35-44,Market Expansion,45 Days,Facebook,"0,12","8203,82","6,27",Austin,Spanish,21469,65112,Food,2022-07-30 00:00:00,Dine Divine
+640885,Women 18-24,Product Launch,60 Days,Twitter,"0,06","12766,77","6,97",Los Angeles,English,33785,101591,Fashion,2022-04-25 00:00:00,Runway Rebels
+703724,Women 35-44,Increase Sales,45 Days,Facebook,"0,08","9593,43","1,32",Miami,Spanish,25235,76267,Fashion,2022-03-08 00:00:00,Chic Couture
+125622,Women 18-24,Brand Awareness,45 Days,Pinterest,"0,13","9169,52","0,246671224",New York,Spanish,14147,47047,Food,2022-01-31 00:00:00,Palate Paradise
+507820,Men 25-34,Increase Sales,60 Days,Facebook,"0,05","12885,48","4,51",Miami,Spanish,34091,102498,Fashion,2022-02-04 00:00:00,Fiber Fashion
+264500,Men 18-24,Brand Awareness,45 Days,Instagram,"0,06","11326,3","6,87",Miami,English,29968,90285,Food,2022-03-07 00:00:00,Gastronomy Guild
+255484,Men 25-34,Market Expansion,30 Days,Instagram,"0,02","4773,8","2,76",Austin,English,12155,37523,Food,2022-11-25 00:00:00,Nosh Nirvana
+518779,Men 25-34,Product Launch,45 Days,Instagram,"0,12","11352,24","3,08",Los Angeles,Spanish,30035,90485,Food,2022-06-09 00:00:00,Feast Flavors
+567624,Men 25-34,Market Expansion,60 Days,Instagram,"0,09","13604,27","0,71",Austin,English,35824,107632,Fashion,2022-04-28 00:00:00,Silk & Style
+638246,Men 35-44,Increase Sales,60 Days,Pinterest,"0,06","13550,08","0,800787741",New York,French,20966,69251,Food,2022-12-22 00:00:00,Feast Flavors
+635752,Women 35-44,Product Launch,15 Days,Pinterest,"0,12","3085,92","1,08499589",Los Angeles,English,4464,15518,Fashion,2022-09-07 00:00:00,Runway Rebels
+994944,Men 25-34,Product Launch,15 Days,Twitter,"0,03","3496,84","0,7",New York,Spanish,8678,27225,Fashion,2022-02-10 00:00:00,Trend Tailors
+928474,Women 18-24,Market Expansion,60 Days,Instagram,"0,08","12642,69","5,38",Miami,English,33460,100628,Food,2022-12-15 00:00:00,Nosh Nirvana
+798233,Men 25-34,Increase Sales,15 Days,Pinterest,"0,06","1007,66","1,142195015",Las Vegas,Spanish,1689,6481,Food,2022-11-07 00:00:00,Epicurean Edge
+176208,Women 18-24,Increase Sales,30 Days,Instagram,"0,09","6450,2","1,07",Miami,Spanish,16710,51015,Food,2022-09-09 00:00:00,Dine Divine
+764874,Men 25-34,Brand Awareness,30 Days,Instagram,"0,1","7563,23","1,49",Miami,Spanish,19718,59926,Fashion,2022-02-11 00:00:00,Vogue Visions
+269871,Women 35-44,Brand Awareness,30 Days,Instagram,"0,06","6765,4","3,64",New York,Spanish,17556,53522,Fashion,2022-01-16 00:00:00,Style Sphere
+553206,Men 35-44,Product Launch,15 Days,Twitter,"0,03",500,"4,67",Las Vegas,Spanish,1650,6407,Fashion,2022-05-26 00:00:00,Mode Maven
+327938,Men 18-24,Brand Awareness,60 Days,Pinterest,"0,1","11485,51","0,125123085",Los Angeles,English,17855,59122,Fashion,2022-10-20 00:00:00,Mode Maven
+645024,Women 35-44,Market Expansion,60 Days,Twitter,"0,14",15000,"6,21",Austin,Spanish,38998,117034,Food,2022-08-01 00:00:00,Gourmet Grove
+285918,Men 18-24,Market Expansion,60 Days,Facebook,"0,12","11503,54","6,2",Los Angeles,French,30450,91714,Fashion,2022-05-02 00:00:00,Fiber Fashion
+587845,Men 35-44,Product Launch,30 Days,Instagram,"0,1","4470,91","4,18",Austin,Spanish,11329,35077,Fashion,2022-09-12 00:00:00,Trend Tailors
+779448,Men 18-24,Market Expansion,45 Days,Pinterest,"0,05","8918,46","1,081420945",New York,Spanish,13747,45745,Fashion,2022-12-31 00:00:00,Trend Tailors
+846160,Men 35-44,Market Expansion,60 Days,Pinterest,"0,09","11862,92","0,344982219",Austin,English,18445,61041,Food,2022-05-05 00:00:00,Gastronomy Guild
+721208,Men 18-24,Market Expansion,30 Days,Instagram,"0,02","7637,23","1,71",Austin,Spanish,19917,60513,Food,2022-07-23 00:00:00,Epicurean Edge
+242142,Men 25-34,Brand Awareness,30 Days,Pinterest,"0,07","6464,99","0,017874726",Austin,French,9838,33017,Food,2022-07-06 00:00:00,Palate Paradise
+516073,Women 35-44,Increase Sales,30 Days,Twitter,"0,1","4182,79","4,4",New York,English,10541,32742,Food,2022-06-02 00:00:00,Bistro Bliss
+823609,Men 35-44,Brand Awareness,60 Days,Pinterest,"0,08",15000,"0,546966627",New York,English,23251,76689,Fashion,2022-02-08 00:00:00,Silk & Style
+469943,Men 18-24,Product Launch,60 Days,Pinterest,"0,04","14135,41","0,116185721",Austin,Spanish,21701,71644,Food,2022-05-10 00:00:00,Dine Divine
+890893,Men 35-44,Brand Awareness,15 Days,Pinterest,"0,08","3915,57","1,313792388",New York,English,5761,19740,Fashion,2022-02-05 00:00:00,Glam Garments
+116112,Men 18-24,Brand Awareness,45 Days,Instagram,"0,14","8812,91","7,2",Miami,English,23125,70016,Fashion,2022-12-01 00:00:00,Trend Tailors
+280671,Women 25-34,Increase Sales,45 Days,Twitter,"0,09","9563,96","1,31",Miami,English,25159,76043,Food,2022-05-04 00:00:00,Epicurean Edge
+403190,Women 35-44,Brand Awareness,30 Days,Twitter,"0,07","7034,96","2,25",Miami,English,18293,55704,Food,2022-11-30 00:00:00,Gastronomy Guild
+541169,Women 25-34,Market Expansion,30 Days,Twitter,"0,09","6405,26","1,91",Las Vegas,Spanish,16597,50682,Fashion,2022-11-03 00:00:00,Attire Artistry
+517662,Men 25-34,Increase Sales,45 Days,Facebook,"0,15","8710,51","7,45",Austin,English,22854,69215,Food,2022-08-11 00:00:00,Savor Street
+723004,Men 35-44,Brand Awareness,30 Days,Twitter,"0,05","5467,01","6,16",Las Vegas,Spanish,14042,43112,Fashion,2022-09-11 00:00:00,Silk & Style
+283882,Men 35-44,Brand Awareness,15 Days,Facebook,"0,07",500,"4,15",New York,French,1243,5201,Food,2022-03-13 00:00:00,Epicurean Edge
+767622,Men 18-24,Increase Sales,30 Days,Twitter,"0,09","4951,56","0,5",New York,French,12639,38956,Food,2022-04-28 00:00:00,Feast Flavors
+684533,Men 35-44,Market Expansion,30 Days,Instagram,"0,07","4143,82","0,86",New York,French,10434,32426,Food,2022-11-18 00:00:00,Dine Divine
+345071,Women 25-34,Market Expansion,30 Days,Instagram,"0,02","7547,98","0,92",Austin,Spanish,19675,59797,Food,2022-10-19 00:00:00,Gastronomy Guild
+968787,Men 18-24,Increase Sales,30 Days,Instagram,"0,06","6082,28","5,31",Miami,French,15725,48097,Food,2022-06-11 00:00:00,Feast Flavors
+744236,Women 25-34,Increase Sales,30 Days,Pinterest,"0,06","5089,64","0,895523791",Austin,Spanish,7646,25878,Food,2022-10-13 00:00:00,Palate Paradise
+710168,Men 35-44,Brand Awareness,60 Days,Facebook,"0,01","13238,16","7,68",Los Angeles,Spanish,34960,105073,Fashion,2022-05-03 00:00:00,Silk & Style
+412757,Men 35-44,Brand Awareness,45 Days,Twitter,"0,12","9885,79","3,41",Austin,Spanish,26047,78671,Fashion,2022-03-14 00:00:00,Style Sphere
+324667,Men 25-34,Brand Awareness,30 Days,Pinterest,"0,08",7352,"0,02681209",New York,English,11242,37587,Food,2022-02-27 00:00:00,Bistro Bliss
+757996,Women 35-44,Increase Sales,60 Days,Pinterest,"0,1","14159,52","0,557691463",Los Angeles,English,21729,71736,Food,2022-09-18 00:00:00,Epicurean Edge
+173876,Men 35-44,Product Launch,60 Days,Twitter,"0,09",15000,"7,89",Los Angeles,Spanish,38658,116026,Fashion,2022-12-26 00:00:00,Style Sphere
+583083,Women 25-34,Increase Sales,30 Days,Facebook,"0,1","6538,49","2,54",Miami,English,16947,51718,Food,2022-08-26 00:00:00,Palate Paradise
+166847,Men 35-44,Market Expansion,45 Days,Facebook,"0,11","9749,7","4,92",Las Vegas,English,25674,77566,Food,2022-09-29 00:00:00,Culinary Quest
+488445,Women 25-34,Brand Awareness,15 Days,Facebook,"0,1","1019,76","5,91",Austin,English,2899,10107,Food,2022-03-14 00:00:00,Savor Street
+243425,Men 18-24,Market Expansion,30 Days,Instagram,"0,1","4676,16","4,6",New York,English,11892,36745,Fashion,2022-06-22 00:00:00,Fiber Fashion
+452065,Men 18-24,Increase Sales,15 Days,Facebook,"0,03",500,"4,53",Austin,Spanish,979,4418,Fashion,2022-01-08 00:00:00,Runway Rebels
+371380,Women 18-24,Product Launch,60 Days,Facebook,"0,01","11773,13","7,55",Las Vegas,Spanish,31180,93877,Fashion,2022-06-05 00:00:00,Attire Artistry
+329130,Men 18-24,Increase Sales,15 Days,Instagram,"0,04",500,"5,56",Austin,Spanish,1787,6814,Fashion,2022-04-16 00:00:00,Style Sphere
+608697,Women 25-34,Product Launch,15 Days,Facebook,"0,11",500,"2,54",Austin,Spanish,2002,7449,Fashion,2022-01-19 00:00:00,Trend Tailors
+869934,Men 18-24,Increase Sales,45 Days,Twitter,"0,09","9862,91","4,99",Austin,English,25990,78503,Fashion,2022-11-29 00:00:00,Trend Tailors
+353797,Women 35-44,Increase Sales,15 Days,Pinterest,"0,11","3665,41","1,388866239",Los Angeles,Spanish,5362,18443,Food,2022-09-24 00:00:00,Gastronomy Guild
+901151,Women 35-44,Brand Awareness,30 Days,Pinterest,"0,02","6189,32","0,630977841",Los Angeles,Spanish,9400,31591,Food,2022-03-26 00:00:00,Nosh Nirvana
+803922,Men 25-34,Brand Awareness,30 Days,Pinterest,"0,07","6226,19","1,054608856",Las Vegas,English,9458,31781,Fashion,2022-04-13 00:00:00,Trend Tailors
+626714,Men 25-34,Product Launch,30 Days,Pinterest,"0,04","6915,5","1,292342716",Las Vegas,English,10554,35347,Food,2022-09-18 00:00:00,Nosh Nirvana
+721003,Men 18-24,Brand Awareness,60 Days,Instagram,"0,03",15000,"1,94",Los Angeles,Spanish,38685,116105,Food,2022-12-30 00:00:00,Feast Flavors
+560974,Men 18-24,Market Expansion,30 Days,Twitter,"0,1","4946,74","4,11",Las Vegas,French,12626,38917,Food,2022-08-06 00:00:00,Bistro Bliss
+132790,Men 18-24,Increase Sales,15 Days,Pinterest,"0,13","4094,14","0,457592995",Miami,Spanish,6048,20678,Fashion,2022-09-06 00:00:00,Vogue Visions
+395007,Women 35-44,Product Launch,15 Days,Instagram,"0,06","4066,75","0,77",Los Angeles,English,10222,31797,Fashion,2022-01-08 00:00:00,Mode Maven
+213192,Men 18-24,Market Expansion,15 Days,Instagram,"0,14","1506,96","5,98",New York,English,3820,12835,Fashion,2022-09-17 00:00:00,Style Sphere
+116833,Women 25-34,Market Expansion,45 Days,Facebook,"0,12","11244,84","5,61",Las Vegas,English,29748,89634,Food,2022-01-04 00:00:00,Gastronomy Guild
+204127,Women 18-24,Brand Awareness,45 Days,Twitter,"0,08","7809,3","0,82",Austin,Spanish,20393,61924,Fashion,2022-12-06 00:00:00,Glam Garments
+347568,Women 25-34,Product Launch,30 Days,Facebook,"0,14","6310,92","3,65",New York,English,16340,49919,Fashion,2022-04-16 00:00:00,Silk & Style
+211302,Women 35-44,Product Launch,45 Days,Pinterest,"0,05","9612,62","1,378141403",New York,French,14853,49346,Fashion,2022-09-21 00:00:00,Glam Garments
+671719,Women 18-24,Brand Awareness,60 Days,Twitter,"0,1","11662,9","7,19",Miami,French,30884,92998,Food,2022-01-15 00:00:00,Culinary Quest
+633554,Men 18-24,Brand Awareness,60 Days,Instagram,"0,12","12449,33","4,72",Las Vegas,French,32955,99133,Food,2022-03-06 00:00:00,Gastronomy Guild
+682555,Men 25-34,Increase Sales,45 Days,Instagram,"0,06","10281,16",3,New York,Spanish,27114,81831,Fashion,2022-04-27 00:00:00,Attire Artistry
+916861,Men 25-34,Brand Awareness,30 Days,Twitter,"0,12","6921,85","2,1",Las Vegas,French,17987,54798,Food,2022-12-30 00:00:00,Bistro Bliss
+959211,Men 35-44,Product Launch,45 Days,Facebook,"0,04","8310,73","1,49",New York,French,21769,65999,Fashion,2022-03-31 00:00:00,Vogue Visions
+588385,Women 35-44,Product Launch,45 Days,Instagram,"0,02","10828,88","1,79",Miami,Spanish,28607,86254,Fashion,2022-11-01 00:00:00,Style Sphere
+894918,Men 25-34,Market Expansion,60 Days,Twitter,"0,11","12464,24","4,5",New York,French,32993,99247,Food,2022-09-30 00:00:00,Nosh Nirvana
+474869,Women 35-44,Increase Sales,30 Days,Facebook,"0,05","6716,75","4,47",Las Vegas,English,17422,53125,Food,2022-07-31 00:00:00,Palate Paradise
+342907,Men 25-34,Brand Awareness,45 Days,Facebook,"0,04","11140,13","0,63",New York,Spanish,29459,88779,Fashion,2022-10-25 00:00:00,Runway Rebels
+479638,Men 25-34,Increase Sales,15 Days,Instagram,"0,06",500,"7,2",Los Angeles,Spanish,1307,5391,Food,2022-07-13 00:00:00,Nosh Nirvana
+690579,Women 25-34,Brand Awareness,15 Days,Facebook,"0,05","2159,79","0,02",Las Vegas,English,5282,17166,Food,2022-10-17 00:00:00,Bistro Bliss
+828657,Men 35-44,Brand Awareness,30 Days,Twitter,"0,08","6609,41","2,17",Las Vegas,French,17132,52266,Food,2022-07-16 00:00:00,Epicurean Edge
+756156,Women 18-24,Market Expansion,60 Days,Facebook,"0,02","13067,22","7,17",New York,Spanish,34547,103848,Fashion,2022-01-15 00:00:00,Style Sphere
+930989,Men 25-34,Increase Sales,15 Days,Twitter,"0,12",500,"0,75",Miami,French,741,3715,Fashion,2022-08-16 00:00:00,Vogue Visions
+444313,Men 18-24,Increase Sales,60 Days,Facebook,"0,02","13014,94","0,14",Miami,French,34415,103457,Fashion,2022-02-01 00:00:00,Silk & Style
+219951,Women 35-44,Market Expansion,15 Days,Instagram,"0,13","3691,88","7,24",Las Vegas,French,9203,28778,Food,2022-05-19 00:00:00,Nosh Nirvana
+846252,Women 18-24,Increase Sales,15 Days,Pinterest,"0,15","1967,47","0,988472368",Miami,French,2835,10212,Fashion,2022-02-14 00:00:00,Mode Maven
+700898,Men 18-24,Product Launch,45 Days,Facebook,"0,1","8873,42","6,86",Los Angeles,Spanish,23282,70481,Food,2022-07-24 00:00:00,Gastronomy Guild
+705123,Women 18-24,Product Launch,60 Days,Instagram,"0,01","12657,02","2,14",New York,English,33498,100740,Food,2022-09-15 00:00:00,Epicurean Edge
+475300,Women 18-24,Market Expansion,45 Days,Facebook,"0,03","10519,04","1,6",New York,English,27765,83760,Fashion,2022-12-17 00:00:00,Chic Couture
+645097,Women 25-34,Brand Awareness,15 Days,Facebook,"0,07","3349,97","0,06",Las Vegas,Spanish,8291,26078,Fashion,2022-10-06 00:00:00,Chic Couture
+427920,Men 18-24,Product Launch,30 Days,Pinterest,"0,12","4212,05","1,30128008",Miami,French,6237,21290,Food,2022-07-15 00:00:00,Dine Divine
+198484,Women 25-34,Product Launch,30 Days,Pinterest,"0,14","5569,77","1,281617881",Miami,Spanish,8411,28371,Food,2022-12-07 00:00:00,Epicurean Edge
+563407,Women 25-34,Brand Awareness,60 Days,Instagram,"0,11",15000,"7,1",Miami,English,39699,119110,Food,2022-02-22 00:00:00,Savor Street
+877371,Women 25-34,Increase Sales,30 Days,Pinterest,"0,1","7306,62","0,010724836",Los Angeles,English,11174,37366,Food,2022-01-18 00:00:00,Dine Divine
+556122,Women 35-44,Market Expansion,60 Days,Pinterest,"0,05",11870,"0,607740696",Las Vegas,English,18455,61075,Food,2022-01-18 00:00:00,Feast Flavors
+564740,Men 18-24,Product Launch,15 Days,Facebook,"0,14","2483,36","3,89",Miami,Spanish,6070,19500,Fashion,2022-06-23 00:00:00,Vogue Visions
+121842,Women 35-44,Market Expansion,15 Days,Facebook,"0,09","774,67","5,62",Los Angeles,French,2479,8862,Fashion,2022-11-24 00:00:00,Glam Garments
+644277,Women 18-24,Brand Awareness,60 Days,Twitter,"0,07","13776,44","6,59",Los Angeles,Spanish,36194,108728,Fashion,2022-06-05 00:00:00,Chic Couture
+427590,Men 35-44,Market Expansion,60 Days,Instagram,"0,09","12309,66","5,25",Miami,English,32589,98051,Food,2022-04-02 00:00:00,Palate Paradise
+374275,Men 35-44,Product Launch,30 Days,Instagram,"0,12","5418,33","3,39",Austin,French,13908,42715,Fashion,2022-04-29 00:00:00,Style Sphere
+737730,Men 35-44,Market Expansion,30 Days,Facebook,"0,04","5016,64","3,26",New York,Spanish,12816,39480,Fashion,2022-02-26 00:00:00,Glam Garments
+519418,Women 25-34,Increase Sales,45 Days,Instagram,"0,13","10090,45","6,47",Los Angeles,Spanish,26599,80306,Fashion,2022-07-31 00:00:00,Attire Artistry
+604373,Women 18-24,Market Expansion,60 Days,Pinterest,"0,06","13307,11","0,187684627",New York,English,20629,68155,Fashion,2022-07-09 00:00:00,Trend Tailors
+612909,Men 25-34,Market Expansion,60 Days,Twitter,"0,11","12639,83","4,1",Miami,English,33454,100612,Fashion,2022-04-13 00:00:00,Runway Rebels
+175917,Women 35-44,Increase Sales,15 Days,Pinterest,"0,05","2767,37","0,997409731",Miami,Spanish,3980,13941,Fashion,2022-09-27 00:00:00,Silk & Style
+324022,Men 35-44,Product Launch,45 Days,Facebook,"0,12","9172,04","3,66",Los Angeles,Spanish,24095,72890,Food,2022-08-27 00:00:00,Bistro Bliss
+510856,Men 25-34,Market Expansion,60 Days,Instagram,"0,03","14943,2","0,82",Miami,Spanish,38327,115045,Fashion,2022-07-06 00:00:00,Style Sphere
+189785,Men 25-34,Brand Awareness,15 Days,Instagram,"0,04","2393,87","4,15",Miami,Spanish,5853,18856,Fashion,2022-08-20 00:00:00,Trend Tailors
+616607,Men 25-34,Market Expansion,15 Days,Twitter,"0,14","2610,62","5,97",Las Vegas,French,6386,20437,Fashion,2022-02-22 00:00:00,Silk & Style
+583737,Women 25-34,Increase Sales,60 Days,Twitter,"0,1",15000,"7,18",Las Vegas,English,38979,116977,Food,2022-08-02 00:00:00,Dine Divine
+899551,Men 25-34,Increase Sales,30 Days,Instagram,"0,15","4409,54","3,89",Los Angeles,English,11164,34588,Fashion,2022-11-25 00:00:00,Silk & Style
+478735,Men 35-44,Increase Sales,60 Days,Pinterest,"0,01","11831,65","0,080436269",Los Angeles,English,18400,60896,Food,2022-02-09 00:00:00,Savor Street
+118016,Men 18-24,Product Launch,60 Days,Twitter,"0,05",15000,"6,63",Austin,French,39616,118862,Fashion,2022-03-08 00:00:00,Trend Tailors
+788067,Men 18-24,Product Launch,30 Days,Twitter,"0,04","7459,81","1,68",New York,English,19430,59071,Fashion,2022-02-15 00:00:00,Mode Maven
+237246,Men 35-44,Brand Awareness,60 Days,Twitter,"0,07","13634,81","2,11",Austin,French,35893,107836,Food,2022-04-24 00:00:00,Culinary Quest
+331595,Women 25-34,Product Launch,45 Days,Pinterest,"0,08","8544,88","0,804362687",New York,English,13161,43837,Food,2022-07-05 00:00:00,Culinary Quest
+402445,Men 25-34,Brand Awareness,45 Days,Pinterest,"0,1","8000,36","0,770400706",Los Angeles,English,12283,40977,Food,2022-02-25 00:00:00,Culinary Quest
+628556,Men 25-34,Brand Awareness,60 Days,Pinterest,"0,13","14334,45","1,211906448",Los Angeles,English,21927,72380,Food,2022-02-25 00:00:00,Dine Divine
+676383,Men 35-44,Increase Sales,45 Days,Facebook,"0,12","7883,95","6,48",Miami,English,20592,62513,Food,2022-08-26 00:00:00,Palate Paradise
+524568,Men 25-34,Increase Sales,45 Days,Pinterest,"0,13","8571,08","1,181519413",Miami,French,13204,43976,Fashion,2022-10-30 00:00:00,Style Sphere
+636397,Women 35-44,Increase Sales,15 Days,Instagram,"0,07",500,"4,4",Miami,English,1797,6842,Food,2022-04-13 00:00:00,Nosh Nirvana
+338480,Women 35-44,Brand Awareness,45 Days,Facebook,"0,02","10329,46","4,68",Miami,English,27245,82221,Food,2022-06-06 00:00:00,Nosh Nirvana
+304828,Men 18-24,Brand Awareness,45 Days,Pinterest,"0,1","8759,22","0,316382657",Los Angeles,Spanish,13497,44931,Fashion,2022-03-23 00:00:00,Silk & Style
+545674,Men 18-24,Brand Awareness,60 Days,Pinterest,"0,09","13335,98","1,227993701",Austin,Spanish,20671,68289,Fashion,2022-03-11 00:00:00,Mode Maven
+302211,Women 18-24,Brand Awareness,45 Days,Instagram,"0,11","9673,76","0,69",Las Vegas,French,25465,76949,Food,2022-12-29 00:00:00,Palate Paradise
+107997,Women 25-34,Market Expansion,60 Days,Facebook,"0,12","12265,44","1,72",New York,English,32473,97707,Fashion,2022-01-19 00:00:00,Vogue Visions
+669896,Men 18-24,Brand Awareness,60 Days,Instagram,"0,13","14504,27","1,52",Miami,English,37640,113012,Fashion,2022-11-07 00:00:00,Runway Rebels
+369745,Men 25-34,Market Expansion,60 Days,Facebook,"0,04","13897,51","7,59",Miami,English,36449,109484,Fashion,2022-01-26 00:00:00,Silk & Style
+714775,Men 35-44,Brand Awareness,30 Days,Facebook,"0,09","6343,1","4,03",Miami,Spanish,16425,50171,Fashion,2022-08-31 00:00:00,Silk & Style
+951720,Women 35-44,Market Expansion,60 Days,Pinterest,"0,14","12244,84","0,629190368",Los Angeles,English,19040,62979,Food,2022-03-06 00:00:00,Gastronomy Guild
+740849,Women 18-24,Product Launch,45 Days,Twitter,"0,05","10424,46","0,36",Las Vegas,Spanish,27506,82994,Fashion,2022-03-08 00:00:00,Runway Rebels
+463973,Women 35-44,Increase Sales,45 Days,Pinterest,"0,05","9503,7","1,415678328",Las Vegas,English,14677,48772,Food,2022-11-23 00:00:00,Palate Paradise
+934821,Women 35-44,Product Launch,60 Days,Facebook,"0,07","13530,29","4,24",New York,English,35654,107128,Food,2022-11-22 00:00:00,Gourmet Grove
+211138,Men 35-44,Market Expansion,15 Days,Instagram,"0,03","1114,46","7,29",Austin,Spanish,3071,10617,Food,2022-11-09 00:00:00,Feast Flavors
+353973,Women 18-24,Brand Awareness,15 Days,Instagram,"0,03",500,"0,59",Las Vegas,Spanish,1222,5139,Fashion,2022-12-07 00:00:00,Silk & Style
+360575,Men 35-44,Market Expansion,15 Days,Instagram,"0,02","1169,76","6,51",New York,Spanish,3170,10910,Fashion,2022-01-26 00:00:00,Attire Artistry
+791378,Women 25-34,Market Expansion,45 Days,Pinterest,"0,1","8186,08","0,91518599",Los Angeles,French,12582,41952,Fashion,2022-06-27 00:00:00,Style Sphere
+633889,Men 35-44,Brand Awareness,30 Days,Instagram,"0,03","5864,08","7,57",New York,French,15127,46328,Food,2022-11-08 00:00:00,Culinary Quest
+827348,Men 18-24,Product Launch,30 Days,Facebook,"0,1","7404,31","5,02",Miami,Spanish,19279,58624,Food,2022-09-16 00:00:00,Gastronomy Guild
+959317,Women 18-24,Product Launch,30 Days,Instagram,"0,14","7273,09","4,88",Austin,English,18932,57597,Food,2022-04-10 00:00:00,Culinary Quest
+731196,Men 18-24,Brand Awareness,45 Days,Pinterest,"0,12","10577,65","1,188669303",Las Vegas,French,16400,54383,Food,2022-07-07 00:00:00,Dine Divine
+264541,Men 35-44,Product Launch,15 Days,Facebook,"0,1","1632,97","3,77",Austin,French,4077,13596,Fashion,2022-04-09 00:00:00,Silk & Style
+614660,Men 35-44,Increase Sales,60 Days,Facebook,"0,09","13302,34","6,06",Las Vegas,French,35115,105531,Fashion,2022-01-27 00:00:00,Fiber Fashion
+277946,Men 25-34,Market Expansion,30 Days,Pinterest,"0,07","4291,87","0,248458697",Los Angeles,English,6368,21719,Food,2022-01-26 00:00:00,Palate Paradise
+164110,Men 35-44,Increase Sales,30 Days,Twitter,"0,11","4679,16","4,27",Miami,English,11900,36767,Fashion,2022-09-12 00:00:00,Trend Tailors
+322824,Women 18-24,Increase Sales,45 Days,Twitter,"0,04","7976,13","5,1",Los Angeles,English,20845,63264,Food,2022-04-30 00:00:00,Gourmet Grove
+579274,Women 35-44,Market Expansion,45 Days,Facebook,"0,04","9694,52","0,3",Los Angeles,English,25521,77115,Fashion,2022-05-11 00:00:00,Mode Maven
+821282,Men 18-24,Brand Awareness,45 Days,Pinterest,"0,03","10466,36","0,958085333",New York,English,16223,53808,Food,2022-04-02 00:00:00,Savor Street
+459943,Women 25-34,Increase Sales,60 Days,Facebook,"0,15","14038,24","4,31",New York,Spanish,36749,110372,Fashion,2022-06-13 00:00:00,Silk & Style
+753194,Women 25-34,Increase Sales,30 Days,Facebook,"0,1","7198,46","3,5",Austin,Spanish,18737,57019,Fashion,2022-11-15 00:00:00,Fiber Fashion
+764365,Men 25-34,Brand Awareness,15 Days,Twitter,"0,09","3908,67","4,79",Austin,English,9789,30515,Fashion,2022-05-19 00:00:00,Chic Couture
+862665,Men 25-34,Market Expansion,60 Days,Pinterest,"0,11","12098,38","0,514792119",Austin,Spanish,18809,62228,Food,2022-07-18 00:00:00,Culinary Quest
+841335,Men 25-34,Increase Sales,30 Days,Twitter,"0,02","4744,97","7,94",Austin,English,12075,37288,Food,2022-11-05 00:00:00,Nosh Nirvana
+382051,Women 35-44,Product Launch,45 Days,Instagram,"0,02","8727,66","4,44",Las Vegas,Spanish,22901,69354,Food,2022-12-01 00:00:00,Nosh Nirvana
+193550,Men 18-24,Product Launch,60 Days,Facebook,"0,11","13226,98","6,74",New York,Spanish,34935,105000,Fashion,2022-01-08 00:00:00,Vogue Visions
+616684,Men 18-24,Market Expansion,60 Days,Pinterest,"0,12","14932,03","0,296720458",Las Vegas,Spanish,22502,74252,Food,2022-05-22 00:00:00,Dine Divine
+640963,Men 18-24,Market Expansion,45 Days,Instagram,"0,07","7885,27","0,21",Miami,Spanish,20595,62524,Food,2022-10-17 00:00:00,Nosh Nirvana
+715337,Women 18-24,Product Launch,30 Days,Twitter,"0,15","5562,08","0,63",Las Vegas,English,14299,43874,Food,2022-04-03 00:00:00,Culinary Quest
+817988,Women 18-24,Market Expansion,45 Days,Pinterest,"0,1","10358,88","0,770400706",Austin,English,16050,53244,Fashion,2022-12-20 00:00:00,Attire Artistry
+184872,Men 35-44,Brand Awareness,15 Days,Instagram,"0,01","4114,62","3,33",Los Angeles,English,10355,32193,Fashion,2022-02-16 00:00:00,Fiber Fashion
+279122,Women 25-34,Increase Sales,60 Days,Twitter,"0,15","12492,62","5,79",Los Angeles,Spanish,33063,99454,Fashion,2022-12-10 00:00:00,Runway Rebels
+496237,Men 25-34,Market Expansion,30 Days,Twitter,"0,01","6896,94","0,03",Los Angeles,Spanish,17915,54583,Fashion,2022-05-18 00:00:00,Silk & Style
+579479,Men 35-44,Brand Awareness,45 Days,Pinterest,"0,08","11224,28","0,066136488",Miami,Spanish,17440,57770,Food,2022-01-24 00:00:00,Gourmet Grove
+832835,Women 25-34,Market Expansion,15 Days,Instagram,"0,08","723,49","0,35",Miami,French,2401,8632,Food,2022-10-28 00:00:00,Palate Paradise
+435288,Women 18-24,Market Expansion,60 Days,Twitter,"0,11","11442,79","7,19",Miami,English,30285,91224,Fashion,2022-11-02 00:00:00,Mode Maven
+241969,Men 25-34,Product Launch,30 Days,Twitter,"0,13","5436,27","1,1",Las Vegas,English,13956,42859,Food,2022-01-04 00:00:00,Bistro Bliss
+397742,Men 18-24,Product Launch,45 Days,Twitter,"0,05","9611,78","7,92",New York,English,25288,76425,Fashion,2022-06-22 00:00:00,Runway Rebels
+418094,Women 35-44,Increase Sales,60 Days,Facebook,"0,03","13760,47","6,36",Las Vegas,Spanish,36163,108635,Food,2022-11-28 00:00:00,Palate Paradise
+677893,Men 35-44,Brand Awareness,60 Days,Twitter,"0,09","13447,51","1,05",Miami,English,35458,106547,Fashion,2022-08-09 00:00:00,Vogue Visions
+726306,Men 35-44,Brand Awareness,60 Days,Twitter,"0,05","12793,6","5,54",New York,English,33856,101803,Fashion,2022-10-17 00:00:00,Style Sphere
+150886,Women 18-24,Increase Sales,30 Days,Pinterest,"0,05","6373,45","0,105460886",Las Vegas,English,9695,32550,Fashion,2022-08-15 00:00:00,Trend Tailors
+570956,Women 35-44,Brand Awareness,60 Days,Twitter,"0,14","12930,94","0,85",Miami,English,34202,102828,Food,2022-10-01 00:00:00,Nosh Nirvana
+113869,Men 18-24,Product Launch,60 Days,Twitter,"0,07","13171,95","5,37",Austin,English,34804,104609,Food,2022-07-27 00:00:00,Gastronomy Guild
+973201,Men 35-44,Product Launch,30 Days,Facebook,"0,03","4723,87","3,8",Austin,Spanish,12022,37131,Food,2022-08-14 00:00:00,Feast Flavors
+721183,Men 18-24,Market Expansion,45 Days,Twitter,"0,03","7951,3","7,79",Las Vegas,English,20781,63074,Fashion,2022-04-30 00:00:00,Fiber Fashion
+849579,Men 18-24,Brand Awareness,45 Days,Twitter,"0,06","9561,21","2,01",Miami,English,25153,76025,Food,2022-12-19 00:00:00,Palate Paradise
+821519,Women 18-24,Brand Awareness,60 Days,Twitter,"0,08","13082,89","3,82",Austin,Spanish,34584,103959,Fashion,2022-08-27 00:00:00,Fiber Fashion
+800003,Women 35-44,Increase Sales,15 Days,Facebook,"0,13","2242,7","6,17",Miami,Spanish,5487,17772,Food,2022-11-21 00:00:00,Bistro Bliss
+296815,Men 18-24,Brand Awareness,45 Days,Twitter,"0,05","10390,44","7,89",Austin,French,27411,82713,Food,2022-03-13 00:00:00,Culinary Quest
+848181,Men 18-24,Brand Awareness,30 Days,Instagram,"0,12","4914,47","1,15",New York,French,12539,38662,Food,2022-01-02 00:00:00,Culinary Quest
+755813,Men 25-34,Product Launch,45 Days,Pinterest,"0,12","9694,17","1,167219632",New York,Spanish,14988,49786,Food,2022-01-06 00:00:00,Epicurean Edge
+187160,Women 25-34,Brand Awareness,45 Days,Pinterest,"0,12","10106,18","1,238718537",Las Vegas,Spanish,15647,51931,Food,2022-07-10 00:00:00,Gastronomy Guild
+988393,Men 35-44,Brand Awareness,15 Days,Instagram,"0,01","1827,51","7,95",Miami,Spanish,4498,14845,Food,2022-09-12 00:00:00,Culinary Quest
+188962,Men 25-34,Increase Sales,45 Days,Instagram,"0,05","8406,45","3,56",Austin,French,22030,66773,Food,2022-02-10 00:00:00,Nosh Nirvana
+604147,Women 18-24,Brand Awareness,45 Days,Twitter,"0,09","8189,01","6,34",Las Vegas,Spanish,21432,65001,Fashion,2022-06-19 00:00:00,Runway Rebels
+921586,Men 18-24,Market Expansion,45 Days,Pinterest,"0,04","8703,32","1,388866239",Las Vegas,French,13411,44650,Food,2022-01-16 00:00:00,Savor Street
+234878,Men 35-44,Product Launch,60 Days,Twitter,"0,1","12971,69","3,65",Austin,Spanish,34303,103128,Fashion,2022-03-21 00:00:00,Fiber Fashion
+113440,Women 25-34,Brand Awareness,60 Days,Facebook,"0,11","13107,13","0,64",Austin,English,34642,104130,Food,2022-04-19 00:00:00,Epicurean Edge
+391064,Men 18-24,Product Launch,60 Days,Instagram,"0,07","13305,31","0,5",New York,Spanish,35121,105551,Fashion,2022-07-21 00:00:00,Chic Couture
+587035,Men 35-44,Market Expansion,15 Days,Twitter,"0,02","3676,75","1,54",New York,French,9162,28659,Food,2022-01-05 00:00:00,Savor Street
+392694,Men 35-44,Brand Awareness,30 Days,Instagram,"0,11","6466,78","4,41",Miami,English,16756,51153,Fashion,2022-03-10 00:00:00,Mode Maven
+892244,Women 35-44,Market Expansion,15 Days,Twitter,"0,1","3127,75","0,34",Miami,Spanish,7712,24363,Fashion,2022-09-10 00:00:00,Chic Couture
+525493,Women 18-24,Market Expansion,30 Days,Twitter,"0,08","4887,04",1,Miami,English,12462,38433,Fashion,2022-03-26 00:00:00,Attire Artistry
+536513,Women 25-34,Brand Awareness,15 Days,Instagram,"0,1","933,55","5,02",Austin,Spanish,2744,9647,Food,2022-10-30 00:00:00,Dine Divine
+358136,Men 35-44,Increase Sales,15 Days,Instagram,"0,04","2249,11","7,39",Miami,French,5505,17825,Food,2022-08-27 00:00:00,Palate Paradise
+693985,Women 35-44,Increase Sales,30 Days,Twitter,"0,15","6530,72","6,93",Los Angeles,Spanish,16929,51663,Food,2022-03-13 00:00:00,Palate Paradise
+461628,Men 18-24,Market Expansion,15 Days,Pinterest,"0,06","3521,03","1,142195015",Austin,Spanish,5131,17690,Food,2022-07-10 00:00:00,Culinary Quest
+428755,Women 35-44,Market Expansion,45 Days,Instagram,"0,01","10075,65","7,67",Las Vegas,French,26560,80191,Food,2022-08-19 00:00:00,Gourmet Grove
+101055,Men 35-44,Product Launch,30 Days,Pinterest,"0,14","4927,29","1,272680517",Las Vegas,Spanish,7388,25037,Food,2022-10-31 00:00:00,Savor Street
+523807,Men 35-44,Product Launch,45 Days,Pinterest,"0,02","10307,21","1,227993701",Austin,French,15966,52970,Fashion,2022-05-30 00:00:00,Trend Tailors
+646319,Men 18-24,Product Launch,15 Days,Twitter,"0,09","2558,9","7,6",Los Angeles,Spanish,6254,20044,Food,2022-09-17 00:00:00,Bistro Bliss
+829732,Men 18-24,Product Launch,15 Days,Pinterest,"0,1","1574,27","0,425418488",New York,French,2326,8558,Food,2022-10-05 00:00:00,Feast Flavors
+896413,Men 25-34,Product Launch,30 Days,Instagram,"0,01","6823,37","2,36",Las Vegas,French,17718,54002,Fashion,2022-01-22 00:00:00,Runway Rebels
+886210,Men 25-34,Brand Awareness,60 Days,Instagram,"0,05","12709,81","6,33",Las Vegas,Spanish,33631,101136,Fashion,2022-08-14 00:00:00,Fiber Fashion
+284286,Men 25-34,Market Expansion,30 Days,Facebook,"0,03","6856,54","6,17",Miami,Spanish,17807,54266,Fashion,2022-09-07 00:00:00,Silk & Style
+102775,Men 25-34,Product Launch,60 Days,Pinterest,"0,08","11498,18","1,283405353",Austin,English,17874,59181,Fashion,2022-03-23 00:00:00,Chic Couture
+613969,Women 18-24,Product Launch,60 Days,Twitter,"0,13","12262,34","7,44",New York,French,32466,97684,Food,2022-02-20 00:00:00,Dine Divine
+562871,Men 35-44,Product Launch,45 Days,Instagram,"0,11","8444,53","5,56",Miami,English,22136,67086,Food,2022-09-05 00:00:00,Gourmet Grove
+137880,Men 35-44,Market Expansion,45 Days,Instagram,"0,14","10990,12","4,09",Miami,French,29041,87541,Food,2022-11-11 00:00:00,Gourmet Grove
+450902,Men 35-44,Increase Sales,45 Days,Twitter,"0,08","9442,49","6,45",Miami,French,24819,75034,Fashion,2022-11-08 00:00:00,Runway Rebels
+207663,Women 18-24,Market Expansion,60 Days,Twitter,"0,09","14912,26","6,95",Miami,English,38287,114927,Food,2022-01-02 00:00:00,Nosh Nirvana
+844431,Women 18-24,Increase Sales,30 Days,Facebook,"0,06","5782,84","0,98",Austin,Spanish,14901,45656,Food,2022-06-09 00:00:00,Dine Divine
+286047,Women 25-34,Increase Sales,30 Days,Twitter,"0,12","7259,44","3,75",Los Angeles,Spanish,18896,57490,Food,2022-08-17 00:00:00,Bistro Bliss
+102531,Women 25-34,Product Launch,30 Days,Twitter,"0,1","6051,3","1,56",Los Angeles,Spanish,15638,47839,Food,2022-05-14 00:00:00,Culinary Quest
+452245,Men 35-44,Increase Sales,60 Days,Instagram,"0,1","11952,87","3,8",Las Vegas,Spanish,31645,95254,Fashion,2022-11-03 00:00:00,Attire Artistry
+672161,Women 18-24,Brand Awareness,15 Days,Pinterest,"0,1","3810,86","0,861561811",Las Vegas,English,5593,19194,Food,2022-07-18 00:00:00,Gastronomy Guild
+811716,Women 35-44,Product Launch,60 Days,Twitter,"0,07","13106,07","0,27",Austin,Spanish,34640,104123,Food,2022-12-25 00:00:00,Palate Paradise
+751592,Women 35-44,Product Launch,45 Days,Pinterest,"0,07","10976,32","0,527304428",Austin,English,17036,56455,Food,2022-10-31 00:00:00,Nosh Nirvana
+917174,Women 18-24,Product Launch,30 Days,Pinterest,"0,07","6503,49","0,875861592",Los Angeles,Spanish,9898,33213,Fashion,2022-05-08 00:00:00,Attire Artistry
+566271,Women 35-44,Product Launch,60 Days,Pinterest,"0,07","12285,47","0,244883751",Los Angeles,Spanish,19100,63174,Fashion,2022-04-03 00:00:00,Attire Artistry
+929403,Men 25-34,Brand Awareness,15 Days,Instagram,"0,09","677,17","7,02",Austin,French,2335,8437,Food,2022-06-05 00:00:00,Feast Flavors
+979903,Women 35-44,Increase Sales,30 Days,Instagram,"0,05","4449,86","2,91",New York,English,11272,34907,Food,2022-04-09 00:00:00,Culinary Quest
+255104,Women 35-44,Increase Sales,15 Days,Twitter,"0,13","1445,13","5,5",Miami,French,3697,12469,Fashion,2022-11-26 00:00:00,Runway Rebels
+773782,Women 25-34,Brand Awareness,15 Days,Instagram,"0,07",500,"7,82",New York,English,1086,4738,Fashion,2022-05-20 00:00:00,Fiber Fashion
+559217,Men 35-44,Market Expansion,15 Days,Instagram,"0,05","2893,75","3,42",Miami,English,7100,22552,Fashion,2022-06-13 00:00:00,Style Sphere
+341991,Women 18-24,Product Launch,30 Days,Twitter,"0,06","4755,94","5,22",Las Vegas,French,12105,37376,Fashion,2022-06-28 00:00:00,Trend Tailors
+966185,Men 35-44,Product Launch,60 Days,Twitter,"0,05","14330,99","0,73",New York,English,37329,112090,Food,2022-02-14 00:00:00,Gastronomy Guild
+492608,Women 18-24,Product Launch,45 Days,Pinterest,"0,11","9664,87","0,044686816",New York,English,14941,49632,Fashion,2022-08-30 00:00:00,Mode Maven
+789994,Men 18-24,Market Expansion,15 Days,Twitter,"0,04",500,"5,49",Austin,Spanish,783,3838,Food,2022-11-11 00:00:00,Culinary Quest
+453884,Men 25-34,Brand Awareness,30 Days,Instagram,"0,12","5064,69","4,73",Las Vegas,Spanish,12945,39865,Food,2022-01-22 00:00:00,Epicurean Edge
+406542,Men 25-34,Product Launch,45 Days,Facebook,"0,09","8730,14","5,46",Miami,English,22908,69373,Food,2022-11-10 00:00:00,Epicurean Edge
+903324,Men 35-44,Market Expansion,45 Days,Pinterest,"0,13","11213,52","0,377156726",Los Angeles,French,17422,57712,Food,2022-12-22 00:00:00,Epicurean Edge
+666088,Women 18-24,Brand Awareness,60 Days,Instagram,"0,1","11632,38","6,61",Las Vegas,French,30798,92744,Fashion,2022-10-23 00:00:00,Vogue Visions
+368829,Men 25-34,Brand Awareness,60 Days,Pinterest,"0,13","14060,69","1,201181612",Los Angeles,Spanish,21611,71352,Fashion,2022-04-18 00:00:00,Fiber Fashion
+955266,Women 25-34,Product Launch,15 Days,Twitter,"0,14",500,"7,43",Austin,Spanish,984,4436,Food,2022-05-26 00:00:00,Gastronomy Guild
+472333,Women 25-34,Market Expansion,45 Days,Twitter,"0,1","9989,24","7,86",New York,Spanish,26322,79485,Fashion,2022-06-27 00:00:00,Vogue Visions
+493583,Men 18-24,Product Launch,60 Days,Facebook,"0,02","11651,39","7,61",Austin,Spanish,30853,92908,Fashion,2022-05-07 00:00:00,Vogue Visions
+701032,Women 35-44,Product Launch,30 Days,Facebook,"0,15","7206,9","2,29",New York,English,18759,57084,Fashion,2022-11-20 00:00:00,Vogue Visions
+984815,Men 25-34,Market Expansion,60 Days,Facebook,"0,11",15000,"0,29",Austin,English,38924,116815,Fashion,2022-06-18 00:00:00,Runway Rebels
+759678,Men 25-34,Increase Sales,45 Days,Pinterest,"0,07","8350,02","0,656002458",Las Vegas,French,12847,42813,Fashion,2022-10-27 00:00:00,Style Sphere
+352167,Men 18-24,Brand Awareness,15 Days,Twitter,"0,12","2843,99","5,62",Las Vegas,Spanish,6966,22154,Food,2022-05-20 00:00:00,Feast Flavors
+550442,Women 35-44,Increase Sales,30 Days,Facebook,"0,06","4817,16","1,61",New York,Spanish,12273,37874,Food,2022-10-08 00:00:00,Savor Street
+803705,Men 18-24,Market Expansion,45 Days,Pinterest,"0,02","10136,33","1,13862007",Austin,French,15699,52100,Fashion,2022-09-16 00:00:00,Chic Couture
+961131,Men 18-24,Brand Awareness,45 Days,Pinterest,"0,07","10190,66","0,629190368",Los Angeles,French,15783,52372,Food,2022-11-23 00:00:00,Epicurean Edge
+138342,Women 35-44,Brand Awareness,60 Days,Instagram,"0,05","13138,48","2,94",New York,Spanish,34721,104365,Food,2022-04-03 00:00:00,Culinary Quest
+114963,Men 18-24,Product Launch,45 Days,Twitter,"0,01","8720,04","0,74",Las Vegas,English,22880,69291,Fashion,2022-03-17 00:00:00,Vogue Visions
+556104,Women 35-44,Product Launch,15 Days,Instagram,"0,02","2768,68","3,51",New York,French,6780,21602,Fashion,2022-08-18 00:00:00,Attire Artistry
+942436,Women 18-24,Market Expansion,15 Days,Twitter,"0,1","1974,66","0,36",Miami,English,4842,15863,Food,2022-12-09 00:00:00,Savor Street
+768465,Women 35-44,Product Launch,15 Days,Pinterest,"0,1","3942,89","1,319154806",Los Angeles,French,5805,19886,Fashion,2022-11-14 00:00:00,Runway Rebels
+857734,Women 35-44,Market Expansion,30 Days,Facebook,"0,02","7735,66","1,91",Los Angeles,Spanish,20192,61330,Fashion,2022-06-26 00:00:00,Runway Rebels
+891975,Women 35-44,Increase Sales,60 Days,Pinterest,"0,13","11526,57","1,299492607",Los Angeles,French,17922,59339,Food,2022-11-22 00:00:00,Gastronomy Guild
+145903,Women 25-34,Product Launch,45 Days,Facebook,"0,11","7811,35","3,16",Los Angeles,English,20399,61943,Food,2022-06-05 00:00:00,Gourmet Grove
+290410,Men 25-34,Product Launch,45 Days,Facebook,"0,04","9436,75","7,58",New York,Spanish,24804,74991,Fashion,2022-06-22 00:00:00,Chic Couture
+268369,Men 35-44,Brand Awareness,15 Days,Facebook,"0,1","3446,13","0,87",Los Angeles,French,8543,26824,Food,2022-10-07 00:00:00,Savor Street
+758810,Women 35-44,Brand Awareness,60 Days,Twitter,"0,15","12328,41","6,27",Austin,Spanish,32636,98189,Fashion,2022-03-17 00:00:00,Vogue Visions
+840565,Women 18-24,Market Expansion,30 Days,Twitter,"0,02","4598,95","1,06",Miami,Spanish,11679,36114,Food,2022-04-27 00:00:00,Nosh Nirvana
+207083,Men 35-44,Increase Sales,60 Days,Pinterest,"0,04",15000,"0,607740696",New York,English,22962,75748,Fashion,2022-04-21 00:00:00,Attire Artistry
+300443,Men 25-34,Product Launch,30 Days,Facebook,"0,09","5696,43","0,16",Miami,French,14667,44964,Fashion,2022-06-18 00:00:00,Silk & Style
+538794,Women 25-34,Product Launch,15 Days,Twitter,"0,04","1840,65","1,38",Austin,Spanish,4526,14926,Food,2022-04-17 00:00:00,Nosh Nirvana
+607728,Men 18-24,Market Expansion,30 Days,Twitter,"0,14","5848,85","2,22",Miami,Spanish,15083,46195,Fashion,2022-08-22 00:00:00,Silk & Style
+626004,Women 35-44,Brand Awareness,60 Days,Instagram,"0,01","11644,49","0,66",Miami,Spanish,30834,92852,Fashion,2022-12-12 00:00:00,Vogue Visions
+664929,Women 18-24,Increase Sales,60 Days,Twitter,"0,14","12538,33","2,03",Las Vegas,Spanish,33183,99808,Food,2022-04-21 00:00:00,Savor Street
+606652,Men 18-24,Product Launch,15 Days,Facebook,"0,09","3728,72","6,89",Las Vegas,English,9303,29076,Food,2022-06-07 00:00:00,Culinary Quest
+729079,Women 18-24,Market Expansion,30 Days,Pinterest,"0,12","5920,76","1,292342716",Miami,English,8976,30210,Food,2022-06-22 00:00:00,Nosh Nirvana
+557470,Women 25-34,Market Expansion,15 Days,Instagram,"0,07","2511,62","1,05",Miami,French,6140,19708,Food,2022-11-16 00:00:00,Dine Divine
+158910,Men 18-24,Product Launch,60 Days,Instagram,"0,03","12144,1","1,8",Miami,Spanish,32148,96743,Fashion,2022-12-19 00:00:00,Chic Couture
+952044,Men 18-24,Increase Sales,15 Days,Pinterest,"0,14","3003,32","0,757888398",Las Vegas,Spanish,4339,15111,Fashion,2022-08-05 00:00:00,Silk & Style
+216322,Men 35-44,Increase Sales,30 Days,Pinterest,"0,1","4225,91","0,647065094",New York,English,6263,21375,Food,2022-06-30 00:00:00,Bistro Bliss
+147891,Men 18-24,Increase Sales,60 Days,Instagram,"0,15",15000,"0,98",Las Vegas,Spanish,39710,119141,Fashion,2022-02-07 00:00:00,Trend Tailors
+285130,Men 18-24,Brand Awareness,45 Days,Facebook,"0,11","8655,1","2,9",Los Angeles,English,22705,68773,Fashion,2022-08-30 00:00:00,Glam Garments
+515958,Men 35-44,Product Launch,60 Days,Twitter,"0,06","13190,52","2,65",Las Vegas,Spanish,34848,104741,Fashion,2022-07-30 00:00:00,Vogue Visions
+245758,Men 35-44,Product Launch,45 Days,Facebook,"0,02","8719,12","6,98",Los Angeles,English,22877,69282,Fashion,2022-06-10 00:00:00,Fiber Fashion
+142028,Men 18-24,Brand Awareness,15 Days,Facebook,"0,14","2557,48","5,63",Las Vegas,French,6249,20030,Food,2022-12-04 00:00:00,Bistro Bliss
+231151,Men 25-34,Increase Sales,60 Days,Facebook,"0,05","14363,2","4,53",Las Vegas,French,37387,112260,Food,2022-12-30 00:00:00,Epicurean Edge
+361243,Men 35-44,Product Launch,15 Days,Pinterest,"0,1",500,"0,627402895",Los Angeles,Spanish,977,4163,Fashion,2022-10-09 00:00:00,Attire Artistry
+275245,Men 18-24,Market Expansion,60 Days,Twitter,"0,14",15000,"3,18",New York,Spanish,39659,118992,Fashion,2022-04-12 00:00:00,Mode Maven
+904625,Women 18-24,Market Expansion,15 Days,Pinterest,"0,11","1599,78","0,541604209",Las Vegas,English,2355,8651,Food,2022-06-01 00:00:00,Savor Street
+583253,Women 25-34,Market Expansion,30 Days,Twitter,"0,1","5735,21","7,7",Los Angeles,French,14772,45274,Food,2022-05-28 00:00:00,Feast Flavors
+444928,Women 25-34,Brand Awareness,45 Days,Facebook,"0,11","10176,51","5,78",Austin,English,26836,81009,Food,2022-09-04 00:00:00,Nosh Nirvana
+253511,Men 35-44,Brand Awareness,15 Days,Twitter,"0,13","3165,32","1,91",Los Angeles,Spanish,7805,24640,Food,2022-11-13 00:00:00,Palate Paradise
+682018,Women 35-44,Product Launch,15 Days,Twitter,"0,09","3242,81","0,91",New York,Spanish,8007,25235,Fashion,2022-05-13 00:00:00,Fiber Fashion
+751057,Men 18-24,Product Launch,30 Days,Twitter,"0,12","6851,3","0,99",Miami,Spanish,17794,54226,Food,2022-01-29 00:00:00,Dine Divine
+869176,Men 25-34,Market Expansion,30 Days,Twitter,"0,08","7448,64","5,01",New York,French,19399,58981,Fashion,2022-12-23 00:00:00,Glam Garments
+108370,Men 18-24,Market Expansion,30 Days,Facebook,"0,03","6631,76","5,24",Los Angeles,English,17192,52444,Fashion,2022-12-28 00:00:00,Runway Rebels
+950156,Women 18-24,Market Expansion,60 Days,Pinterest,"0,11","13646,13","0,84726203",Miami,Spanish,21093,69663,Food,2022-02-19 00:00:00,Feast Flavors
+866307,Women 35-44,Brand Awareness,45 Days,Facebook,"0,1","8333,72","5,61",Miami,French,21830,66182,Food,2022-10-30 00:00:00,Feast Flavors
+690273,Men 18-24,Product Launch,30 Days,Pinterest,"0,06","5568,71","0,166234955",New York,Spanish,8409,28364,Fashion,2022-12-24 00:00:00,Vogue Visions
+204922,Men 18-24,Increase Sales,30 Days,Instagram,"0,11","4915,04","7,55",Miami,Spanish,12542,38669,Fashion,2022-07-30 00:00:00,Chic Couture
+624044,Women 35-44,Market Expansion,60 Days,Facebook,"0,05","14247,1","7,36",Las Vegas,English,37173,111629,Fashion,2022-12-31 00:00:00,Style Sphere
+251327,Women 25-34,Market Expansion,45 Days,Twitter,"0,11","8412,2","0,36",New York,French,22049,66829,Fashion,2022-02-11 00:00:00,Glam Garments
+249336,Men 35-44,Brand Awareness,60 Days,Pinterest,"0,14","13792,86","0,037536925",New York,English,21279,70269,Fashion,2022-04-29 00:00:00,Chic Couture
+578580,Women 18-24,Brand Awareness,45 Days,Instagram,"0,13","8816,64","7,35",Austin,Spanish,23133,70041,Fashion,2022-03-08 00:00:00,Mode Maven
+176319,Men 25-34,Product Launch,45 Days,Twitter,"0,04","9333,79","7,41",New York,Spanish,24520,74150,Fashion,2022-12-22 00:00:00,Chic Couture
+490633,Men 25-34,Market Expansion,15 Days,Facebook,"0,06","3434,09","3,22",Las Vegas,French,8512,26734,Fashion,2022-06-25 00:00:00,Vogue Visions
+881821,Men 18-24,Increase Sales,45 Days,Twitter,"0,08",10683,"6,84",New York,English,28217,85100,Fashion,2022-07-13 00:00:00,Vogue Visions
+856423,Women 18-24,Brand Awareness,45 Days,Pinterest,"0,14","11007,68","1,004559622",Austin,English,17084,56610,Fashion,2022-10-30 00:00:00,Glam Garments
+408298,Women 25-34,Product Launch,45 Days,Facebook,"0,07","7960,32","1,96",Miami,French,20804,63142,Fashion,2022-05-27 00:00:00,Chic Couture
+892723,Women 35-44,Product Launch,60 Days,Twitter,"0,03","12761,87","3,37",New York,English,33773,101556,Food,2022-01-19 00:00:00,Palate Paradise
+164738,Men 18-24,Market Expansion,45 Days,Pinterest,"0,04","11081,53","0,727501363",Miami,English,17207,57010,Fashion,2022-06-28 00:00:00,Vogue Visions
+545424,Women 18-24,Product Launch,60 Days,Pinterest,"0,09","12619,96","0,500492338",Los Angeles,Spanish,19616,64854,Food,2022-08-21 00:00:00,Bistro Bliss
+558492,Men 25-34,Brand Awareness,15 Days,Facebook,"0,08","2670,49","0,46",Miami,French,6534,20872,Food,2022-06-05 00:00:00,Bistro Bliss
+218497,Men 35-44,Increase Sales,15 Days,Facebook,"0,06","2991,56","2,3",New York,French,7353,23300,Fashion,2022-01-05 00:00:00,Style Sphere
+114396,Women 18-24,Market Expansion,45 Days,Twitter,"0,08","9891,53","2,45",New York,English,26061,78715,Food,2022-03-10 00:00:00,Feast Flavors
+423843,Men 18-24,Market Expansion,45 Days,Instagram,"0,12","10679,22","0,67",Miami,Spanish,28206,85068,Fashion,2022-02-26 00:00:00,Attire Artistry
+378518,Men 25-34,Market Expansion,60 Days,Facebook,"0,05","13333,41","4,51",Los Angeles,English,35187,105744,Fashion,2022-02-02 00:00:00,Style Sphere
+924853,Men 18-24,Market Expansion,45 Days,Instagram,"0,06","8307,41",7,New York,Spanish,21761,65976,Fashion,2022-08-10 00:00:00,Silk & Style
+902058,Women 18-24,Increase Sales,15 Days,Facebook,"0,03","2096,02","7,05",New York,Spanish,5129,16713,Food,2022-08-23 00:00:00,Savor Street
+635387,Men 35-44,Product Launch,60 Days,Facebook,"0,11","12098,75","0,45",Las Vegas,French,32027,96384,Fashion,2022-12-23 00:00:00,Trend Tailors
+989732,Women 18-24,Product Launch,60 Days,Facebook,"0,11","11816,62","0,66",Los Angeles,Spanish,31292,94208,Fashion,2022-02-10 00:00:00,Fiber Fashion
+394564,Men 25-34,Increase Sales,60 Days,Pinterest,"0,06","12706,07","0,977747532",Austin,English,19747,65282,Fashion,2022-05-28 00:00:00,Fiber Fashion
+422046,Men 18-24,Increase Sales,60 Days,Instagram,"0,07","14757,86","3,47",Miami,English,38059,114252,Food,2022-02-27 00:00:00,Feast Flavors
+993578,Women 25-34,Increase Sales,45 Days,Twitter,"0,03","9708,36","3,07",Los Angeles,Spanish,25560,77230,Fashion,2022-04-30 00:00:00,Trend Tailors
+615499,Women 18-24,Product Launch,15 Days,Instagram,"0,1",500,"1,85",Los Angeles,French,1978,7379,Fashion,2022-07-08 00:00:00,Runway Rebels
+340604,Men 18-24,Market Expansion,45 Days,Pinterest,"0,13","9620,96","1,036734129",Austin,French,14867,49391,Fashion,2022-04-28 00:00:00,Attire Artistry
+699251,Women 25-34,Product Launch,45 Days,Twitter,"0,04","8330,8","4,25",Las Vegas,French,21822,66156,Fashion,2022-04-01 00:00:00,Style Sphere
+768825,Men 35-44,Increase Sales,45 Days,Facebook,"0,06","8053,16","6,33",New York,Spanish,21061,63904,Food,2022-11-01 00:00:00,Feast Flavors
+449243,Men 25-34,Product Launch,15 Days,Twitter,"0,03","3090,36","0,17",New York,Spanish,7612,24067,Fashion,2022-12-29 00:00:00,Silk & Style
+299753,Men 25-34,Market Expansion,30 Days,Twitter,"0,01","5386,83","6,48",Los Angeles,English,13826,42474,Food,2022-11-13 00:00:00,Culinary Quest
+906852,Women 35-44,Market Expansion,30 Days,Pinterest,"0,07","5229,33","1,397803602",New York,English,7873,26617,Fashion,2022-02-02 00:00:00,Chic Couture
+685553,Women 25-34,Brand Awareness,30 Days,Pinterest,"0,12","5154,57","1,063546219",Miami,Spanish,7755,26235,Food,2022-11-26 00:00:00,Feast Flavors
+510210,Men 25-34,Product Launch,60 Days,Twitter,"0,08",15000,"6,87",Miami,English,38489,115524,Food,2022-11-06 00:00:00,Culinary Quest
+454578,Men 18-24,Product Launch,15 Days,Pinterest,"0,15","1208,64","0,772188179",Las Vegas,Spanish,1902,7177,Fashion,2022-10-01 00:00:00,Mode Maven
+263420,Women 25-34,Brand Awareness,45 Days,Facebook,"0,11","8750,58","2,02",Austin,French,22959,69525,Food,2022-07-10 00:00:00,Culinary Quest
+570298,Women 35-44,Product Launch,45 Days,Facebook,"0,04","8698,33","3,72",Los Angeles,Spanish,22820,69115,Food,2022-03-13 00:00:00,Feast Flavors
+169590,Men 35-44,Brand Awareness,30 Days,Twitter,"0,14","6161,32","5,59",Miami,English,15934,48715,Fashion,2022-11-30 00:00:00,Trend Tailors
+857639,Women 18-24,Increase Sales,30 Days,Instagram,"0,14","4562,98","5,87",Miami,French,11581,35823,Food,2022-08-22 00:00:00,Gourmet Grove
+110466,Men 35-44,Product Launch,30 Days,Facebook,"0,04","4650,33","3,4",Austin,Spanish,11817,36522,Fashion,2022-08-05 00:00:00,Glam Garments
+936610,Men 25-34,Market Expansion,15 Days,Twitter,"0,06","3258,35","1,42",New York,Spanish,8046,25352,Food,2022-12-23 00:00:00,Bistro Bliss
+259005,Men 35-44,Increase Sales,30 Days,Facebook,"0,05","6743,66","4,86",Austin,Spanish,17497,53348,Fashion,2022-09-06 00:00:00,Glam Garments
+766313,Men 25-34,Brand Awareness,30 Days,Instagram,"0,01","5808,98","2,66",Miami,Spanish,14976,45878,Food,2022-11-18 00:00:00,Feast Flavors
+154663,Women 25-34,Brand Awareness,30 Days,Pinterest,"0,01","6187,08","0,507642229",Miami,Spanish,9397,31581,Food,2022-02-11 00:00:00,Gastronomy Guild
+855968,Women 35-44,Increase Sales,60 Days,Pinterest,"0,07","12341,85","0,109035831",Austin,Spanish,19189,63465,Fashion,2022-05-24 00:00:00,Glam Garments
+597990,Men 18-24,Brand Awareness,60 Days,Facebook,"0,06","12899,16","0,93",Austin,English,34123,102592,Food,2022-02-14 00:00:00,Gastronomy Guild
+764265,Women 25-34,Brand Awareness,60 Days,Facebook,"0,15",12421,"6,46",New York,French,32882,98917,Food,2022-09-30 00:00:00,Gastronomy Guild
+182895,Men 35-44,Increase Sales,60 Days,Twitter,"0,01",15000,"5,39",Las Vegas,French,38822,116511,Fashion,2022-07-02 00:00:00,Chic Couture
+813023,Women 35-44,Increase Sales,60 Days,Facebook,"0,07","13174,76","0,37",Los Angeles,Spanish,34810,104628,Fashion,2022-12-07 00:00:00,Attire Artistry
+276159,Men 18-24,Increase Sales,15 Days,Facebook,"0,14","3755,62","3,53",New York,French,9375,29288,Fashion,2022-02-08 00:00:00,Silk & Style
+562590,Men 25-34,Market Expansion,60 Days,Pinterest,"0,12",15000,"1,126107761",Las Vegas,Spanish,22589,74534,Food,2022-08-13 00:00:00,Savor Street
+749467,Men 18-24,Increase Sales,60 Days,Pinterest,"0,09",15000,"1,397803602",Austin,Spanish,23341,76983,Food,2022-12-23 00:00:00,Gourmet Grove
+568523,Women 25-34,Increase Sales,45 Days,Facebook,"0,12","9070,33","5,53",Las Vegas,Spanish,23810,72045,Food,2022-12-29 00:00:00,Bistro Bliss
+616936,Men 18-24,Increase Sales,15 Days,Instagram,"0,08","1507,79","3,68",New York,English,3823,12843,Fashion,2022-05-31 00:00:00,Mode Maven
+947885,Women 35-44,Product Launch,60 Days,Facebook,"0,02","12539,94","2,83",Las Vegas,English,33187,99820,Fashion,2022-08-17 00:00:00,Attire Artistry
+851821,Men 18-24,Market Expansion,60 Days,Pinterest,"0,14","12088,2","1,101083144",New York,English,18794,62177,Food,2022-02-20 00:00:00,Bistro Bliss
+257768,Men 35-44,Increase Sales,45 Days,Facebook,"0,15","9426,98","2,59",New York,English,24780,74918,Food,2022-11-17 00:00:00,Bistro Bliss
+446874,Women 35-44,Brand Awareness,30 Days,Instagram,"0,07","5000,27","6,91",Los Angeles,English,12773,39353,Fashion,2022-01-26 00:00:00,Chic Couture
+193907,Men 18-24,Increase Sales,30 Days,Twitter,"0,13","5786,85","5,79",New York,Spanish,14912,45689,Food,2022-09-02 00:00:00,Palate Paradise
+850378,Women 18-24,Brand Awareness,60 Days,Instagram,"0,14","12930,72","3,3",Miami,French,34202,102826,Food,2022-02-01 00:00:00,Bistro Bliss
+365840,Men 18-24,Market Expansion,15 Days,Instagram,"0,01","934,68","5,11",Los Angeles,Spanish,2746,9654,Fashion,2022-10-19 00:00:00,Style Sphere
+680788,Women 18-24,Market Expansion,30 Days,Facebook,"0,1","5946,3","5,17",Austin,French,15358,47010,Food,2022-01-14 00:00:00,Bistro Bliss
+439505,Women 35-44,Product Launch,30 Days,Facebook,"0,09","4389,14","3,72",Miami,English,11104,34412,Fashion,2022-05-02 00:00:00,Vogue Visions
+987518,Men 25-34,Product Launch,60 Days,Facebook,"0,04","12908,81","5,76",Las Vegas,English,34149,102671,Fashion,2022-02-09 00:00:00,Trend Tailors
+949036,Women 25-34,Product Launch,45 Days,Facebook,"0,13","9758,57","4,01",New York,Spanish,25702,77650,Food,2022-10-24 00:00:00,Palate Paradise
+991641,Men 25-34,Product Launch,60 Days,Twitter,"0,02","14560,29","3,37",Austin,French,37739,113305,Food,2022-04-21 00:00:00,Epicurean Edge
+184244,Men 35-44,Increase Sales,60 Days,Twitter,"0,09","12400,08","6,89",Las Vegas,French,32826,98751,Fashion,2022-03-14 00:00:00,Fiber Fashion
+361524,Men 35-44,Increase Sales,60 Days,Facebook,"0,13","14162,55","3,8",Austin,French,37005,111129,Fashion,2022-02-15 00:00:00,Style Sphere
+512480,Women 18-24,Product Launch,45 Days,Facebook,"0,1","8936,87","1,7",New York,French,23460,71009,Food,2022-09-16 00:00:00,Bistro Bliss
+582328,Women 25-34,Product Launch,30 Days,Pinterest,"0,09","6084,82","0,353919582",New York,English,9240,31069,Food,2022-05-15 00:00:00,Bistro Bliss
+757243,Men 35-44,Market Expansion,30 Days,Facebook,"0,12","5647,32","6,28",Austin,French,14538,44582,Fashion,2022-06-27 00:00:00,Chic Couture
+938831,Men 35-44,Brand Awareness,30 Days,Pinterest,"0,02","5656,59","0,58986597",New York,French,8553,28831,Fashion,2022-01-07 00:00:00,Vogue Visions
+342510,Men 25-34,Market Expansion,30 Days,Facebook,"0,08","6617,18","1,2",Austin,French,17152,52325,Fashion,2022-01-24 00:00:00,Chic Couture
+111118,Men 18-24,Product Launch,30 Days,Pinterest,"0,01","6388,32","0,03396198",Miami,English,9719,32628,Fashion,2022-04-30 00:00:00,Runway Rebels
+510282,Women 25-34,Brand Awareness,45 Days,Pinterest,"0,13","10001,02","1,353116786",Miami,French,15477,51377,Food,2022-03-09 00:00:00,Feast Flavors
+170190,Women 25-34,Increase Sales,15 Days,Facebook,"0,1","1678,08","6,13",Las Vegas,French,4177,13892,Food,2022-11-29 00:00:00,Gastronomy Guild
+889959,Women 25-34,Market Expansion,15 Days,Facebook,"0,14",500,"3,92",New York,French,1376,5596,Fashion,2022-11-08 00:00:00,Mode Maven
+855393,Men 25-34,Market Expansion,30 Days,Twitter,"0,13","6811,8","7,32",Las Vegas,English,17686,53906,Fashion,2022-05-01 00:00:00,Silk & Style
+125224,Men 25-34,Market Expansion,45 Days,Pinterest,"0,06","10488,43","0,693539383",Austin,English,16260,53926,Fashion,2022-10-01 00:00:00,Mode Maven
+312370,Women 25-34,Brand Awareness,45 Days,Twitter,"0,04","9318,39","1,36",Austin,English,24481,74032,Fashion,2022-02-08 00:00:00,Mode Maven
+265873,Men 35-44,Product Launch,15 Days,Facebook,"0,02","3096,4","0,65",Miami,French,7627,24111,Fashion,2022-01-26 00:00:00,Trend Tailors
+647636,Men 25-34,Market Expansion,15 Days,Pinterest,"0,02",500,"1,326304696",New York,English,1181,4826,Food,2022-03-03 00:00:00,Gastronomy Guild
+309323,Men 18-24,Product Launch,30 Days,Instagram,"0,12","5366,01","3,05",Los Angeles,French,13765,42293,Food,2022-07-29 00:00:00,Savor Street
+581241,Men 18-24,Increase Sales,45 Days,Pinterest,"0,03","10942,9","1,142195015",Las Vegas,Spanish,16983,56282,Fashion,2022-06-08 00:00:00,Attire Artistry
+321259,Men 35-44,Brand Awareness,15 Days,Pinterest,"0,15","990,79","0,656002458",Los Angeles,English,1670,6422,Food,2022-01-03 00:00:00,Palate Paradise
+489995,Women 18-24,Product Launch,30 Days,Twitter,"0,11","4466,98","4,23",Austin,English,11318,35044,Fashion,2022-03-04 00:00:00,Style Sphere
+942120,Men 35-44,Product Launch,15 Days,Twitter,"0,07","2917,29","6,45",Austin,French,7162,22735,Food,2022-12-11 00:00:00,Culinary Quest
+568168,Men 18-24,Product Launch,45 Days,Instagram,"0,14","8903,8","2,43",Las Vegas,English,23365,70729,Food,2022-02-21 00:00:00,Feast Flavors
+126485,Men 25-34,Market Expansion,30 Days,Twitter,"0,15","5293,67","1,41",New York,Spanish,13575,41730,Fashion,2022-10-12 00:00:00,Silk & Style
+115056,Men 35-44,Brand Awareness,60 Days,Pinterest,"0,12","12177,35","0,428993433",Los Angeles,English,18934,62636,Food,2022-04-14 00:00:00,Nosh Nirvana
+209017,Women 18-24,Market Expansion,60 Days,Pinterest,"0,11","12736,61","1,383503821",Los Angeles,English,19795,65438,Fashion,2022-11-02 00:00:00,Chic Couture
+360346,Women 35-44,Increase Sales,30 Days,Instagram,"0,11","4570,93","6,99",Austin,Spanish,11602,35886,Fashion,2022-01-10 00:00:00,Mode Maven
+638195,Men 25-34,Product Launch,30 Days,Pinterest,"0,11","6510,28","0,289570567",New York,Spanish,9909,33248,Food,2022-07-25 00:00:00,Gastronomy Guild
+516827,Women 25-34,Product Launch,60 Days,Twitter,"0,14","14274,65","4,27",Las Vegas,French,37226,111785,Fashion,2022-01-25 00:00:00,Chic Couture
+605227,Women 25-34,Market Expansion,60 Days,Twitter,"0,09","13236,36","3,92",Austin,Spanish,34957,105064,Food,2022-03-30 00:00:00,Epicurean Edge
+567297,Men 25-34,Market Expansion,30 Days,Facebook,"0,08","6779,61","0,36",New York,English,17597,53644,Fashion,2022-09-22 00:00:00,Trend Tailors
+708938,Women 18-24,Increase Sales,15 Days,Pinterest,"0,1",500,"0,740013672",Los Angeles,French,322,2031,Fashion,2022-04-12 00:00:00,Silk & Style
+718644,Men 18-24,Increase Sales,30 Days,Facebook,"0,07","4233,46","2,83",Los Angeles,French,10687,33175,Fashion,2022-05-07 00:00:00,Vogue Visions
+881160,Men 25-34,Product Launch,30 Days,Instagram,"0,09","4421,63","7,93",Las Vegas,French,11194,34677,Food,2022-02-02 00:00:00,Bistro Bliss
+213423,Women 35-44,Product Launch,30 Days,Facebook,"0,14","5755,5","6,33",Los Angeles,English,14827,45438,Fashion,2022-09-18 00:00:00,Silk & Style
+144932,Women 18-24,Increase Sales,15 Days,Instagram,"0,04","3395,31","2,09",Miami,English,8410,26432,Fashion,2022-07-17 00:00:00,Fiber Fashion
+159737,Men 18-24,Increase Sales,60 Days,Facebook,"0,08",15000,"7,38",Los Angeles,English,39860,119587,Food,2022-09-16 00:00:00,Nosh Nirvana
+764776,Women 18-24,Market Expansion,60 Days,Instagram,"0,14","13799,18","3,33",New York,English,36245,108878,Fashion,2022-08-17 00:00:00,Vogue Visions
+403336,Men 18-24,Market Expansion,30 Days,Pinterest,"0,11","6203,67","0,967022696",Austin,Spanish,9423,31666,Food,2022-03-18 00:00:00,Savor Street
+591395,Men 25-34,Brand Awareness,45 Days,Twitter,"0,12","9943,96","0,9",Las Vegas,English,26196,79113,Fashion,2022-08-30 00:00:00,Style Sphere
+355872,Women 35-44,Market Expansion,15 Days,Facebook,"0,12",500,"3,25",Los Angeles,French,728,3678,Food,2022-12-29 00:00:00,Savor Street
+714972,Women 18-24,Market Expansion,60 Days,Facebook,"0,12","11518,63","1,53",Austin,English,30493,91840,Food,2022-01-28 00:00:00,Epicurean Edge
+189364,Women 35-44,Market Expansion,15 Days,Instagram,"0,02","2554,78","2,03",New York,French,6243,20013,Food,2022-02-06 00:00:00,Nosh Nirvana
+377804,Women 35-44,Increase Sales,15 Days,Facebook,"0,09","650,32","3,71",Austin,Spanish,2293,8313,Fashion,2022-12-16 00:00:00,Mode Maven
+193649,Women 18-24,Increase Sales,15 Days,Facebook,"0,07","3464,09","6,75",Los Angeles,English,8589,26960,Fashion,2022-03-26 00:00:00,Silk & Style
+878098,Men 18-24,Increase Sales,15 Days,Twitter,"0,06","1891,52","7,66",Los Angeles,French,4647,15283,Food,2022-02-20 00:00:00,Nosh Nirvana
+632253,Women 35-44,Brand Awareness,45 Days,Instagram,"0,04","10551,01","3,24",Los Angeles,French,27849,84008,Food,2022-09-06 00:00:00,Palate Paradise
+836380,Women 25-34,Increase Sales,60 Days,Twitter,"0,13","13885,08","5,15",New York,English,36426,109414,Fashion,2022-09-07 00:00:00,Fiber Fashion
+857321,Men 18-24,Product Launch,15 Days,Pinterest,"0,02","913,67","0,568416298",Los Angeles,Spanish,1589,6158,Food,2022-02-01 00:00:00,Feast Flavors
+706304,Men 25-34,Market Expansion,45 Days,Twitter,"0,06","9983,54","7,47",Miami,Spanish,26303,79430,Fashion,2022-11-14 00:00:00,Fiber Fashion
+903802,Men 25-34,Increase Sales,30 Days,Instagram,"0,1","4983,39","4,03",Las Vegas,Spanish,12724,39208,Fashion,2022-08-14 00:00:00,Runway Rebels
+134459,Men 18-24,Brand Awareness,15 Days,Instagram,"0,07",500,"1,93",Las Vegas,French,1663,6445,Food,2022-01-13 00:00:00,Gourmet Grove
+790953,Men 25-34,Product Launch,60 Days,Instagram,"0,03","11471,6","4,16",Miami,French,30366,91465,Fashion,2022-03-06 00:00:00,Runway Rebels
+781192,Women 35-44,Brand Awareness,30 Days,Facebook,"0,08","4579,59","0,86",Las Vegas,Spanish,11628,35963,Fashion,2022-10-30 00:00:00,Mode Maven
+773446,Men 25-34,Increase Sales,60 Days,Twitter,"0,11","14724,32","7,23",Las Vegas,French,38004,114088,Food,2022-01-24 00:00:00,Culinary Quest
+694218,Women 35-44,Increase Sales,15 Days,Pinterest,"0,1","2000,86","0,602378279",Las Vegas,Spanish,2880,10360,Fashion,2022-03-31 00:00:00,Silk & Style
+618697,Women 25-34,Market Expansion,30 Days,Pinterest,"0,11","6875,51","0,513004647",New York,English,10489,35135,Fashion,2022-08-08 00:00:00,Style Sphere
+873429,Men 25-34,Increase Sales,30 Days,Instagram,"0,04","6276,78","1,25",Austin,Spanish,16243,49632,Fashion,2022-03-31 00:00:00,Attire Artistry
+145914,Women 25-34,Brand Awareness,60 Days,Facebook,"0,07","13342,79","4,63",Austin,French,35212,105819,Food,2022-12-22 00:00:00,Feast Flavors
+661110,Women 18-24,Product Launch,60 Days,Pinterest,"0,05","14007,68","0,504067284",Miami,English,21545,71137,Fashion,2022-06-03 00:00:00,Glam Garments
+370914,Women 18-24,Product Launch,30 Days,Facebook,"0,11","4484,58","3,87",Miami,French,11367,35188,Food,2022-11-07 00:00:00,Feast Flavors
+942511,Men 35-44,Market Expansion,15 Days,Twitter,"0,14",500,"1,19",Los Angeles,French,501,3003,Food,2022-08-14 00:00:00,Culinary Quest
+806554,Men 35-44,Brand Awareness,45 Days,Pinterest,"0,1","11113,88","1,37635393",New York,Spanish,17263,57191,Food,2022-09-24 00:00:00,Dine Divine
+534989,Men 25-34,Increase Sales,60 Days,Pinterest,"0,07","14269,93","1,372778985",Austin,Spanish,21859,72159,Food,2022-11-17 00:00:00,Palate Paradise
+212930,Men 35-44,Market Expansion,45 Days,Twitter,"0,14","10316,36","6,79",New York,Spanish,27210,82116,Fashion,2022-10-10 00:00:00,Vogue Visions
+284207,Men 25-34,Increase Sales,45 Days,Twitter,"0,03","8991,27","7,83",Austin,French,23604,71434,Fashion,2022-09-23 00:00:00,Vogue Visions
+640805,Women 35-44,Increase Sales,30 Days,Instagram,"0,02","7518,08","3,47",Los Angeles,Spanish,19597,59567,Fashion,2022-12-22 00:00:00,Silk & Style
+725958,Women 25-34,Brand Awareness,15 Days,Pinterest,"0,11",500,"0,940210607",Miami,French,566,2825,Food,2022-06-20 00:00:00,Gastronomy Guild
+292462,Men 25-34,Product Launch,15 Days,Facebook,"0,05","2170,11","5,81",Los Angeles,English,5309,17246,Fashion,2022-11-14 00:00:00,Mode Maven
+586167,Women 25-34,Brand Awareness,45 Days,Instagram,"0,05","10905,26","0,12",Austin,Spanish,28815,86870,Fashion,2022-05-25 00:00:00,Vogue Visions
+950236,Men 35-44,Product Launch,60 Days,Pinterest,"0,02","14947,32","1,188669303",Las Vegas,French,22513,74288,Food,2022-02-16 00:00:00,Gourmet Grove
+336380,Women 18-24,Product Launch,45 Days,Pinterest,"0,12","10789,88","1,242293483",Austin,English,16740,55487,Food,2022-12-14 00:00:00,Bistro Bliss
+349914,Women 18-24,Brand Awareness,45 Days,Instagram,"0,03","9391,73","3,53",Las Vegas,English,24681,74625,Fashion,2022-12-28 00:00:00,Silk & Style
+837959,Men 35-44,Brand Awareness,45 Days,Pinterest,"0,06","8881,51","1,27446799",Las Vegas,English,13687,45547,Food,2022-09-22 00:00:00,Bistro Bliss
+215598,Men 35-44,Product Launch,15 Days,Facebook,"0,12",500,"2,66",Las Vegas,French,1720,6616,Food,2022-11-27 00:00:00,Savor Street
+262771,Men 25-34,Increase Sales,30 Days,Facebook,"0,11","5090,16","1,68",Las Vegas,Spanish,13021,40087,Fashion,2022-04-13 00:00:00,Chic Couture
+792265,Men 25-34,Increase Sales,15 Days,Instagram,"0,02","3977,42","4,05",Las Vegas,English,9981,31084,Fashion,2022-08-20 00:00:00,Mode Maven
+118476,Women 18-24,Market Expansion,60 Days,Twitter,"0,03",15000,"4,68",Los Angeles,French,38485,115513,Food,2022-10-30 00:00:00,Savor Street
+494247,Men 35-44,Product Launch,30 Days,Instagram,"0,09","6384,24","6,15",Miami,Spanish,16536,50500,Food,2022-04-01 00:00:00,Nosh Nirvana
+967526,Men 35-44,Product Launch,30 Days,Facebook,"0,06","6995,4","0,04",Las Vegas,Spanish,18191,55402,Fashion,2022-07-20 00:00:00,Mode Maven
+425188,Women 25-34,Brand Awareness,15 Days,Instagram,"0,12","735,04","5,54",Austin,English,2421,8690,Food,2022-05-23 00:00:00,Bistro Bliss
+483556,Women 25-34,Product Launch,45 Days,Twitter,"0,02","9632,67","3,26",Las Vegas,French,25350,76609,Fashion,2022-08-15 00:00:00,Attire Artistry
+628089,Men 25-34,Market Expansion,60 Days,Facebook,"0,06","14258,21","2,42",Los Angeles,French,37196,111696,Food,2022-01-30 00:00:00,Feast Flavors
+540924,Women 25-34,Brand Awareness,30 Days,Facebook,"0,1","7361,93","3,83",Miami,Spanish,19169,58299,Food,2022-12-24 00:00:00,Feast Flavors
+550336,Men 18-24,Increase Sales,60 Days,Facebook,"0,09","12023,31","3,42",Austin,Spanish,31830,95800,Fashion,2022-02-21 00:00:00,Attire Artistry
+159789,Men 25-34,Market Expansion,15 Days,Instagram,"0,07",500,"7,33",New York,English,556,3167,Fashion,2022-01-28 00:00:00,Mode Maven
+155618,Women 25-34,Market Expansion,15 Days,Pinterest,"0,13","3429,52","0,895523791",Miami,Spanish,4992,17236,Food,2022-09-20 00:00:00,Nosh Nirvana
+857374,Women 25-34,Product Launch,45 Days,Instagram,"0,02","8032,87","2,24",Las Vegas,Spanish,21005,63737,Fashion,2022-04-21 00:00:00,Glam Garments
+772577,Men 35-44,Brand Awareness,15 Days,Pinterest,"0,02","2681,03","0,032174507",New York,English,3852,13526,Fashion,2022-09-17 00:00:00,Silk & Style
+360676,Men 35-44,Market Expansion,15 Days,Instagram,"0,15","3876,65","0,39",Austin,English,9703,30260,Food,2022-07-20 00:00:00,Nosh Nirvana
+449230,Men 35-44,Increase Sales,60 Days,Pinterest,"0,07","12274,14","0,030387035",Las Vegas,French,19085,63126,Food,2022-09-28 00:00:00,Culinary Quest
+806401,Women 25-34,Product Launch,45 Days,Facebook,"0,03","8698,71","0,05",Los Angeles,Spanish,22822,69118,Fashion,2022-07-18 00:00:00,Chic Couture
+432411,Women 35-44,Market Expansion,60 Days,Twitter,"0,09","12285,83","2,33",Las Vegas,Spanish,32522,97852,Fashion,2022-12-12 00:00:00,Fiber Fashion
+666183,Men 18-24,Product Launch,60 Days,Instagram,"0,12","12926,76","1,34",Miami,English,34191,102795,Fashion,2022-09-28 00:00:00,Silk & Style
+544844,Women 18-24,Market Expansion,15 Days,Pinterest,"0,11","1883,06","1,169007104",Miami,French,2716,9828,Fashion,2022-02-20 00:00:00,Glam Garments
+116650,Men 18-24,Increase Sales,45 Days,Pinterest,"0,12","10315,63","1,165432159",Los Angeles,English,15979,53011,Food,2022-05-20 00:00:00,Epicurean Edge
+869217,Men 25-34,Market Expansion,60 Days,Instagram,"0,1","13030,82","1,43",Las Vegas,English,34454,103573,Food,2022-08-28 00:00:00,Gastronomy Guild
+175512,Women 18-24,Product Launch,15 Days,Instagram,"0,13","3063,24","1,56",Los Angeles,English,7541,23858,Fashion,2022-09-27 00:00:00,Chic Couture
+366545,Men 25-34,Product Launch,45 Days,Pinterest,"0,15","10387,88","1,278042935",Austin,French,16095,53390,Fashion,2022-06-17 00:00:00,Chic Couture
+121013,Women 18-24,Market Expansion,60 Days,Instagram,"0,04","12500,23","0,59",Los Angeles,Spanish,33084,99516,Fashion,2022-11-20 00:00:00,Chic Couture
+668935,Women 35-44,Product Launch,15 Days,Twitter,"0,05","1215,76","5,89",Miami,French,3253,11154,Fashion,2022-09-03 00:00:00,Fiber Fashion
+249203,Women 35-44,Market Expansion,30 Days,Instagram,"0,11","5549,52","4,12",New York,French,14266,43778,Fashion,2022-01-31 00:00:00,Chic Couture
+811886,Men 25-34,Brand Awareness,15 Days,Facebook,"0,02","1262,94","0,61",Los Angeles,English,3340,11414,Food,2022-11-02 00:00:00,Palate Paradise
+404707,Women 35-44,Increase Sales,15 Days,Facebook,"0,02","3119,43","6,49",New York,Spanish,7689,24296,Fashion,2022-10-18 00:00:00,Trend Tailors
+783927,Men 25-34,Brand Awareness,15 Days,Facebook,"0,07",500,"6,1",Miami,French,1249,5221,Food,2022-01-30 00:00:00,Feast Flavors
+699436,Women 18-24,Product Launch,15 Days,Instagram,"0,06",500,"0,62",New York,Spanish,504,3013,Food,2022-07-11 00:00:00,Culinary Quest
+608093,Women 25-34,Product Launch,30 Days,Pinterest,"0,1","7716,12","0,075073851",Los Angeles,English,11826,39489,Food,2022-11-18 00:00:00,Nosh Nirvana
+257882,Men 35-44,Market Expansion,15 Days,Pinterest,"0,13","546,13","0,688176965",Los Angeles,Spanish,1263,5094,Food,2022-07-19 00:00:00,Epicurean Edge
+277045,Women 18-24,Increase Sales,45 Days,Twitter,"0,07","9425,18","0,59",Las Vegas,English,24775,74903,Fashion,2022-06-23 00:00:00,Mode Maven
+737117,Men 35-44,Increase Sales,15 Days,Pinterest,"0,08","1487,95","0,513004647",Las Vegas,French,2220,8212,Food,2022-08-24 00:00:00,Dine Divine
+407410,Men 35-44,Product Launch,15 Days,Pinterest,"0,08",500,"0,405756289",New York,English,301,1962,Fashion,2022-04-30 00:00:00,Vogue Visions
+929907,Women 35-44,Brand Awareness,45 Days,Twitter,"0,12","11299,06","4,91",Miami,English,29891,90059,Fashion,2022-05-18 00:00:00,Fiber Fashion
+787832,Women 25-34,Product Launch,15 Days,Pinterest,"0,12","2779,74","0,963447751",Miami,English,3996,13993,Food,2022-10-12 00:00:00,Palate Paradise
+357899,Men 18-24,Brand Awareness,60 Days,Twitter,"0,12","13847,11","4,32",Las Vegas,English,36348,109182,Fashion,2022-10-24 00:00:00,Runway Rebels
+798739,Women 35-44,Product Launch,30 Days,Pinterest,"0,03","6605,12","0,418268597",New York,French,10056,33725,Fashion,2022-03-13 00:00:00,Mode Maven
+977711,Men 25-34,Increase Sales,30 Days,Instagram,"0,08","4925,15","3,5",Miami,French,12573,38761,Fashion,2022-07-27 00:00:00,Runway Rebels
+194884,Women 25-34,Product Launch,30 Days,Twitter,"0,03","4557,84","5,03",Las Vegas,French,11566,35779,Fashion,2022-06-03 00:00:00,Vogue Visions
+692520,Women 25-34,Product Launch,15 Days,Pinterest,"0,06","1326,46","0,815087522",Las Vegas,English,2033,7603,Food,2022-04-29 00:00:00,Savor Street
+309309,Women 25-34,Brand Awareness,15 Days,Facebook,"0,15",500,"0,95",Los Angeles,Spanish,1257,5243,Food,2022-03-31 00:00:00,Gastronomy Guild
+601862,Women 25-34,Increase Sales,30 Days,Instagram,"0,12","4677,35","0,14",Austin,English,11895,36753,Food,2022-05-14 00:00:00,Epicurean Edge
+118219,Women 35-44,Product Launch,60 Days,Twitter,"0,13","12128,81","3,68",Las Vegas,Spanish,32106,96620,Fashion,2022-03-12 00:00:00,Fiber Fashion
+165300,Women 25-34,Product Launch,15 Days,Twitter,"0,11","801,25","5,63",Los Angeles,French,2518,8980,Food,2022-08-08 00:00:00,Savor Street
+689949,Men 18-24,Increase Sales,45 Days,Facebook,"0,13","8335,08","7,31",Austin,Spanish,21834,66194,Fashion,2022-02-11 00:00:00,Trend Tailors
+656114,Women 35-44,Brand Awareness,15 Days,Pinterest,"0,04","3868,97","0,666727293",Los Angeles,Spanish,5685,19495,Fashion,2022-11-13 00:00:00,Trend Tailors
+500130,Women 18-24,Product Launch,30 Days,Instagram,"0,1","7656,52","2,2",Los Angeles,English,19969,60668,Food,2022-02-03 00:00:00,Gourmet Grove
+202158,Women 25-34,Product Launch,30 Days,Instagram,"0,1","5277,13","6,87",Las Vegas,French,13531,41599,Food,2022-06-25 00:00:00,Bistro Bliss
+874821,Men 18-24,Product Launch,30 Days,Facebook,"0,06","6413,03","5,44",Austin,Spanish,16616,50737,Food,2022-10-24 00:00:00,Feast Flavors
+132827,Men 18-24,Brand Awareness,30 Days,Twitter,"0,09","4207,52","5,91",New York,French,10609,32943,Food,2022-05-08 00:00:00,Nosh Nirvana
+419858,Women 18-24,Market Expansion,30 Days,Facebook,"0,1","4393,94","7,98",Austin,French,11119,34453,Food,2022-12-28 00:00:00,Culinary Quest
+827915,Women 18-24,Product Launch,30 Days,Facebook,"0,02","6508,06","6,91",Los Angeles,Spanish,16866,51477,Fashion,2022-03-19 00:00:00,Runway Rebels
+587241,Men 25-34,Brand Awareness,60 Days,Twitter,"0,08",15000,"2,62",Austin,Spanish,38547,115696,Fashion,2022-01-16 00:00:00,Attire Artistry
+608206,Men 25-34,Increase Sales,45 Days,Facebook,"0,15","10852,5","6,77",Miami,English,28675,86456,Food,2022-08-14 00:00:00,Feast Flavors
+823686,Men 35-44,Brand Awareness,60 Days,Facebook,"0,13","12625,18","7,78",Las Vegas,Spanish,33416,100498,Food,2022-09-09 00:00:00,Nosh Nirvana
+160135,Women 35-44,Market Expansion,30 Days,Twitter,"0,13","7157,8","2,39",Los Angeles,French,18625,56687,Food,2022-07-16 00:00:00,Epicurean Edge
+990062,Women 18-24,Product Launch,45 Days,Facebook,"0,13","9914,49","1,53",Los Angeles,French,26120,78887,Food,2022-02-05 00:00:00,Gourmet Grove
+492546,Women 25-34,Brand Awareness,15 Days,Instagram,"0,11",500,"4,78",Los Angeles,Spanish,1152,4931,Fashion,2022-12-05 00:00:00,Style Sphere
+388118,Women 18-24,Brand Awareness,60 Days,Facebook,"0,1","11974,61","1,38",Las Vegas,English,31703,95424,Fashion,2022-10-01 00:00:00,Trend Tailors
+704936,Men 25-34,Increase Sales,15 Days,Instagram,"0,12","2529,12","2,05",Austin,Spanish,6181,19828,Food,2022-02-12 00:00:00,Bistro Bliss
+533115,Men 35-44,Increase Sales,15 Days,Twitter,"0,11",500,"1,73",Austin,English,2019,7501,Fashion,2022-08-30 00:00:00,Vogue Visions
+459068,Men 18-24,Increase Sales,30 Days,Facebook,"0,08","4366,5","4,46",Los Angeles,Spanish,11040,34221,Food,2022-04-28 00:00:00,Gourmet Grove
+256009,Men 25-34,Brand Awareness,30 Days,Facebook,"0,05","7284,49","2,02",Austin,English,18963,57689,Fashion,2022-08-18 00:00:00,Attire Artistry
+108074,Women 35-44,Market Expansion,60 Days,Instagram,"0,02","11842,23","5,36",Austin,Spanish,31357,94400,Fashion,2022-04-07 00:00:00,Runway Rebels
+434683,Women 25-34,Product Launch,45 Days,Instagram,"0,11","10157,17","3,58",Miami,Spanish,26788,80866,Food,2022-09-17 00:00:00,Palate Paradise
+840679,Men 18-24,Market Expansion,30 Days,Twitter,"0,06","5185,77","4,23",Miami,English,13287,40878,Food,2022-05-31 00:00:00,Feast Flavors
+792239,Men 18-24,Product Launch,15 Days,Pinterest,"0,13","2875,12","0,098310995",Miami,Spanish,4140,14461,Food,2022-07-18 00:00:00,Culinary Quest
+443632,Women 25-34,Product Launch,30 Days,Instagram,"0,06","4599,61","4,4",Miami,French,11682,36122,Fashion,2022-07-01 00:00:00,Glam Garments
+235611,Women 25-34,Market Expansion,45 Days,Pinterest,"0,13","8989,03","0,883011483",New York,English,13859,46109,Food,2022-03-31 00:00:00,Savor Street
+920763,Women 25-34,Market Expansion,60 Days,Twitter,"0,07","12681,38","5,2",Las Vegas,French,33559,100924,Food,2022-04-11 00:00:00,Gastronomy Guild
+698543,Men 35-44,Product Launch,45 Days,Facebook,"0,04","10474,64","2,61",Miami,French,27647,83410,Food,2022-05-13 00:00:00,Nosh Nirvana
+125040,Women 18-24,Market Expansion,30 Days,Facebook,"0,09","4919,3",3,Miami,Spanish,12555,38708,Fashion,2022-05-28 00:00:00,Silk & Style
+488247,Men 18-24,Market Expansion,15 Days,Twitter,"0,1","1630,78","2,51",Los Angeles,French,4072,13582,Food,2022-05-21 00:00:00,Culinary Quest
+954039,Women 35-44,Increase Sales,60 Days,Pinterest,"0,13","11871,93","1,070696109",Miami,Spanish,18458,61085,Food,2022-09-13 00:00:00,Bistro Bliss
+189743,Men 25-34,Product Launch,45 Days,Instagram,"0,08","8225,47","3,86",New York,Spanish,21533,65300,Food,2022-10-11 00:00:00,Epicurean Edge
+601268,Women 18-24,Market Expansion,30 Days,Facebook,"0,13","6581,81","4,55",Austin,Spanish,17058,52047,Fashion,2022-09-24 00:00:00,Runway Rebels
+148935,Men 18-24,Market Expansion,15 Days,Twitter,"0,1","2070,19","0,92",Austin,French,5066,16527,Fashion,2022-01-06 00:00:00,Fiber Fashion
+331795,Men 25-34,Brand Awareness,45 Days,Instagram,"0,09","10764,2","1,34",Miami,English,28433,85741,Food,2022-08-27 00:00:00,Nosh Nirvana
+175965,Women 25-34,Increase Sales,30 Days,Instagram,"0,04","6992,89","4,39",Austin,French,18186,55386,Food,2022-01-04 00:00:00,Savor Street
+465924,Women 35-44,Market Expansion,15 Days,Instagram,"0,09","1102,51","2,33",Austin,Spanish,3049,10550,Fashion,2022-11-15 00:00:00,Vogue Visions
+128728,Men 18-24,Brand Awareness,15 Days,Twitter,"0,02","4064,32","5,01",Miami,French,10214,31773,Fashion,2022-05-29 00:00:00,Mode Maven
+343813,Men 25-34,Increase Sales,30 Days,Pinterest,"0,1","6911,41","1,354904259",Austin,Spanish,10547,35325,Fashion,2022-06-18 00:00:00,Fiber Fashion
+983779,Men 25-34,Brand Awareness,45 Days,Twitter,"0,08","8800,28","6,88",Los Angeles,French,23092,69919,Food,2022-02-11 00:00:00,Feast Flavors
+123411,Women 25-34,Product Launch,60 Days,Twitter,"0,04",15000,"5,66",Las Vegas,English,39347,118066,Food,2022-10-06 00:00:00,Savor Street
+523756,Women 18-24,Market Expansion,30 Days,Twitter,"0,05","6028,5","1,11",Austin,French,15579,47667,Fashion,2022-05-11 00:00:00,Style Sphere
+426590,Men 18-24,Increase Sales,45 Days,Twitter,"0,07","8804,58","5,34",Los Angeles,French,23104,69955,Fashion,2022-04-25 00:00:00,Glam Garments
+570031,Men 25-34,Product Launch,15 Days,Facebook,"0,11","3231,98","5,32",Austin,English,7977,25149,Fashion,2022-12-20 00:00:00,Fiber Fashion
+262195,Women 25-34,Market Expansion,30 Days,Pinterest,"0,09","6807,34","0,630977841",New York,English,10380,34782,Food,2022-11-22 00:00:00,Bistro Bliss
+542856,Men 25-34,Market Expansion,30 Days,Instagram,"0,08","5677,96","1,75",Las Vegas,English,14621,44829,Fashion,2022-09-05 00:00:00,Silk & Style
+858947,Men 18-24,Increase Sales,30 Days,Pinterest,"0,05","5774,45","0,883011483",Austin,French,8737,29431,Food,2022-07-02 00:00:00,Gourmet Grove
+429478,Women 35-44,Increase Sales,15 Days,Pinterest,"0,1","3628,99","1,104658089",Las Vegas,Spanish,5304,18254,Fashion,2022-10-02 00:00:00,Runway Rebels
+754583,Men 25-34,Product Launch,45 Days,Instagram,"0,13","11359,91","7,98",Las Vegas,French,30057,90549,Food,2022-01-19 00:00:00,Gastronomy Guild
+454578,Men 35-44,Market Expansion,45 Days,Facebook,"0,13","9557,63","5,27",Austin,Spanish,25144,75996,Fashion,2022-07-23 00:00:00,Attire Artistry
+384367,Women 35-44,Product Launch,15 Days,Instagram,"0,14",500,"2,27",Los Angeles,English,1096,4767,Fashion,2022-04-28 00:00:00,Glam Garments
+462235,Women 18-24,Market Expansion,45 Days,Instagram,"0,09","10376,37","4,16",Austin,English,27376,82608,Food,2022-06-18 00:00:00,Epicurean Edge
+838530,Men 35-44,Brand Awareness,45 Days,Twitter,"0,14","8332,93","5,09",Las Vegas,French,21828,66174,Fashion,2022-06-21 00:00:00,Attire Artistry
