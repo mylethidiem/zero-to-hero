@@ -1,0 +1,4 @@
+[submodule "tools_scripts/linux"]
+	path = tools_scripts/linux
+	url = https://github.com/mylethidiem/zero-to-hero
+	branch = main
