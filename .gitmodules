@@ -1,0 +1,3 @@
+[submodule "tools_scripts/linux_basic"]
+	path = tools_scripts/linux_basic
+	url = https://github.com/nguyenhads/linux_basic
