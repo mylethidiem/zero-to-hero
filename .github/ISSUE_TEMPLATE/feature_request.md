@@ -1,104 +1,157 @@
-# 🧩 What does this PR do?
-
 <!-- 
-🎉 Congratulations! You've made it this far!
+🎉 Congratulations on submitting your PR!
 
-Once merged, this PR will appear in the release notes with the title you set. 
-Please make sure your title accurately reflects the contribution.
-
-Replace this section with a clear summary of the changes and (if applicable) 
-mention which issue it fixes. Provide context, motivation, and any dependencies.
+Please provide a clear, concise summary of your contribution. 
+Once merged, this title and description will appear in the release notes, 
+so ensure it accurately reflects the feature and its purpose.
 -->
 
+## 🧩 Summary
+
+<!-- Briefly describe what this PR changes or introduces. -->
 Fixes # (issue number, if applicable)
+
+Example:
+> This PR adds support for exporting models to ONNX and improves the inference pipeline for faster deployment.
 
 ---
 
-## 📝 Summary
-
-<!-- Describe in a few sentences what your PR changes. -->
-
-## 💡 Motivation
+## 💡 Motivation & Context
 
 <!-- 
 Why is this change needed? 
-Is it fixing a bug, adding a new feature, improving performance, or refactoring code?
+Does it fix a limitation, improve usability, add a new capability, or refactor an existing module?
 -->
+Example:
+> This feature enables users to integrate the model with external inference frameworks and improves compatibility across environments.
+
+---
 
 ## 🔍 Changes Overview
 
 <!-- 
-List the key updates introduced by this PR. 
-Example:
-- Added new `FeatureX` module for ...
-- Refactored dataset loading logic to improve speed.
-- Updated documentation for clarity.
+List the main modifications introduced by this PR.
 -->
+- Implemented new `FeatureX` class for ...
+- Refactored `utils/io.py` for modularity
+- Added configuration flag `--enable-feature-x`
+- Updated docs and examples
 
-## 🧪 Testing
+---
+
+## 🚀 Usage
+
+- Usage remains the same.  
+- No external dependencies or parameters changed.
+
+> If behavior changes, update relevant examples or documentation.
+
+---
+
+## 🧪 Testing & Validation
 
 <!-- 
-Explain how you tested your changes (unit tests, manual runs, datasets, etc.)
-Include sample commands if possible.
+Explain how you validated this change (unit tests, integration tests, manual validation, etc.).
+Include sample commands or datasets used for testing.
 -->
 
+**Test Coverage**
 - [ ] Added/updated unit tests  
-- [ ] Verified with existing test suite  
+- [ ] Verified existing test suite passes  
 - [ ] Manually tested feature behavior  
+
+**Example Command**
+```bash
+pytest tests/test_feature_x.py -v
+````
 
 ---
 
 ## 📚 Documentation
 
 <!-- 
-Did you update the README, examples, or other documentation? 
-Link any relevant files or sections.
+Did you update documentation, examples, or READMEs? 
+Link any relevant PRs, guides, or markdown files.
 -->
 
-- [ ] Updated user documentation  
-- [ ] Added/modified docstrings  
-- [ ] No documentation changes needed  
+* [ ] Updated user documentation
+* [ ] Added/modified docstrings or tutorials
+* [ ] No documentation changes needed
+
+> 📘 If documentation updates are large, link the PR or commit here for reviewers’ convenience.
+
+---
+
+## ✅ GitHub Actions / CI Checks
+
+**Before marking as “Ready for review”, please ensure:**
+
+* [ ] Added or updated relevant tests (if applicable)
+* [ ] Updated necessary documentation
+* [ ] Verified optional dependencies (Numba, Pynini, Apex, etc.)
+* [ ] Reviewer: check optional import guards are correct
+
+---
+
+## 🧱 PR Type
+
+Please check the appropriate type:
+
+* [x] New Feature
+* [ ] Bugfix
+* [ ] Documentation
+
+> *If still a work in progress, mark this PR as “Draft”.*
 
 ---
 
 ## ✅ Pre-Submission Checklist
 
-- [ ] Discussed/approved via a GitHub issue  
-- [ ] Code follows the project style guidelines  
-- [ ] Tests have been added/updated (if applicable)  
-- [ ] All CI checks pass locally  
-- [ ] PR title and description are clear and descriptive  
+Before requesting a review, please confirm the following:
+
+* [ ] Discussed or approved via a GitHub issue or RFC
+* [ ] Code follows the project’s style guidelines
+* [ ] Tests added/updated where applicable
+* [ ] All CI checks pass locally
+* [ ] PR title and description are clear and descriptive
 
 ---
 
- ## 👥 Who can review?
+## 👀 Who can review?
 
-Anyone in the community can review once tests pass.  
-If you’d like faster feedback, tag relevant contributors:
+Anyone in the community is welcome to review after checks pass.
+Refer to [Contributor guidelines]() for code ownership and review areas.
 
-| Area | Reviewer |
-|------|-----------|
-| All | @mylethidiem |
-<!--| Text Models | @mylethidiem |
-| Vision Models | @mylethidiem |
-| Audio Models | @mylethidiem |
-| Multimodal Models | @mylethidiem |
-| Graph Models | @mylethidiem |
-| Pipelines | @mylethidiem |
-| Tokenizers | @mylethidiem |
-| Trainer | @mylethidiem |
-| Attention | @mylethidiem |
-| Distributed | @mylethidiem |
-| Documentation | @mylethidiem |-->
+| Area            | Reviewer     |
+| --------------- | ------------ |
+| Core / General  | @mylethidiem |
+| Docs / Examples | @mylethidiem |
+| DevOps / CI     | @mylethidiem |
 
-> 🕐 If no one reviews your PR after a week, feel free to @-mention again.  
-> Notifications sometimes get lost!
+> 🕐 If your PR hasn’t been reviewed within a week, kindly @-mention the same reviewer(s) again — sometimes notifications get lost.
 
 ---
 
-## 📎 Additional Notes
+## 🔗 Additional Information
+
+* Related issue(s): `#<issue_number_if_any>`
+* Future work: Add visualization or notebook integration for training examples.
+
+---
+
+## 📎 Notes & Attachments
 
 <!-- 
-Include screenshots, related PRs, or anything else useful for reviewers.
+Include related PRs, screenshots, design docs, benchmark results, or references that may help reviewers understand context.
 -->
 
+Example:
+
+* Related PR: #123
+* Screenshot showing new UI option
+* Benchmark: ~25% improvement in inference speed
+
+---
+
+🙌 **Thank you for your contribution!**
+Your effort helps make this project better for everyone 💙
