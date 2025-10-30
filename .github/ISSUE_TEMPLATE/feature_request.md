@@ -1,68 +1,104 @@
-# What does this PR do?
+# 🧩 What does this PR do?
 
-<!--
-Congratulations! You've made it this far! You're not quite done yet though.
+<!-- 
+🎉 Congratulations! You've made it this far!
 
-Once merged, your PR is going to appear in the release notes with the title you set, so make sure it's a great title that fully reflects the extent of your awesome contribution.
+Once merged, this PR will appear in the release notes with the title you set. 
+Please make sure your title accurately reflects the contribution.
 
-Then, please replace this with a description of the change and which issue is fixed (if applicable). Please also include relevant motivation and context. List any dependencies (if any) that are required for this change.
-
-Once you're done, someone will review your PR shortly (see the section "Who can review?" below to tag some potential reviewers). They may suggest changes to make the code even better. If no one reviewed your PR after a week has passed, don't hesitate to post a new comment @-mentioning the same persons---sometimes notifications get lost.
+Replace this section with a clear summary of the changes and (if applicable) 
+mention which issue it fixes. Provide context, motivation, and any dependencies.
 -->
 
-<!-- Remove if not applicable -->
+Fixes # (issue number, if applicable)
 
-Fixes # (issue)
+---
 
+## 📝 Summary
 
-## Before submitting
-- [ ] This PR fixes a typo or improves the docs (you can dismiss the other checks if that's the case).
-- [ ] Was this discussed/approved via a Github issue
-- [ ] Did you make sure to update the documentation with your changes? Here are the
-      documentation guidelines.
-- [ ] Did you write any new necessary tests?
+<!-- Describe in a few sentences what your PR changes. -->
 
+## 💡 Motivation
 
-## Who can review?
+<!-- 
+Why is this change needed? 
+Is it fixing a bug, adding a new feature, improving performance, or refactoring code?
+-->
 
-Anyone in the community is free to review the PR once the tests have passed. Feel free to tag
-members/contributors who may be interested in your PR.
+## 🔍 Changes Overview
 
-<!-- Your PR will be replied to more quickly if you can figure out the right person to tag with @
+<!-- 
+List the key updates introduced by this PR. 
+Example:
+- Added new `FeatureX` module for ...
+- Refactored dataset loading logic to improve speed.
+- Updated documentation for clarity.
+-->
 
- If you know how to use git blame, that is the easiest way, otherwise, here is a rough guide of **who to tag**.
- Please tag fewer than 3 people.
+## 🧪 Testing
 
-Models:
+<!-- 
+Explain how you tested your changes (unit tests, manual runs, datasets, etc.)
+Include sample commands if possible.
+-->
 
-- text models: @mylethidiem
-- vision models: @mylethidiem
-- audio models: @mylethidiem
-- multimodal models: @mylethidiem
-- graph models: @mylethidiem
+- [ ] Added/updated unit tests  
+- [ ] Verified with existing test suite  
+- [ ] Manually tested feature behavior  
 
-Library:
+---
 
-- generate: @mylethidiem
-- continuous batching: @mylethidiem
-- pipelines: @mylethidiem
-- tokenizers: @mylethidiem
-- trainer: @mylethidiem
-- attention: @mylethidiem
-- model loading (from pretrained, etc): @mylethidiem
-- distributed: @mylethidiem
-- CIs: @mylethidiem
+## 📚 Documentation
 
-Integrations:
+<!-- 
+Did you update the README, examples, or other documentation? 
+Link any relevant files or sections.
+-->
 
--
+- [ ] Updated user documentation  
+- [ ] Added/modified docstrings  
+- [ ] No documentation changes needed  
 
-Devices/Backends:
+---
 
-- AMD Bravo
+## ✅ Pre-Submission Checklist
 
-Documentation: @mylethidiem
+- [ ] Discussed/approved via a GitHub issue  
+- [ ] Code follows the project style guidelines  
+- [ ] Tests have been added/updated (if applicable)  
+- [ ] All CI checks pass locally  
+- [ ] PR title and description are clear and descriptive  
 
-Research projects are not maintained and should be taken as is.
+---
 
- -->
+ ## 👥 Who can review?
+
+Anyone in the community can review once tests pass.  
+If you’d like faster feedback, tag relevant contributors:
+
+| Area | Reviewer |
+|------|-----------|
+| All | @mylethidiem |
+<!--| Text Models | @mylethidiem |
+| Vision Models | @mylethidiem |
+| Audio Models | @mylethidiem |
+| Multimodal Models | @mylethidiem |
+| Graph Models | @mylethidiem |
+| Pipelines | @mylethidiem |
+| Tokenizers | @mylethidiem |
+| Trainer | @mylethidiem |
+| Attention | @mylethidiem |
+| Distributed | @mylethidiem |
+| Documentation | @mylethidiem |-->
+
+> 🕐 If no one reviews your PR after a week, feel free to @-mention again.  
+> Notifications sometimes get lost!
+
+---
+
+## 📎 Additional Notes
+
+<!-- 
+Include screenshots, related PRs, or anything else useful for reviewers.
+-->
+
