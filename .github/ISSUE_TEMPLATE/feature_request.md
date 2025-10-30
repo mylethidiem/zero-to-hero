@@ -8,11 +8,10 @@ so ensure it accurately reflects the feature and its purpose.
 
 ## 🧩 Summary
 
-<!-- Briefly describe what this PR changes or introduces. -->
-Fixes # (issue number, if applicable)
-
+<!-- Briefly describe what this PR changes or introduces.
 Example:
-> This PR adds support for exporting models to ONNX and improves the inference pipeline for faster deployment.
+> This PR adds support for exporting models to ONNX and improves the inference pipeline for faster deployment.-->
+Fixes # (issue number, if applicable)
 
 ---
 
@@ -21,9 +20,8 @@ Example:
 <!-- 
 Why is this change needed? 
 Does it fix a limitation, improve usability, add a new capability, or refactor an existing module?
--->
 Example:
-> This feature enables users to integrate the model with external inference frameworks and improves compatibility across environments.
+> This feature enables users to integrate the model with external inference frameworks and improves compatibility across environments.-->
 
 ---
 
@@ -97,7 +95,7 @@ Link any relevant PRs, guides, or markdown files.
 
 Please check the appropriate type:
 
-* [x] New Feature
+* [ ] New Feature
 * [ ] Bugfix
 * [ ] Documentation
 
