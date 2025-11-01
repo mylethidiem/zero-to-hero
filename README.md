@@ -90,6 +90,7 @@ Apply knowledge through challenges and portfolios. Here's my progress:
 - 📊 **[Kaggle Profile](https://www.kaggle.com/banhmuy)**: Notebooks on regression, NLP, and competitions (e.g., Titanic survival prediction).
 - 🤖 **[DeepML Profile](https://www.deep-ml.com/profile/mzOHLfAKLVauQjHcZOdJxLdgiTS2)**: Collaborative AI models, including GANs for data augmentation.
 - 💻 **[LeetCode Profile](https://leetcode.com/lethidiemmy961996)**: 200+ solved problems in arrays, trees, and dynamic programming.
+- 🐵 **[DataLemur - Ace the SQL & Data Science Interview](https://t.co/JG4qmAAbho)**(No profile page): Practice the most common SQL, Statistics, ML, and Python questions asked in FAANG Data Science & Data Analyst interviews!
 
 **Starter Project Ideas:**
 - **C++/Git:** Version a simple calculator app with feature branches.
@@ -160,3 +161,4 @@ Key achievements validating the "Hero" status:
 
 ## License
 MIT License – Free to use, modify, and distribute. See [LICENSE](LICENSE) for details. © 2024-2025 [Your Name]. 🚀
+
