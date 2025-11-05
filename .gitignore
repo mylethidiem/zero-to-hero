@@ -52,3 +52,4 @@ assert.log
 **~
 /obj
 /lib
+data/processed/bak/*.bak
