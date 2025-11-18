@@ -44,8 +44,8 @@ repos:
       - id: clang-format
         args: ["-style=file"]
 
-  # Clear output notebook trước khi commit
   - repo: https://github.com/kynan/nbstripout
     rev: 0.7.1
     hooks:
       - id: nbstripout
+        args: ["--keep-count --keep-output"]
