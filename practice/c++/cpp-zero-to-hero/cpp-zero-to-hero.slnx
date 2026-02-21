@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Arrray/Arrray.vcxproj" Id="068c2276-ac27-4c04-a013-ae8a02b301a4" />
+  <Project Path="cpp-zero-to-hero.vcxproj" Id="79ccca8a-68fc-47fe-bc81-82d6307c796d" />
+  <Project Path="Function/Function.vcxproj" Id="1b281b94-dd6a-46c6-9019-5562c0c0cb32" />
+  <Project Path="Loop/Loop.vcxproj" Id="5f205808-48a6-4321-bb91-542d5718fbe8" />
+  <Project Path="String/String.vcxproj" Id="fa2798df-4558-4bf2-b250-35ca513ed627" />
+</Solution>

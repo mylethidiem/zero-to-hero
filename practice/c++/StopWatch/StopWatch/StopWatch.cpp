@@ -54,7 +54,7 @@ void UpdateWatch() {
   }
 }
 
-int main()
+int main1()
 // int StopWatch()
 {
   UpdateWatch();

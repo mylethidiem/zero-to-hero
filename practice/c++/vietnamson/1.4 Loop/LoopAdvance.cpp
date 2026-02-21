@@ -97,7 +97,7 @@ void exchangeMoneyNote(float exchange) {
   }
 }
 
-int main()
+int main3()
 // int LoopAdvancemain()
 {
   // input

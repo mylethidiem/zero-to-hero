@@ -194,7 +194,7 @@ void Fibonacci(unsigned long long int n) {
   }
 }
 
-int main()
+int main2()
 // int LoopBasicmain()
 {
   // input 1
