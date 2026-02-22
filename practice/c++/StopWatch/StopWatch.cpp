@@ -30,7 +30,7 @@ void UpdateWatch() {
     if (GetAsyncKeyState(VK_SPACE)) {
       while (true) {
         if (GetAsyncKeyState(VK_SPACE)) {
-          Sleep(1000);
+          Sleep(1000); // milliseconds
           break;
         }
       }
@@ -38,7 +38,7 @@ void UpdateWatch() {
     if (GetAsyncKeyState(VK_ESCAPE)) {
       break;
     }
-
+    stopWatch.seconds++;
     if (stopWatch.seconds == LIMIT_COUNT) {
       stopWatch.minutes++;
       stopWatch.seconds = 0;
@@ -48,13 +48,13 @@ void UpdateWatch() {
     } else if (stopWatch.hours == LIMIT_COUNT_HOURS) {
       Reset(stopWatch);
     }
-    stopWatch.seconds++;
+
     Sleep(1000);
     system("cls");
   }
 }
 
-int main1()
+int main()
 // int StopWatch()
 {
   UpdateWatch();

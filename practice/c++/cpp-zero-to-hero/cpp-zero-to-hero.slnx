@@ -3,9 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Arrray/Arrray.vcxproj" Id="068c2276-ac27-4c04-a013-ae8a02b301a4" />
-  <Project Path="cpp-zero-to-hero.vcxproj" Id="79ccca8a-68fc-47fe-bc81-82d6307c796d" />
-  <Project Path="Function/Function.vcxproj" Id="1b281b94-dd6a-46c6-9019-5562c0c0cb32" />
-  <Project Path="Loop/Loop.vcxproj" Id="5f205808-48a6-4321-bb91-542d5718fbe8" />
-  <Project Path="String/String.vcxproj" Id="fa2798df-4558-4bf2-b250-35ca513ed627" />
+  <Project Path="../StopWatch/StopWatch/StopWatch.vcxproj" Id="510b0778-56f6-4370-b75c-780348bd541a" />
+  <Project Path="Fraction/Fraction.vcxproj" Id="94dcda23-d020-446e-a1b7-5d57c003c6ee" />
+  <Project Path="Password/Password.vcxproj" Id="38cacd40-5224-4e85-a0ab-b819d033cb77" />
+  <Project Path="ReadNumber/ReadNumber.vcxproj" Id="a7366fb2-ab18-41a9-a6c2-75f579f4deba" />
 </Solution>
