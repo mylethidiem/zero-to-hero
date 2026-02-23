@@ -20,7 +20,7 @@ void InputPassword() {
     ch = _getch();
      if (ch == 13) //ASCII of Enter
      {
-     	std::cout << "Finish! " << std::endl;
+     	std::cout << "\nFinish! " << std::endl;
      	break;
      }
      else

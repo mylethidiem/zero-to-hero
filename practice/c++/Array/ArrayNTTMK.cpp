@@ -6,6 +6,7 @@
  * ALMOST 192 EXERCISES
  */
 // KỸ THUẬT NHẬP XUẤT MẢNG & * KỸ THUẬT ĐẶT LÍNH CANH CÁC BÀI TẬP CƠ BẢN
+// Từ sách của Thầy Nguyễn Tấn Trần Minh Khang
 void InputArray(int a[], int n) {
   do {
     std::cout << "Input the number element: ";

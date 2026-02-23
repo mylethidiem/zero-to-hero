@@ -4,17 +4,15 @@
 #include <limits>
 
 struct Fraction {
-  int numerator = 0;
-  int denominator = 0;
+  int numerator = 0; // tử số
+  int denominator = 0; // mẫu số
 };
 
 int UCLN(int a, int b) {
   int min = (a > b) ? a : b;
   int max = (a < b) ? a : b;
 
-  if (max == min) {
-    return max;
-  } else if (max % min == 0) {
+  if (max == min || max % min == 0) {
     return min;
   } else {
     int i = min / 2;
@@ -27,7 +25,7 @@ int UCLN(int a, int b) {
   return 1;
 }
 
-void Compact(Fraction &f) {
+void Compact(Fraction &f) { // Rút gọn
   int ucln = UCLN(f.numerator, f.denominator);
   f.numerator /= ucln;
   f.denominator /= ucln;
@@ -71,7 +69,7 @@ void InputFractions(Fraction &f) {
   do {
     std::cout << "Input the numerator: ";
     std::cin >> f.numerator;
-    std::cout << "" << std::endl;
+    std::cout << "";
     std::cout << "Input the demoninator: ";
     std::cin >> f.denominator;
   } while (f.numerator < 0 && f.denominator <= 0);
@@ -84,23 +82,26 @@ void ShowFraction(Fraction f) {
 
 void ActionFractions(Fraction &f1, Fraction &f2) {
   Fraction result;
+  std::cout << "Input 1st fraction: \n";
   InputFractions(f1);
+
+  std::cout << "\nInput 2nd fraction: \n";
   InputFractions(f2);
 
   result = Sum(f1, f2);
-  std::cout << "Sum of 2 fractions: " << std::endl;
+  std::cout << "\nSum of 2 fractions: " << std::endl;
   ShowFraction(result);
 
   result = Subtract(f1, f2);
-  std::cout << "Subtract of 2 fractions: " << std::endl;
+  std::cout << "\nSubtract of 2 fractions: " << std::endl;
   ShowFraction(result);
 
   result = Multiply(f1, f2);
-  std::cout << "Multiply of 2 fractions: " << std::endl;
+  std::cout << "\nMultiply of 2 fractions: " << std::endl;
   ShowFraction(result);
 
   result = Divide(f1, f2);
-  std::cout << "Divide of 2 fractions: " << std::endl;
+  std::cout << "\nDivide of 2 fractions: " << std::endl;
   ShowFraction(result);
 }
 
