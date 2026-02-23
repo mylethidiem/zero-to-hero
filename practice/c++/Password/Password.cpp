@@ -3,8 +3,7 @@
 #include <iostream>
 
 
-// Input the password, after input each character, the character will display
-// "*".
+//
 void InputPassword() {
   std::string username = "";
   char password[10] = "";
@@ -13,22 +12,28 @@ void InputPassword() {
   std::cin >> username;
   std::cout << "" << std::endl;
 
-  // std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+  std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
   std::cout << "Input the password (9 letters): ";
   int count = 0;
+  char ch;
   do {
-    password[count] = _getch();
-    _putch('*');
-    // if (std::cin.get() == '\n')
-    // {
-    // 	std::cout << "Finish! " << std::endl;
-    // 	break;
-    // }
+    ch = _getch();
+     if (ch == 13) //ASCII of Enter
+     {
+     	std::cout << "Finish! " << std::endl;
+     	break;
+     }
+     else
+     {
+         password[count] = ch;
+         _putch('*');
+         count++;
+     }
 
-    count++;
   } while (count < 9);
-  std::cout << "\n Show the password: " << password << std::endl;
-  getchar();
+  password[count] = '\0';
+  std::cout << "\nShow the password: " << password << std::endl;
+  _getch();
 }
 
 int main()
@@ -37,6 +42,6 @@ int main()
   /*
    * Input password
    */
-  // InputPassword();
+  InputPassword();
   return 0;
 }
