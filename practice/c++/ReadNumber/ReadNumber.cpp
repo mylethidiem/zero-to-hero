@@ -488,7 +488,6 @@ bool NumberHelper::isHappy(int n)
         {
             int digit = n % 10;
             sum += digit * digit;
-            digit = n % 10;
             n /= 10;
         }
         n = sum;
@@ -507,7 +506,7 @@ int main()
         std::cout << "\n=========================================\n";
         std::cout << "Press any key to continue or ESC to exit." << std::endl;
         int key = _getch();
-        if (key == 27) {
+        if (key == 27) { // ESC
             break;
         }
         else

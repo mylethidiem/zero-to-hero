@@ -12,7 +12,7 @@ void InputPassword() {
   std::cin >> username;
   std::cout << "" << std::endl;
 
-  std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+  std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');//dọn sạch bộ đệm (buffer) của bàn phím trong C++
   std::cout << "Input the password (9 letters): ";
   int count = 0;
   char ch;
