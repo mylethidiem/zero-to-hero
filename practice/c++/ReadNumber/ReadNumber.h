@@ -8,7 +8,10 @@ class NumberHelper
 public:
 	NumberHelper();
 	int InputNumberBelow10Digit();
+	long long int InputNumber();
 	void ReadNumber(int number);
+	std::string ReadNumberAdvance(long long int number);
+	std::string readThreeDigitsEN(int n);
 
 	/*
  * Check Number Type

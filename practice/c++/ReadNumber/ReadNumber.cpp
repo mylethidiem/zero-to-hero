@@ -1,6 +1,8 @@
 #include <cmath>
 #include <conio.h>
+#include <string>
 #include <iostream>
+#include <limits>
 #include <unordered_set>
 #include "ReadNumber.h"
 
@@ -178,6 +180,44 @@ void NumberHelper::showNumberFourToNineDigit(int number) {
     }
 }
 
+std::string NumberHelper::readThreeDigitsEN(int n)
+{
+    std::string below_20[] = { "", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten",
+                     "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen" };
+    std::string tens[] = { "", "", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety" };
+
+    //123 => One Hudred Twenty-Three
+    // 12 => Twelve
+    // 1 => One
+    // 109 => One Hundred Nine
+
+    std::string read = "";
+
+    if (n >= 100)
+    {
+        read = below_20[n / 100] + " Hundred";
+        n %= 100;
+    }
+    
+    if (n >= 20)
+    {
+        if (!read.empty())
+            read += " ";
+        read += tens[n / 10] + "-";
+
+        n %= 10;
+    }
+    
+    
+	if (!read.empty() && read.back() != '-')
+		read += " ";
+	read += below_20[n];
+    
+    
+
+    return read;
+}
+
 int NumberHelper::GetNumberDigit(int number)
 {
     return (int)(log10(number) + 1);
@@ -207,6 +247,39 @@ void NumberHelper::ReadNumber(int number) {
     std::cout << "" << std::endl;
 }
 
+std::string NumberHelper::ReadNumberAdvance(long long int number)
+{
+    
+    //0
+    if (number == 0)
+        return "Zero";
+    std::string read = "";
+    if (number < 0)
+        read += "Negative";
+    // 123 456 789
+    std::string thousands[] = { "", "Thousand", "Million", "Billion", "Trillion", "Quadrillion", "Quintillion" };
+
+    std::vector<int> groups; // 789 456 123 "" Thousand Million
+    
+    long long temp = number;
+
+    while (temp != 0)
+    {
+        groups.push_back(temp % 1000);
+        temp /= 1000;
+    }
+    
+    for (int i = groups.size() - 1; i >= 0; i--)
+    {
+        if (!read.empty())
+            read += " ";
+        read += readThreeDigitsEN(groups[i]) + " " + thousands[i];
+    }
+
+    return read;
+
+}
+
 NumberHelper::NumberHelper() {
 
 }
@@ -226,6 +299,36 @@ int NumberHelper::InputNumberBelow10Digit()
         }
     } while (number < 0 && digit > 9);
     return number;
+}
+
+long long int NumberHelper::InputNumber()
+{
+    std::string input;//viec nhap vào string sẽ giúp dọn sạch bố nhớ đệm sau mỗi lần nhập
+    long long int number;
+    do {
+        try
+        {
+            std::cout << "Input the number to read: ";
+            std::cin >> input;
+
+            size_t pos;
+            pos = std::stoll(input); // ném lỗi nếu chuỗi không phải là số hoặc quá lớn
+
+            //check strange character
+            if (pos != input.length()) throw std::invalid_argument("Strange character!");
+
+            return number;
+        }
+        catch (const std::out_of_range& e)
+        {
+            std::cout << "Error: Number is too large for long long int!" << std::endl;
+        }
+        catch (const std::invalid_argument& e)
+        {
+            std::cout << "Error: Invalid input! Please enter digits only." << std::endl;
+        }
+    } while (true);
+    return 0;
 }
 
 /*
@@ -513,7 +616,11 @@ int main()
         {
             int number = numberHelper.InputNumberBelow10Digit();
             numberHelper.ReadNumber(number);
+            printf("\ncheck\n");
+            //printf(numberHelper.readThreeDigitsEN(number).c_str());
+            printf(numberHelper.ReadNumberAdvance(number).c_str());
 
+            printf("\ncheck\n");
             std::cout << "isSymmetricalNumber: " << numberHelper.isSymmetricalNumber(number) << " " << std::endl;
             std::cout << "isSquareNumber: " << numberHelper.isSquareNumber(number) << " " << std::endl;
             std::cout << "isPerfect: " << numberHelper.isPerfect(number) << " " << std::endl;
