@@ -9,4 +9,5 @@
   <Project Path="Password/Password.vcxproj" Id="38cacd40-5224-4e85-a0ab-b819d033cb77" />
   <Project Path="ReadNumber/ReadNumber.vcxproj" Id="a7366fb2-ab18-41a9-a6c2-75f579f4deba" />
   <Project Path="StopWatch/StopWatch.vcxproj" Id="cde49b83-27bc-44c7-855e-646d7907c920" />
+  <Project Path="VeTamGiac/VeTamGiac.vcxproj" Id="40ed1540-f910-4e3e-879d-ce72a84a627c" />
 </Solution>
