@@ -1,6 +1,7 @@
 #include <iostream>
+#define MAX 30
 // CÁC BÀI TẬP TÌM KIẾM VÀ LIỆT KÊ
-void InputArray(int arr[], int n) {
+void InputArray(int a[], int n) {
   int i = 0;
   for (; i < n; i++) {
     std::cout << "\n Input numer: ";
@@ -8,14 +9,14 @@ void InputArray(int arr[], int n) {
   }
 }
 
-void OutputArray(float arr[], int n) {
+void OutputArray(float a[], int n) {
   int i = 0;
   for (; i < n; i++) {
     std::cout << " " << a[i];
   }
 }
 
-void InputArray(float arr[], int n) {
+void InputArray(float a[], int n) {
   int i = 0;
   for (; i < n; i++) {
     std::cout << "\n Input numer: ";
@@ -23,7 +24,7 @@ void InputArray(float arr[], int n) {
   }
 }
 
-void OutputArray(float arr[], int n) {
+void OutputArray(float a[], int n) {
   int i = 0;
   for (; i < n; i++) {
     std::cout << " " << a[i];
@@ -34,9 +35,10 @@ void OutputArray(float arr[], int n) {
 // ex.1 Sort the positive numbers in the array of float number ascending
 void Swap(float &a, float &b) {
   a = a - b;
-  b = a + b a = b - a;
+  b = a + b;
+  a = b - a;
 }
-void SortPositiveNumbersAscending(float arr[], int n) {
+void SortPositiveNumbersAscending(float a[], int n) {
   int i = 0, j = 0;
   for (; i < n - 1; i++) {
     if (a[i] <= 0) {
@@ -54,7 +56,7 @@ void SortPositiveNumbersAscending(float arr[], int n) {
 }
 // ex.2 Sort the positive numbers ascending, the negative numbers descending in
 // float array
-void SortNegativeNumbersDescending(float arr[], int n) {
+void SortNegativeNumbersDescending(float a[], int n) {
   int i = 0, j = 0;
   for (; i < n - 1; i++) {
     if (a[i] >= 0) {
@@ -82,7 +84,7 @@ void Swap(int &a, int &b) {
   b = a + b;
   a = b - a;
 }
-void SortEvenNumbersAscending(int arr[], int n) {
+void SortEvenNumbersAscending(int a[], int n) {
   int i = 0, j = 0;
   for (; i < n - 1; i++) {
     if (a[i] % 2 != 0) {
@@ -93,13 +95,13 @@ void SortEvenNumbersAscending(int arr[], int n) {
         continue;
       }
       if (a[i] > a[j]) {
-        Swap(a, b);
+         Swap(a[i], a[j]);
       }
     }
   }
 }
 
-void SortOddNumbersAscending(int arr[], int n) {
+void SortOddNumbersAscending(int a[], int n) {
   int i = 0, j = 0;
   for (; i < n; i++) {
     if (a[i] % 2 == 0) {
@@ -110,7 +112,7 @@ void SortOddNumbersAscending(int arr[], int n) {
         continue;
       }
       if (a[i] > a[j]) {
-        Swap(a, b);
+        Swap(a[i], a[j]);
       }
     }
   }
@@ -122,18 +124,18 @@ void SordEvenOddNumbersEx3(int arr[], int n) {
 }
 
 // 176 List all negative in float array
-void ListNegativeNumbers(float arr[], int n) {
+void ListNegativeNumbers(float a[], int n) {
   int i = 0;
   for (; i < n; i++) {
-                if (a]i] < 0)
-		{
-                  std::cout << " " << a[i];
-                }
+	  if (a[i] < 0)
+	  {
+		  std::cout << " " << a[i];
+	  }
   }
 }
 
 // 177 List values in float array [x,y]
-void ValueXY(float arr[], int n, float x, float y) {
+void ValueXY(float a[], int n, float x, float y) {
   int i = 0;
   if (x < y || x >= n || y >= n) {
     std::cout << "Invalid value x, y, n" << std::endl;
@@ -146,7 +148,7 @@ void ValueXY(float arr[], int n, float x, float y) {
 }
 
 // 178 List even values in [x,y] integer
-void ListEvenValuesXY(int arr[], int n, int x, int y) {
+void ListEvenValuesXY(int a[], int n, int x, int y) {
   int i = 0;
   if (x < y || x >= n || y >= n) {
     std::cout << "Invalid value x, y, n" << std::endl;
@@ -161,7 +163,7 @@ void ListEvenValuesXY(int arr[], int n, int x, int y) {
 
 // 179 List value satify condition: greater than the absolute value of
 // the value immediately following it
-void ListValue179(int arr[], int n) {
+void ListValue179(int a[], int n) {
   int i = 0;
   for (; i < n - 1; i++) {
     if (a[i] > a[i + 1]) {
@@ -173,7 +175,7 @@ void ListValue179(int arr[], int n) {
 // 180 List value satify condition: lower than the absolute value of
 // the  value immediately following it and greater than value immediately
 // preceding it
-void ListValue180(int arr[], int n) {
+void ListValue180(int a[], int n) {
   int i = 0;
   for (i = 1; i < n - 1; i++) {
     if (a[i] > a[i - 1] && a[i] < a[i + 1]) {
@@ -182,7 +184,7 @@ void ListValue180(int arr[], int n) {
   }
 }
 // 181 List even value having at least 1 value beside is even number
-void ListValue181(int arr[], int n) {
+void ListValue181(int a[], int n) {
   int i = 0;
   for (; i < n; i++) {
     if (i == 0) {
@@ -202,7 +204,7 @@ void ListValue181(int arr[], int n) {
 }
 // 182 List all values in array that having at least 1 neighbor value with
 // opposite sign
-void ListValues182(int arr[], int n) {
+void ListValues182(int a[], int n) {
   int i = 0;
   for (; i < n; i++) {
     if (i == n - 1) {
@@ -221,7 +223,7 @@ void ListValues182(int arr[], int n) {
   }
 }
 // 183 List position that value at position is max value in float array
-int MaxValue(float arr[], int n) {
+int MaxValue(float a[], int n) {
   int i = 0;
   float max = a[0];
   for (; i < n; i++) {
@@ -249,7 +251,7 @@ bool isPrimeNumber(int n) {
   if (n == 2 || n == 3) {
     return true;
   }
-  i = 3;
+  int i = 3;
   for (; i < (int)sqrt((double)n); i++) {
     if (n % i == 0) {
       return false;
@@ -289,13 +291,13 @@ float FirstNegativeNumber(float arr[], int n) {
   int i = 0;
   for (; i < n; i++) {
     if (arr[i] < 0) {
-      return arr[i]'
+        return arr[i];
     }
   }
   return 0;
 }
 
-void ListPositionEqualFirstNegativeNumber(int arr[], int n) {
+void ListPositionEqualFirstNegativeNumber(float arr[], int n) {
   float firstNegativeNumber = FirstNegativeNumber(arr, n);
   if (firstNegativeNumber == 0) {
     std::cout << "There are no negative Number" << std::endl;
@@ -332,7 +334,7 @@ void ListPositionEqualMinValue(float arr[], int n) {
 // 188 List max even position in integer array
 void ListMaxEvenPosition(int arr[], int n) {
   int i = n - 1;
-  for (; i > = 0; i--) {
+  for (; i >= 0; i--) {
     if (i % 2 == 0) {
       std::cout << " " << i;
     }
@@ -376,7 +378,7 @@ void ListValueAllDigitsOddNumber(int arr[], int n) {
 void ListMaximaValue(float arr[], int n) {
   int i = 1;
   for (; i < n - 1; i++) {
-    if (a[i] > a[i + 1] && a[i] > a[i - 1]) {
+    if (arr[i] > arr[i + 1] && arr[i] > arr[i - 1]) {
       std::cout << " " << arr[i];
     }
   }
@@ -385,15 +387,15 @@ void ListMaximaValue(float arr[], int n) {
 bool isFirstDigitEvenNumber(int arr[], int n) {
   int numberOfDigit = (int)log10((double)n) + 1;
   int firstDigit;
-  firstDigit =
-      n / (int)pow(10, (double)(numberOfDigit - 1)) return (firstDigit % 2 == 0)
+  firstDigit =  n / (int)pow(10, (double)(numberOfDigit - 1));
+  return (firstDigit % 2 == 0)
           ? true
           : false;
 }
 void ListValueFirstDigitEven(int arr[], int n) {
   int i = 0;
   for (; i < n; i++) {
-    if (isFirstDigitEvenNumber(arr[i]) == true) {
+    if (isFirstDigitEvenNumber(arr, n) == true) {
       std::cout << " " << arr[i];
     }
   }
@@ -412,7 +414,7 @@ bool is3PowkForm(int n) {
 void ListValue3Powk(int arr[], int n) {
   int i = 0;
   for (; i < n; i++) {
-    if (is3PowkFor(arr[i]) == true) {
+    if (is3PowkForm(arr[i]) == true) {
       std::cout << " " << arr[i];
     }
   }
@@ -479,7 +481,7 @@ int LinearSentinel(int arr[], int n, int x) {
   }
 }
 // 2. Tìm kiếm nhị phân với dãy A đã đc sắp xếp
-int BinarySearch(int arr[], int n) {
+int BinarySearch(int a[], int n, int x) {
   int l = 0, r = n - 1, m = (l + r) / 2;
   while (l <= r) {
     if (a[m] == x) {
