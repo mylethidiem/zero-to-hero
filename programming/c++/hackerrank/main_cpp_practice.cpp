@@ -3,6 +3,8 @@
 #include <iostream>
 #include "Windows.h"
 #include <string>
+#include <algorithm>
+#include <set>
 
 using namespace std;
 /*
@@ -549,7 +551,7 @@ using namespace std;
 class Box
 {
 public:
-    Box() : l(0), b(0), h(0) {}
+    Box() : l(0), b(0), h(0) {} //default contructor initialize data members to 0
     Box(int length, int breadth, int height) {
         l = length;
         b = breadth;
@@ -692,74 +694,491 @@ void BoxIt()
 //q15 Vector-Sort
 void VectorSort()
 {
-
+    int n;
+    std::cin >> n;
+    std::vector<int> v;
+    for (int i = 0; i < n; i++)
+    {
+        int e;
+        std::cin >> e;
+        v.push_back(e);
+    }
+    std::sort(v.begin(), v.end());
+    for (int i = 0; i < n - 1; i++)
+    {
+        std::cout << v[i] << " ";
+    }
+    std::cout << v[n - 1];
 }
 
 //q16 Vector-Erase
+//Sample Input
+//
+//6
+//1 4 6 2 8 9
+//2
+//2 4
+//Sample Output
+//
+//3
+//1 8 9
 void VectorErase()
 {
+    int n;
+    std::cin >> n;
+    std::vector<int> v;
+    for (int i = 0; i < n; i++)
+    {
+        int e;
+        std::cin >> e;
+        v.push_back(e);
+    }
+    int pos;
+    std::cin >> pos;
+    if (pos <= v.size())
+        v.erase(v.begin() + pos-1);
 
+    int start, end;
+    std::cin >> start >> end;
+    
+    v.erase(v.begin() + start - 1, v.begin() + end - 1);
+    std::cout << v.size() << std::endl;
+
+    if (!v.empty())
+    {
+        for (int i = 0; i < v.size(); i++)
+        {
+            std::cout << v[i] << (i == v.size() - 1 ? "" : " ");
+        }
+    }
 }
 
 //q17 Lower Bound-STL
 void LowerBoundSTL()
 {
+    int n;
+    std::cin >> n;
+    std::vector<int> v(n);
+    for (int i = 0; i < n; i++)
+    {
+        std::cin >> v[i];
+    }
+    std::sort(v.begin(), v.end());
+
+    int q;
+    std::cin >> q;
+
+    while(q--)
+    {
+        std::vector<int>::iterator low;
+        int val;
+        std::cin >> val;
+        low = std::lower_bound(v.begin(), v.end(), val); //binary search Ologn
+        if (low != v.end() && *low == val)
+        {
+            std::cout << "Yes" << " ";
+        }
+        else
+        {
+            std::cout << "No" << " ";
+        }
+        std::cout << low - v.begin() + 1 << std::endl;
+    }
 
 }
 
 //q18 Sets-STL
 void SetsSTL()
 {
+    int q;
+    std::cin >> q;
+    std::set<int> s;
+
+    while (q--)
+    {
+        int u;
+        std::cin >> u;
+        int val;
+        std::cin >> val;
+        if (u == 1) // add element
+        {
+            s.insert(val);
+        }
+        else if (u == 2)
+        {
+            s.erase(val);// for vector val is a postion
+        }
+        else if (u == 3)
+        {
+            std::set<int>::iterator it = s.find(val);
+            if (it != s.end())
+            {
+                std::cout << "Yes" << std::endl;
+            }
+            else
+            {
+                std::cout << "No" << std::endl;
+            }
+        }
+        else
+        {
+            //std::cout << "Not a query type (value = 1,2,3)";
+        }
+    }
+
 
 }
 
 
 //q19 Maps-STL
+#include <map>
 void MapsSTL()
 {
+    std::map<std::string, int> m1;
+    int length = m1.size();
+    m1.insert(std::make_pair("hello", 9));
+
+    int q;
+    std::cin >> q;
+    std::map<std::string, int> m;
+    while (q--)
+    {
+        int t;
+        std::cin >> t;
+        std::string name;
+        std::cin >> name;
+        std::map<std::string, int>::iterator it_find = m.find(name);
+        if (t == 1)
+        {
+            int mark;
+            std::cin >> mark;
+            if (it_find != m.end())
+            {
+                it_find->second += mark;
+            }
+            else
+            { 
+                m.insert(std::make_pair(name, mark));
+            }
+        }
+        else if (t == 2)
+        {
+            m.erase(name);
+        }
+        else  if (t == 3) {
+            //show mark
+            if (it_find != m.end())
+            {
+                std::cout << it_find->second << std::endl;
+            }
+            else
+            {
+                std::cout << 0 << std::endl;
+            }
+            
+            
+        }
+    }
 
 }
 
 //q20 Print Pretty
+/*Sample Input
+
+1
+100.345 2006.008 2331.41592653498
+Sample Output
+
+0x64
+_______ + 2006.01
+2.331415927E+03*/
+
+#include <iomanip>
 void PrintPretty()
 {
+    int T; cin >> T;
+    cout << setiosflags(ios::uppercase);
+    cout << setw(0xf) << internal;
+    while (T--) {
+        double A; cin >> A; //hexadecimal
+        double B; cin >> B;
+        double C; cin >> C;//scientific 
+ 
+        //  HEX:
+        // showbase: add 0x prefix, (long long) A: trip decimal, nouppercase: lowercase
+        cout << left << hex << showbase << nouppercase << (long long)A << endl;
 
+        // PADDED FIXED
+        // showpos: the sign (+, -), setprecision and fixed:force to show decimals
+        // We use 'right' and 'setw(15)' with 'setfill'
+        cout << right << setw(15) << setfill('_') << showpos << fixed << setprecision(2) << B << endl;
+
+        //  SCIENTIFIC
+        // scientific: 1234.56 becomes 1.234560e+03.
+        // Important: noshowpos resets the '+' from the previous line
+        cout << scientific << uppercase << setprecision(9) << noshowpos << C << endl;
+    }
 }
-
 //q21 Inheritance Introduction
+
+class Triangle {
+public:
+    void triangle() {
+        cout << "I am a triangle\n";
+    }
+};
+
+class Isosceles : public Triangle {
+public:
+    void isosceles() {
+        cout << "I am an isosceles triangle\n";
+    }
+    //Write your code here.
+    void description() {
+        cout << "In an isosceles triangle two sides are equal\n";
+    }
+};
+
+
 void InheritanceIntroduction()
 {
-
+    Isosceles isc;
+    isc.isosceles();
+    isc.description();
+    isc.triangle();
 }
 
 //q22 Rectangle Area
-void RectangleArea()
+class Rectangle
 {
+protected:
+    int m_width, m_height;
+public:
+    virtual void display() {
+        cout << m_width << " " << m_height << endl;
+    }
+};
 
+class RectangleArea : public Rectangle
+{
+public:
+    void read_input() {
+        std::cin >> m_width >> m_height;
+    }
+    void display() override {
+        std::cout << m_width * m_height << endl;
+    }
+};
+
+void RectangleAreaf()
+{
+    /*
+     * Declare a RectangleArea object
+     */
+    RectangleArea r_area;
+
+    /*
+     * Read the width and height
+     */
+    r_area.read_input();
+
+    /*
+     * Print the width and height
+     */
+    r_area.Rectangle::display();
+
+    /*
+     * Print the area
+     */
+    r_area.display();
 }
 
 //q23 Multi Level Inheritance
+class Triangle1 {
+public:
+    void triangle() {
+        cout << "I am a triangle\n";
+    }
+};
+
+class Isosceles1 : public Triangle1 {
+public:
+    void isosceles() {
+        cout << "I am an isosceles triangle\n";
+    }
+};
+
+//Write your code here.
+class Equilateral : public Isosceles1 {
+public:
+    void equilateral() {
+        cout << "I am an equilateral triangle\n";
+    }
+};
+
 void MultiLevelInheritance()
 {
-
+    Equilateral eqr;
+    eqr.equilateral();
+    eqr.isosceles();
+    eqr.triangle();
 }
 
 //q24 C++ Class Templates
+#include <cassert>
+
+template <class T>
+class AddElements
+{
+    T m_element;
+public:
+    AddElements(T element) { m_element = element; }
+    T add(T element) {
+        return (m_element + element);
+    }
+
+    T concatenate(T element) {
+        return (m_element + element);
+    }
+};
+
 void CClassTemplates()
 {
-
+    int n, i;
+    cin >> n;
+    for (i = 0; i < n; i++) {
+        string type;
+        cin >> type;
+        if (type == "float") {
+            double element1, element2;
+            cin >> element1 >> element2;
+            AddElements<double> myfloat(element1);
+            cout << myfloat.add(element2) << endl;
+        }
+        else if (type == "int") {
+            int element1, element2;
+            cin >> element1 >> element2;
+            AddElements<int> myint(element1);
+            cout << myint.add(element2) << endl;
+        }
+        else if (type == "string") {
+            string element1, element2;
+            cin >> element1 >> element2;
+            AddElements<string> mystring(element1);
+            cout << mystring.concatenate(element2) << endl;
+        }
+    }
 }
 
 //q25 Preprocessor Solution
+#define INF 1000000000
+#define FUNCTION(name, op) \
+void name(int &current, int candidate) { \
+    if (candidate op current) current = candidate; \
+}
+
+#define toStr(x) #x
+#define io(v) std::cin >> v
+#define foreach(v, i) for (int i = 0; i < v.size(); ++i)
+
+#if !defined toStr || !defined io || !defined FUNCTION || !defined INF
+#error Missing preprocessor definitions
+#endif 
+
+FUNCTION(minimum, < )
+FUNCTION(maximum, > )
+
 void PreprocessorSolution()
 {
+    int n; cin >> n;
+    vector<int> v(n);
+    foreach(v, i) {
+        io(v)[i];
+    }
+    int mn = INF;
+    int mx = -INF;
+    foreach(v, i) {
+        minimum(mn, v[i]);
+        maximum(mx, v[i]);
 
+        /*cout << mx << endl;
+        cout << mn << endl;
+        cout << v[i] << endl;
+        cout << v.size() << endl;*/
+
+    }
+    
+    int ans = mx - mn;
+    cout << toStr(Result = ) << ' ' << ans;
 }
 
 //q26 Overload Operators
+class Complex
+{
+public:
+    int a, b;
+    void input(string s)
+    {
+        int v1 = 0;
+        int i = 0;
+        while (s[i] != '+')
+        {   
+/*            size_t pos = s.find('+');
+            if (pos != string::npos) {
+                int v1 = std::stoi(s.substr(0, pos)); // Cut from index 0, 3 characters -> "123" -> 123
+                a = v1;
+            }*/
+
+            //convert char to number: s[i] - '0', xu ly nhanh thuong dung cho lap trinh nhung, ung dung can toc do
+            v1 = v1 * 10 + s[i] - '0';
+            i++;
+        }
+        while (s[i] == ' ' || s[i] == '+' || s[i] == 'i')
+        {
+            i++;
+        }
+        int v2 = 0;
+        while (i < s.length())
+        {
+            v2 = v2 * 10 + s[i] - '0';
+            i++;
+        }
+        a = v1;
+        b = v2;
+    }
+};
+
+Complex operator+(const Complex c1, const Complex c2)
+{
+    Complex result;
+    result.a = c1.a + c2.a;
+    result.b = c1.b + c2.b;
+   /* cout << c1.a << " and " << c1.b << endl;
+    cout << c2.a << " and " << c2.b << endl;
+    cout << result.a << " and " << result.b << endl;*/
+    return result;
+}
+//Friend function allows access to private/protected members if needed
+ostream& operator<<(ostream& out, const Complex& c)
+{
+    out << c.a << "+i" << c.b;
+    return out;
+}
+
+//Overload operators + and << for the class complex
+//+ should add two complex numbers as (a+ib) + (c+id) = (a+c) + i(b+d)
+//<< should print a complex number in the format "a+ib"
+
 void OverloadOperators()
 {
-
+    Complex x, y;
+    string s1, s2;
+    cin >> s1;
+    cin >> s2;
+    x.input(s1);
+    y.input(s2);
+    Complex z = x + y;
+    cout << z << endl;
 }
 
 
@@ -768,7 +1187,14 @@ int main() {
     //Strings();
     //ClassesStructs();
    // Class();
-    ClassesAndObjects();
+    //ClassesAndObjects();
+    //VectorSort();
+    //VectorErase();
+    //LowerBoundSTL();
+    //SetsSTL();
+    //MapsSTL();
+    //PreprocessorSolution();
+    OverloadOperators();
     return 0;
 }
 
