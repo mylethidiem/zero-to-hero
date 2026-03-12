@@ -7,6 +7,8 @@
   <Project Path="Fraction/Fraction.vcxproj" Id="94dcda23-d020-446e-a1b7-5d57c003c6ee" />
   <Project Path="Function/Function.vcxproj" Id="3186c353-7d15-460b-aad1-dcff91d88e4f" />
   <Project Path="Hackerrank/Hackerrank.vcxproj" Id="f2602299-e883-43b9-8dc9-1092e5487b2c" />
+  <Project Path="HackerrankCppHard/HackerrankCppHard.vcxproj" Id="6c567a8b-8f30-47c0-bdf6-b749741794e7" />
+  <Project Path="HackerrankCppMedium/HackerrankCppMedium.vcxproj" Id="58650d86-7d14-4ba4-81ff-4e0f4e10a967" />
   <Project Path="Password/Password.vcxproj" Id="38cacd40-5224-4e85-a0ab-b819d033cb77" />
   <Project Path="ReadNumber/ReadNumber.vcxproj" Id="a7366fb2-ab18-41a9-a6c2-75f579f4deba" />
   <Project Path="StopWatch/StopWatch.vcxproj" Id="cde49b83-27bc-44c7-855e-646d7907c920" />

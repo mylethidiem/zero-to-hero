@@ -42,7 +42,7 @@ HelloWorld
 
 using namespace std;
 
-int x() {
+int cach1() {
     int n, q;
 
     cin >> n >> q;
@@ -116,5 +116,183 @@ int x() {
         }
     }
 
+    return 0;
+}
+int cach2()// dung 1 case
+{
+
+    int n, q;
+    cin >> n >> q;
+    
+    //input val into the map
+    std::map <string, string> hrml;
+    cin.ignore();
+    string current = "";
+    
+    while(n--)
+    {
+        std::string s;
+
+        getline(cin, s);
+    
+        //for each line
+        int j = 0;
+        
+        if (s[j] == '<' && s[j+1] != '/')
+        {
+            j++;
+            if (!current.empty())
+            {
+                current += '.';
+            }
+            while(s[j] != ' ')
+            {
+                current += s[j];
+                
+                j++;
+            } //tag
+            //cout << "tag" << current << endl;
+            //attribute
+            j++;
+            while(s[j] != '>')
+            {
+                //cout << "check2" << endl;
+                string path = current + '~';
+                while (s[j] != ' ' && s[j] != '=')
+                {
+                    
+                    path += s[j];
+                    j++;
+                }
+                //cout << "path: "<< path << endl;
+                if (s[j] == ' ')//problem here
+                {
+                    j += 4;
+                }
+                if (s[j] == '=')
+                {
+                    j += 2;
+                }
+                //val of map
+                string val = "";
+                while(s[j] != '"')
+                {
+                    //cout << "check4" << endl;
+                    val += s[j];
+                    j++;
+                }//done val
+                //cout << "val: " << val << endl;
+                //add map
+                hrml[path] = val;
+                
+                j++;
+                
+            }
+        }
+    }
+    int i = 0;
+    std::map<string, string>::iterator it = hrml.begin();
+    for (; it != hrml.end(); it++)
+    {
+        std::cout << it->first << endl;
+        std::cout << it->second << endl;
+    }
+    for(;i< q; i++)//for each query
+    {
+        string query;
+        getline(cin, query);
+        //std::cout << "query = " << query << endl;
+        std::map<string, string>::iterator it = hrml.find(query);
+        if (it != hrml.end())
+        {
+            std::cout << it->second <<endl;
+            
+        }
+        else {
+            cout << "Not Found!" <<endl;
+        }
+    }
+    return 0;
+}
+int c3()
+{
+    int n, q;
+    cin >> n >> q;
+    cin.ignore();
+
+    string tag = "";
+    map<string, string> hrml;
+    while (n--)
+    {
+        int j = 1; // default 0 char is '<'
+        string s;
+        getline(cin, s);
+        if (s[j] == '/')
+        {
+            n--;
+            continue;
+        }
+        if (!tag.empty())
+        {
+            tag += '.';
+        }
+
+        while (s[j] != ' ')
+        {
+            tag += s[j];
+            j++;
+        }
+        j++;
+
+        string currentPath = tag;
+        while (s[j] != '>')
+        {
+            currentPath += '~';
+
+            while (s[j] != ' ' && s[j] != '=')
+            {
+                currentPath += s[j];
+                j++;
+            }
+            if (s[j] == ' ')
+            {
+                j += 4;
+            }
+            if (s[j] == '=')
+            {
+                j += 2;
+            }
+
+            string val = "";
+            while (s[j] != '"')
+            {
+                val += s[j];
+                j++;
+            }
+
+            //add map
+            hrml[currentPath] = val;
+        }
+
+        //query
+        while (q--)
+        {
+            string query;
+            cin >> query;
+
+            map<string, string>::iterator it = hrml.find(query);
+            if (it != hrml.end())
+            {
+                cout << it->second << endl;
+            }
+            else {
+                cout << "Not Found!" << endl;
+            }
+        }
+    }
+}
+int main()
+{
+    cach2();
     return 0;
 }
